@@ -1,0 +1,371 @@
+USER               PID  %CPU %MEM      VSZ    RSS   TT  STAT STARTED      TIME COMMAND
+niubi              555   0.2  0.4  4442076  37456   ??  S    12:51下午   1:12.78 /Applications/Tencent Lemon.app/Contents/Library/LoginItems/LemonMonitor.app/Contents/MacOS/LemonMonitor 1023
+niubi            15466   0.0  0.0  4268156    684 s000  S+    7:23下午   0:00.00 ./exec_ps
+niubi            15421   0.0  0.1  4352976   8376   ??  S     7:22下午   0:00.05 /System/Library/Frameworks/CoreServices.framework/Frameworks/Metadata.framework/Versions/A/Support/mdworker_shared -s mdworker -c MDSImporterWorker -m com.apple.mdworker.shared
+niubi            15413   0.0  0.1  4360144   8396   ??  S     7:22下午   0:00.06 /System/Library/Frameworks/CoreServices.framework/Frameworks/Metadata.framework/Versions/A/Support/mdworker_shared -s mdworker -c MDSImporterWorker -m com.apple.mdworker.shared
+niubi            15311   0.0  0.2  4324180  12772   ??  S     7:21下午   0:00.06 /System/Library/Frameworks/CoreServices.framework/Frameworks/Metadata.framework/Versions/A/Support/mdworker_shared -s mdworker -c MDSImporterWorker -m com.apple.mdworker.shared
+niubi            15252   0.0  0.2  4351176  13080   ??  S     7:21下午   0:00.06 /System/Library/Frameworks/CoreServices.framework/Frameworks/Metadata.framework/Versions/A/Support/mdworker_shared -s mdworker -c MDSImporterWorker -m com.apple.mdworker.shared
+niubi            15251   0.0  0.3  4361428  24396   ??  S     7:21下午   0:00.08 /System/Library/Frameworks/CoreServices.framework/Frameworks/Metadata.framework/Versions/A/Support/mdworker_shared -s mdworker -c MDSImporterWorker -m com.apple.mdworker.shared
+niubi            15024   0.0  0.1  4379152   9432   ??  S     7:15下午   0:00.13 /System/Library/PrivateFrameworks/AOSKit.framework/Versions/A/XPCServices/com.apple.iCloudHelper.xpc/Contents/MacOS/com.apple.iCloudHelper
+niubi            14137   0.0  0.3  4368744  25568   ??  S     6:51下午   0:00.19 /System/Library/Frameworks/CoreServices.framework/Frameworks/Metadata.framework/Versions/A/Support/mdworker_shared -s mdworker -c MDSImporterWorker -m com.apple.mdworker.shared
+niubi            14132   0.0  0.2  4351176  13116   ??  S     6:51下午   0:00.06 /System/Library/Frameworks/CoreServices.framework/Frameworks/Metadata.framework/Versions/A/Support/mdworker_shared -s mdworker -c MDSImporterWorker -m com.apple.mdworker.shared
+niubi            14131   0.0  0.2  4360368  14256   ??  S     6:51下午   0:00.12 /System/Library/Frameworks/CoreServices.framework/Frameworks/Metadata.framework/Versions/A/Support/mdworker_shared -s mdworker -c MDSImporterWorker -m com.apple.mdworker.shared
+niubi            14095   0.0  0.2  4358644  16504   ??  S     6:50下午   0:00.32 /System/Library/Frameworks/CoreServices.framework/Frameworks/Metadata.framework/Versions/A/Support/mdworker_shared -s mdworker -c MDSImporterWorker -m com.apple.mdworker.shared
+niubi            13959   0.0  0.0  4315320   3412   ??  Ss    6:45下午   0:00.01 /System/Library/Frameworks/AudioToolbox.framework/XPCServices/com.apple.audio.SandboxHelper.xpc/Contents/MacOS/com.apple.audio.SandboxHelper
+niubi            13958   0.0  0.6  5063576  49980   ??  S     6:45下午   0:03.69 /System/Applications/QuickTime Player.app/Contents/MacOS/QuickTime Player
+niubi            13786   0.0  0.0  4305080   3312   ??  Ss    6:39下午   0:00.01 /System/Library/Frameworks/AudioToolbox.framework/XPCServices/com.apple.audio.SandboxHelper.xpc/Contents/MacOS/com.apple.audio.SandboxHelper
+niubi            13776   0.0  0.2 106112028  19344   ??  Ss    6:39下午   0:00.12 /System/Library/Frameworks/WebKit.framework/Versions/A/XPCServices/com.apple.WebKit.WebContent.xpc/Contents/MacOS/com.apple.WebKit.WebContent
+niubi            13773   0.0  0.2  4873344  15012   ??  Ss    6:39下午   0:00.07 /System/Library/Frameworks/Metal.framework/Versions/A/XPCServices/MTLCompilerService.xpc/Contents/MacOS/MTLCompilerService
+niubi            13771   0.0  0.2 106094780  20616   ??  Ss    6:39下午   0:00.19 /System/Library/Frameworks/WebKit.framework/Versions/A/XPCServices/com.apple.WebKit.WebContent.xpc/Contents/MacOS/com.apple.WebKit.WebContent
+niubi            13627   0.0  4.1 90172644 343240   ??  Ss    6:34下午   2:43.96 /System/Library/Frameworks/WebKit.framework/Versions/A/XPCServices/com.apple.WebKit.WebContent.xpc/Contents/MacOS/com.apple.WebKit.WebContent
+niubi            13625   0.0  0.0  4315320   3372   ??  Ss    6:34下午   0:00.01 /System/Library/Frameworks/AudioToolbox.framework/XPCServices/com.apple.audio.SandboxHelper.xpc/Contents/MacOS/com.apple.audio.SandboxHelper
+niubi            13623   0.0  1.5 89623156 125444   ??  Ss    6:34下午   0:03.99 /System/Library/Frameworks/WebKit.framework/Versions/A/XPCServices/com.apple.WebKit.WebContent.xpc/Contents/MacOS/com.apple.WebKit.WebContent
+niubi            13159   0.0  0.1  4358856  11596   ??  S     6:25下午   0:00.33 /System/Library/Frameworks/CoreServices.framework/Frameworks/Metadata.framework/Versions/A/Support/mdworker_shared -s mdworker -c MDSImporterWorker -m com.apple.mdworker.shared
+niubi            13098   0.0  0.7  5272720  57868   ??  S     6:23下午   0:05.76 /System/Applications/TextEdit.app/Contents/MacOS/TextEdit -psn_0_536707
+niubi            12519   0.0  0.0  4307552   2152   ??  S     6:06下午   0:00.03 /System/Library/CoreServices/ReportCrash agent
+niubi            10183   0.0  0.2  4911408  14052   ??  Ss    5:14下午   0:00.14 /System/Library/Frameworks/Quartz.framework/Versions/A/Frameworks/QuickLookUI.framework/Versions/A/XPCServices/QuickLookUIService.xpc/Contents/MacOS/QuickLookUIService
+niubi            10182   0.0  0.6  5032432  47760   ??  Ss    5:14下午   0:01.72 /System/Library/Frameworks/AppKit.framework/Versions/C/XPCServices/com.apple.appkit.xpc.openAndSavePanelService.xpc/Contents/MacOS/com.apple.appkit.xpc.openAndSavePanelService
+root              9390   0.0  0.2  4393648  14416   ??  Ss    4:46下午   3:12.16 /usr/sbin/bluetoothaudiod
+_driverkit        9301   0.0  0.0  4805360   1640   ??  Ss    4:42下午   0:05.68 /System/Library/DriverExtensions/AppleUserHIDDrivers.dext/AppleUserHIDDrivers com.apple.driverkit.AppleUserHIDEventDriver 0x100022a42
+niubi             8322   0.0  0.0  4334168   3076   ??  S     4:07下午   0:00.01 /System/Library/Frameworks/CoreServices.framework/Frameworks/Metadata.framework/Versions/A/Support/mdwrite
+niubi             8320   0.0  0.0  4324992   3116   ??  S     4:07下午   0:00.02 /System/Library/Frameworks/ApplicationServices.framework/Frameworks/PrintCore.framework/Versions/A/printtool
+niubi             8318   0.0  0.1  4359940   7300   ??  Ss    4:07下午   0:00.04 /System/Library/PrivateFrameworks/XprotectFramework.framework/Versions/A/XPCServices/XprotectService.xpc/Contents/MacOS/XprotectService
+niubi             8313   0.0  0.0  4322748   2632   ??  Ss    4:07下午   0:00.01 /System/Library/Frameworks/AudioToolbox.framework/XPCServices/com.apple.audio.SandboxHelper.xpc/Contents/MacOS/com.apple.audio.SandboxHelper
+niubi             8312   0.0  1.0  5666768  87040   ??  Ss    4:07下午   0:01.49 /System/Library/Frameworks/QuickLook.framework/Versions/A/XPCServices/QuickLookSatellite.xpc/Contents/MacOS/QuickLookSatellite
+niubi             8300   0.0  0.0  4375600   4068   ??  Ss    4:07下午   0:00.01 /System/Library/PrivateFrameworks/Categories.framework/Versions/A/XPCServices/CategoriesService.xpc/Contents/MacOS/CategoriesService
+niubi             8299   0.0  0.1  4864076  10844   ??  Ss    4:07下午   0:00.14 /System/Library/Frameworks/Metal.framework/Versions/A/XPCServices/MTLCompilerService.xpc/Contents/MacOS/MTLCompilerService
+niubi             8296   0.0  0.2  4911408  13548   ??  Ss    4:07下午   0:00.17 /System/Library/Frameworks/Quartz.framework/Versions/A/Frameworks/QuickLookUI.framework/Versions/A/XPCServices/QuickLookUIService.xpc/Contents/MacOS/QuickLookUIService
+niubi             8295   0.0  0.5  5038244  42108   ??  Ss    4:07下午   0:01.67 /System/Library/Frameworks/AppKit.framework/Versions/C/XPCServices/com.apple.appkit.xpc.openAndSavePanelService.xpc/Contents/MacOS/com.apple.appkit.xpc.openAndSavePanelService
+_windowserver     6224   0.0  0.1  4853468   8468   ??  Ss    2:57下午   0:00.04 /System/Library/Frameworks/Metal.framework/Versions/A/XPCServices/MTLCompilerService.xpc/Contents/MacOS/MTLCompilerService
+niubi             6215   0.0  0.0  4336528   2876   ??  S     2:57下午   0:00.03 /System/Library/Frameworks/ColorSync.framework/Support/colorsync.useragent
+niubi             6203   0.0  0.2  4404408  14204   ??  S     2:57下午   0:00.24 /System/Library/PrivateFrameworks/CommerceKit.framework/Versions/A/Resources/storeuid.app/Contents/MacOS/storeuid
+niubi             6161   0.0  0.0  4317676   1936   ??  S     2:56下午   0:00.02 /System/Library/Frameworks/MediaAccessibility.framework/Versions/A/XPCServices/com.apple.accessibility.mediaaccessibilityd.xpc/Contents/MacOS/com.apple.accessibility.mediaaccessibilityd
+niubi             6160   0.0  0.0  4316344   2812   ??  Ss    2:56下午   0:00.02 /System/Library/Frameworks/AudioToolbox.framework/XPCServices/com.apple.audio.SandboxHelper.xpc/Contents/MacOS/com.apple.audio.SandboxHelper
+niubi             6115   0.0  0.3 89362088  23792   ??  Ss    2:54下午   0:00.24 /System/Library/Frameworks/WebKit.framework/Versions/A/XPCServices/com.apple.WebKit.WebContent.xpc/Contents/MacOS/com.apple.WebKit.WebContent
+niubi             6114   0.0  0.1  4881536   8612   ??  Ss    2:54下午   0:00.08 /System/Library/Frameworks/Metal.framework/Versions/A/XPCServices/MTLCompilerService.xpc/Contents/MacOS/MTLCompilerService
+root              5953   0.0  0.0  4315084   1136   ??  Ss    2:49下午   0:00.01 /System/Library/Frameworks/Security.framework/authtrampoline
+niubi             3117   0.0  3.7 107092940 310888   ??  Ss    2:41下午   0:39.24 /System/Library/Frameworks/WebKit.framework/Versions/A/XPCServices/com.apple.WebKit.WebContent.xpc/Contents/MacOS/com.apple.WebKit.WebContent
+niubi             3097   0.0  0.2  4385984  13636   ??  Ss    2:41下午   0:00.38 /System/Library/PrivateFrameworks/SafariShared.framework/Versions/A/XPCServices/com.apple.Safari.SearchHelper.xpc/Contents/MacOS/com.apple.Safari.SearchHelper
+niubi             3083   0.0  0.1  4384484   6448   ??  Ss    2:40下午   0:00.22 /System/Library/PrivateFrameworks/Categories.framework/Versions/A/XPCServices/CategoriesService.xpc/Contents/MacOS/CategoriesService
+niubi             2974   0.0  0.1  4845472   7588   ??  Ss    2:39下午   0:00.06 /System/Library/Frameworks/Metal.framework/Versions/A/XPCServices/MTLCompilerService.xpc/Contents/MacOS/MTLCompilerService
+niubi             2879   0.0  0.2  4852716  15016   ??  Ss    2:37下午   0:00.13 /System/Library/Frameworks/Metal.framework/Versions/A/XPCServices/MTLCompilerService.xpc/Contents/MacOS/MTLCompilerService
+niubi             2811   0.0  0.1  4361412   6816   ??  Ss    2:35下午   0:00.08 /System/Library/PrivateFrameworks/AssistantServices.framework/Versions/A/XPCServices/com.apple.siri.ClientFlow.ClientScripter.xpc/Contents/MacOS/com.apple.siri.ClientFlow.ClientScripter
+niubi             2620   0.0  0.1  4406040   8280   ??  Ss    2:28下午   0:00.19 /System/Library/PrivateFrameworks/AssistantServices.framework/Versions/A/XPCServices/media-indexer.xpc/Contents/MacOS/media-indexer
+niubi             2612   0.0  0.1  4335144   4468   ??  S     2:28下午   0:00.06 /usr/libexec/silhouette
+root              2602   0.0  0.0  4384728   3864   ??  Ss    2:27下午   0:00.13 /usr/libexec/dprivacyd
+root              2530   0.0  0.0  4307396    476   ??  SNs   2:27下午   0:00.01 /usr/libexec/periodic-wrapper daily
+niubi             2492   0.0  0.1  4399960  10948   ??  Ss    2:26下午   0:00.87 /System/Library/PrivateFrameworks/MediaConversionService.framework/Versions/A/XPCServices/com.apple.photos.ImageConversionService.xpc/Contents/MacOS/com.apple.photos.ImageConversionService
+niubi             2491   0.0  0.0  4333580   2684   ??  S     2:26下午   0:00.01 /System/Library/PrivateFrameworks/CharacterPicker.framework/Versions/A/XPCServices/com.apple.CharacterPicker.FileService.xpc/Contents/MacOS/com.apple.CharacterPicker.FileService
+root              2488   0.0  0.0  4350592   3312   ??  Ss    2:26下午   0:00.10 /System/Library/Frameworks/AudioToolbox.framework/XPCServices/CAReportingService.xpc/Contents/MacOS/CAReportingService
+niubi             2485   0.0  1.1  6403920  95212   ??  S     2:26下午   0:04.86 /System/Applications/Messages.app/Contents/MacOS/Messages
+niubi             2458   0.0  0.1  4390328   5344   ??  Ss    2:26下午   0:00.30 /System/Library/PrivateFrameworks/Categories.framework/Versions/A/XPCServices/CategoriesService.xpc/Contents/MacOS/CategoriesService
+niubi             2453   0.0  0.2  4398332  14808   ??  S     2:26下午   0:00.67 /usr/libexec/remindd
+root              2006   0.0  0.0  4337296   2816   ??  Ss    2:10下午   0:00.51 /usr/sbin/ocspd
+_spotlight        1764   0.0  0.1  4333492   4928   ??  S     2:02下午   0:00.06 /System/Library/Frameworks/CoreServices.framework/Frameworks/Metadata.framework/Versions/A/Support/mdworker_shared -s mdworker -c MDSImporterWorker -m com.apple.mdworker.shared
+niubi             1537   0.0  0.1  4317808   4708   ??  S     1:53下午   0:00.04 /System/Library/Frameworks/CoreServices.framework/Frameworks/Metadata.framework/Versions/A/Support/mdworker -s mdworker-sizing -c MDSSizingWorker -m com.apple.mdworker.sizing
+root              1498   0.0  0.0  4362532   3336   ??  Ss    1:52下午   0:00.03 /usr/bin/sysdiagnose
+niubi             1463   0.0  0.2  4392808  14916   ??  S     1:52下午   0:02.76 cloudphotod
+_netbios          1459   0.0  0.0  4352464   3144   ??  SNs   1:52下午   0:00.14 /usr/sbin/netbiosd
+niubi             1445   0.0  0.7  4478136  59972   ??  S     1:51下午   0:41.35 /System/Library/PrivateFrameworks/PhotoLibraryServices.framework/Versions/A/Support/photolibraryd
+niubi             1444   0.0  1.2  4500912 101860   ??  S     1:51下午   2:24.38 /System/Library/PrivateFrameworks/PhotoAnalysis.framework/Versions/A/Support/photoanalysisd
+niubi             1443   0.0  0.0  4335584   2156   ??  S     1:51下午   0:00.04 /usr/libexec/USBAgent
+root              1428   0.0  0.2  4383456  18764   ??  Ss    1:17下午   0:03.94 /usr/libexec/PerfPowerServices
+niubi             1406   0.0  0.2  4488996  12672   ??  S     1:17下午   0:00.43 /System/Library/CoreServices/PowerChime.app/Contents/MacOS/PowerChime
+root              1375   0.0  0.0  4372336   4128   ??  Ss    1:16下午   0:00.06 /System/Library/PrivateFrameworks/CoreAccessories.framework/Support/accessoryd
+niubi             1374   0.0  0.1  4409160  11176   ??  S     1:16下午   0:00.23 /usr/libexec/avconferenced
+root               820   0.0  0.0  4379180   3320   ??  Ss   12:56下午   0:00.09 /System/Library/PrivateFrameworks/PerformanceAnalysis.framework/Versions/A/XPCServices/com.apple.PerformanceAnalysis.animationperfd.xpc/Contents/MacOS/com.apple.PerformanceAnalysis.animationperfd
+niubi              804   0.0  0.1  4341888   7716   ??  S    12:56下午   0:00.04 /System/Library/CoreServices/EscrowSecurityAlert.app/Contents/MacOS/EscrowSecurityAlert
+niubi              803   0.0  0.1  4378744   7200   ??  S    12:56下午   0:00.06 /System/Library/PrivateFrameworks/IMDPersistence.framework/IMAutomaticHistoryDeletionAgent.app/Contents/MacOS/IMAutomaticHistoryDeletionAgent
+niubi              802   0.0  0.0  4380792   4096   ??  S    12:56下午   0:00.09 /usr/libexec/transparencyd
+niubi              782   0.0  0.3  4436692  23488   ??  S    12:55下午   0:01.43 /System/Library/PrivateFrameworks/AppStoreDaemon.framework/Support/appstoreagent
+_fpsd              781   0.0  0.0  4319928   1160   ??  Ss   12:55下午   0:00.20 /System/Library/PrivateFrameworks/CoreLSKD.framework/Versions/A/lskdd
+root               690   0.0  0.0  4316928   2668   ??  Ss   12:52下午   0:00.02 /usr/libexec/tzd
+niubi              656   0.0  0.2  4906720  14420   ??  Ss   12:52下午   0:01.50 /System/Library/CoreServices/Siri.app/Contents/XPCServices/SiriNCService.xpc/Contents/MacOS/SiriNCService
+niubi              653   0.0  0.0  4344752   3724   ??  Ss   12:52下午   0:00.07 /System/Library/PrivateFrameworks/FMClient.framework/Versions/A/XPCServices/FMIPClientXPCService.xpc/Contents/MacOS/FMIPClientXPCService
+niubi              647   0.0  0.0  4324416   1608   ??  S    12:52下午   0:00.02 /System/Library/PrivateFrameworks/DeviceCheckInternal.framework/devicecheckd
+root               646   0.0  0.0  4318840   1144   ??  Ss   12:52下午   0:00.04 /usr/libexec/mobileactivationd
+niubi              629   0.0  0.2  5007008  14356   ??  S    12:51下午   0:00.70 /System/Library/CoreServices/OSDUIHelper.app/Contents/MacOS/OSDUIHelper
+_atsserver         612   0.0  0.1  4381236   5516   ??  Ss   12:51下午   0:00.16 /System/Library/Frameworks/ApplicationServices.framework/Frameworks/ATS.framework/Support/fontd
+root               611   0.0  0.0  4342652   4072   ??  Ss   12:51下午   0:00.03 /System/Library/CoreServices/Software Update.app/Contents/Resources/suhelperd
+_softwareupdate    610   0.0  0.3  5613204  22936   ??  Ss   12:51下午   0:13.39 /System/Library/CoreServices/Software Update.app/Contents/Resources/softwareupdated
+niubi              609   0.0  0.1  4410772  12508   ??  S    12:51下午   0:00.29 /System/Library/PrivateFrameworks/SoftwareUpdate.framework/Resources/SoftwareUpdateNotificationManager.app/Contents/MacOS/SoftwareUpdateNotificationManager
+niubi              606   0.0  0.1  4381136   5248   ??  S    12:51下午   0:00.10 /System/Library/CoreServices/ScopedBookmarkAgent
+niubi              605   0.0  0.1  4379252   7536   ??  S    12:51下午   0:00.06 /System/Library/PrivateFrameworks/BookKit.framework/Versions/A/XPCServices/com.apple.BKAgentService.xpc/Contents/MacOS/com.apple.BKAgentService
+niubi              604   0.0  0.1  4371844   6244   ??  S    12:51下午   0:00.04 /System/Library/PrivateFrameworks/PodcastServices.framework/XPCServices/PodcastContentService.xpc/Contents/MacOS/PodcastContentService
+root               567   0.0  0.1  4381388   4828   ??  Ss   12:51下午   0:04.11 /Library/Application Support/Lemon/LemonDaemon loadBySystem
+niubi              564   0.0  0.3  5042400  26700   ??  S    12:51下午   0:02.46 /Applications/Near Lock.app/Contents/MacOS/Near Lock
+niubi              562   0.0  0.1  4398808   9452   ??  S    12:51下午   0:00.33 /System/Library/CoreServices/TextInputSwitcher.app/Contents/MacOS/TextInputSwitcher
+niubi              558   0.0  0.4  5050356  35132   ??  S    12:51下午   0:05.26 /Applications/Clipy.app/Contents/MacOS/Clipy
+niubi              557   0.0  0.2  4951700  14560   ??  S    12:51下午   0:05.74 /Applications/Mos.app/Contents/MacOS/Mos
+niubi              556   0.0  0.0  4351644   2460   ??  S    12:51下午   0:00.04 /System/Library/Frameworks/CryptoTokenKit.framework/ctkahp.bundle/Contents/MacOS/ctkahp
+niubi              554   0.0  0.1  4384208   8996   ??  S    12:51下午   0:01.03 /System/Library/PrivateFrameworks/AppleMediaServices.framework/Resources/amsaccountsd
+niubi              553   0.0  0.2  4931692  13400   ??  S    12:51下午   0:00.88 /System/Library/CoreServices/TextInputMenuAgent.app/Contents/MacOS/TextInputMenuAgent
+niubi              552   0.0  0.1  4380232  10720   ??  S    12:51下午   0:05.45 /System/Library/CoreServices/cloudpaird
+niubi              551   0.0  0.1  4906680   9752   ??  S    12:51下午   0:00.27 /System/Library/CoreServices/AirPlayUIAgent.app/Contents/MacOS/AirPlayUIAgent --launchd
+niubi              550   0.0  0.1  4383516   7792   ??  S    12:51下午   0:00.78 /System/Library/PrivateFrameworks/AskPermission.framework/Versions/A/Resources/askpermissiond
+niubi              548   0.0  0.1  4379312   5236   ??  S    12:51下午   0:00.19 /System/Library/Image Capture/Support/icdd
+niubi              546   0.0  0.2  4402240  15304   ??  S    12:51下午   0:03.89 /System/Library/CoreServices/Siri.app/Contents/MacOS/Siri launchd
+niubi              543   0.0  0.1  4377964   4436   ??  S    12:51下午   0:00.03 /System/Library/CoreServices/SocialPushAgent.app/Contents/MacOS/SocialPushAgent
+niubi              542   0.0  0.1  4382816  11520   ??  S    12:51下午   0:00.62 /Library/Input Methods/SogouInput.app/Contents/SogouServices
+niubi              540   0.0  0.1  4353164   6108   ??  S    12:51下午   0:00.08 /System/Library/PrivateFrameworks/CoreSpeech.framework/corespeechd
+niubi              539   0.0  0.1  4389868   8920   ??  S    12:51下午   0:02.46 /System/Library/PrivateFrameworks/SafariSafeBrowsing.framework/com.apple.Safari.SafeBrowsing.Service
+niubi              536   0.0  0.1  4438712  10240   ??  S    12:51下午   0:00.12 /System/Library/PrivateFrameworks/CoreSuggestions.framework/Versions/A/Support/reversetemplated
+niubi              535   0.0  0.1  4379444   8800   ??  S    12:51下午   0:00.22 /System/Library/PrivateFrameworks/CoreRecents.framework/Versions/A/Support/recentsd
+root               534   0.0  0.2  4387320  15088   ??  Ss   12:51下午   0:00.35 /usr/libexec/rtcreportingd
+niubi              532   0.0  0.1  4394676   9440   ??  S    12:51下午   0:00.43 /System/Library/PrivateFrameworks/AMPLibrary.framework/Versions/A/Support/AMPArtworkAgent --launchd
+niubi              530   0.0  0.0  4305376   1400   ??  S    12:51下午   0:00.01 /System/Library/PrivateFrameworks/ToneLibrary.framework/Versions/A/XPCServices/com.apple.tonelibraryd.xpc/Contents/MacOS/com.apple.tonelibraryd
+niubi              529   0.0  0.1  4379688   4688   ??  S    12:51下午   0:00.23 /System/Library/PrivateFrameworks/UsageTracking.framework/Versions/A/UsageTrackingAgent
+niubi              528   0.0  0.1  4379580   7328   ??  S    12:51下午   0:00.14 /usr/libexec/siriknowledged
+root               524   0.0  0.0  4325424   1796   ??  Ss   12:51下午   0:00.02 /System/Library/CoreServices/CrashReporterSupportHelper server-init
+_spotlight         523   0.0  0.1  4381824   4908   ??  S    12:51下午   0:00.27 /usr/libexec/trustd --agent
+niubi              518   0.0  0.1  4351648   5212   ??  S    12:50下午   0:00.07 /usr/libexec/findmydevice-user-agent
+root               517   0.0  0.0  4343912   1796   ??  Ss   12:50下午   0:00.03 /System/Library/CoreServices/iconservicesagent runAsRoot
+root               513   0.0  0.0  4349888   2812   ??  Ss   12:50下午   0:00.02 /System/Library/PrivateFrameworks/PackageKit.framework/Resources/system_installd
+niubi              511   0.0  0.1  4381656   7164   ??  S    12:50下午   0:00.09 /System/Library/PrivateFrameworks/CommerceKit.framework/Versions/A/Resources/storedownloadd
+root               510   0.0  0.0  4349888   2816   ??  Ss   12:50下午   0:00.02 /System/Library/PrivateFrameworks/PackageKit.framework/Resources/installd
+niubi              509   0.0  0.1  4352376   5840   ??  S    12:50下午   0:00.08 /usr/libexec/replayd
+niubi              508   0.0  0.1  4379804   5992   ??  S    12:50下午   0:00.31 /System/Library/CoreServices/diagnostics_agent
+root               507   0.0  0.0  4350416   1644   ??  Ss   12:50下午   0:00.02 /System/Library/PrivateFrameworks/CacheDelete.framework/deleted_helper
+niubi              506   0.0  0.0  4381344   3500   ??  S    12:50下午   0:00.46 /System/Library/PrivateFrameworks/CacheDelete.framework/deleted
+niubi              505   0.0  0.4  4399240  32016   ??  S    12:50下午   0:02.44 /System/Library/PrivateFrameworks/AssistantServices.framework/Versions/A/Support/assistant_service
+root               504   0.0  0.1  4381896   4936   ??  Ss   12:50下午   0:07.90 /System/Library/PrivateFrameworks/StorageKit.framework/Resources/storagekitd
+niubi              503   0.0  0.0  4326492   2288   ??  S    12:50下午   0:00.02 /System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/ATS.framework/Versions/A/Support/fontworker
+root               500   0.0  0.1  4382980   5080   ??  Ss   12:50下午   0:00.24 /System/Library/PrivateFrameworks/AuthKit.framework/Versions/A/Support/akd
+_fpsd              494   0.0  0.0  4378884   2708   ??  Ss   12:50下午   0:00.06 /System/Library/PrivateFrameworks/CoreFP.framework/Versions/A/fpsd
+_applepay          493   0.0  0.0  4371636   3528   ??  Ss   12:50下午   0:00.05 /usr/libexec/nfcd
+niubi              492   0.0  0.1  4383336   7252   ??  S    12:50下午   0:00.07 /usr/libexec/keyboardservicesd
+root               491   0.0  0.0  4303904   1488   ??  Ss   12:50下午   0:00.01 /System/Library/PrivateFrameworks/FindMyMac.framework/Resources/FindMyMacd
+_nsurlstoraged     490   0.0  0.0  4350836   3308   ??  Ss   12:50下午   0:00.05 /usr/libexec/nsurlstoraged --privileged
+niubi              489   0.0  0.5  4769924  43780   ??  S    12:50下午   0:00.85 /System/Library/Services/AppleSpell.service/Contents/MacOS/AppleSpell
+niubi              486   0.0  0.2  4439680  19512   ??  Ss   12:50下午   0:03.29 /System/Library/PrivateFrameworks/AssistantServices.framework/Versions/A/XPCServices/com.apple.siri.embeddedspeech.xpc/Contents/MacOS/com.apple.siri.embeddedspeech
+niubi              485   0.0  0.0  4325820   2556   ??  Ss   12:50下午   0:00.02 /System/Library/Frameworks/AudioToolbox.framework/XPCServices/com.apple.audio.SandboxHelper.xpc/Contents/MacOS/com.apple.audio.SandboxHelper
+niubi              484   0.0  0.1  4379824   6920   ??  Ss   12:50下午   0:00.09 /System/Library/PrivateFrameworks/AssistantServices.framework/Versions/A/XPCServices/com.apple.siri.ClientFlow.ClientScripter.xpc/Contents/MacOS/com.apple.siri.ClientFlow.ClientScripter
+niubi              482   0.0  0.1  4386420   8304   ??  S    12:50下午   0:00.14 /System/Library/PrivateFrameworks/FileProvider.framework/Support/fileproviderd
+niubi              481   0.0  0.3  4451048  22248   ??  S    12:50下午   0:01.31 /System/Library/PrivateFrameworks/AMPLibrary.framework/Versions/A/Support/AMPLibraryAgent --launchd
+_assetcache        480   0.0  0.1  4382244   5012   ??  Ss   12:50下午   0:00.06 /usr/libexec/AssetCache/AssetCache
+niubi              479   0.0  0.1  4382484   5864   ??  S    12:50下午   0:00.22 /System/Library/PrivateFrameworks/AssetCacheServices.framework/Versions/A/XPCServices/AssetCacheLocatorService.xpc/Contents/MacOS/AssetCacheLocatorService -a
+niubi              478   0.0  0.0  4305080   2544   ??  Ss   12:50下午   0:00.01 /System/Library/Frameworks/AudioToolbox.framework/XPCServices/com.apple.audio.SandboxHelper.xpc/Contents/MacOS/com.apple.audio.SandboxHelper
+niubi              477   0.0  0.1  4380528   5388   ??  S    12:50下午   0:00.18 /System/Library/Frameworks/AudioToolbox.framework/AudioComponentRegistrar
+niubi              476   0.0  0.2  4922084  16308   ??  S    12:50下午   0:03.25 /Applications/QQ.app/Contents/Library/LoginItems/QQ jietu plugin.app/Contents/MacOS/QQ jietu plugin
+niubi              475   0.0  0.0  4351080   2100   ??  S    12:50下午   0:00.02 /usr/libexec/loginitemregisterd
+niubi              474   0.0  0.1  4378752   4624   ??  S    12:50下午   0:00.05 /System/Library/PrivateFrameworks/CommunicationsFilter.framework/CMFSyncAgent
+niubi              473   0.0  0.0  4379660   3936   ??  S    12:50下午   0:00.02 /System/Library/CoreServices/Menu Extras/SafeEjectGPUExtra.menu/Contents/XPCServices/SafeEjectGPUService.xpc/Contents/MacOS/SafeEjectGPUService
+niubi              472   0.0  0.0  4838884   2336   ??  S    12:50下午   0:00.01 SafeEjectGPUAgent
+niubi              466   0.0  0.1  4385440   6912   ??  S    12:50下午   0:00.08 /usr/libexec/neagent
+niubi              465   0.0  1.0  5319756  81660   ??  S    12:50下午   0:09.68 /Library/Input Methods/SogouInput.app/Contents/MacOS/SogouInput
+niubi              464   0.0  0.1  4382900   6712   ??  S    12:50下午   0:00.28 /System/Library/Frameworks/InputMethodKit.framework/Resources/imklaunchagent
+niubi              463   0.0  0.0  4350568   3420   ??  S    12:50下午   0:00.15 /System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/HIServices.framework/Versions/A/XPCServices/com.apple.hiservices-xpcservice.xpc/Contents/MacOS/com.apple.hiservices-xpcservice
+_fpsd              462   0.0  0.1  4354156   5492   ??  Ss   12:50下午   0:00.35 /System/Library/PrivateFrameworks/CoreADI.framework/adid
+niubi              461   0.0  0.0  4350188   3676   ??  S    12:50下午   0:00.03 /System/Library/PrivateFrameworks/CoreFollowUp.framework/Versions/A/Support/followupd
+niubi              460   0.0  0.1  4383340   6156   ??  Ss   12:50下午   0:00.26 /System/Library/PrivateFrameworks/CloudDocsDaemon.framework/XPCServices/ContainerMetadataExtractor.xpc/Contents/MacOS/ContainerMetadataExtractor
+niubi              458   0.0  0.1  4380668   9264   ??  S    12:50下午   0:04.37 /Library/Apple/System/Library/CoreServices/SafariSupport.bundle/Contents/MacOS/SafariCloudHistoryPushAgent
+niubi              457   0.0  0.2  4402192  14352   ??  S    12:50下午   0:01.11 /usr/libexec/fmfd
+niubi              456   0.0  0.2  4384052  14236   ??  S    12:50下午   0:04.56 /Library/Apple/System/Library/CoreServices/SafariSupport.bundle/Contents/MacOS/SafariBookmarksSyncAgent
+niubi              441   0.0  0.9  4686332  73704   ??  S    12:50下午   0:04.49 /System/Library/PrivateFrameworks/CoreSuggestions.framework/Versions/A/Support/suggestd
+niubi              437   0.0  0.2  4749072  20720   ??  S    12:50下午   0:00.66 /System/Library/Frameworks/CoreServices.framework/Frameworks/Metadata.framework/Versions/A/Support/corespotlightd
+niubi              421   0.0  0.1  4380700   9588   ??  S    12:50下午   0:00.09 /Library/Apple/System/Library/CoreServices/SafariSupport.bundle/Contents/MacOS/SafariLaunchAgent
+root               419   0.0  0.0  4333828   2412   ??  Ss   12:50下午   0:00.25 /usr/libexec/taskgated
+niubi              413   0.0  0.0  4326484   2656   ??  S    12:50下午   0:00.03 /usr/libexec/spindump_agent
+root               412   0.0  0.1  4393092   9388   ??  Ss   12:50下午   0:00.38 /usr/libexec/findmydeviced
+niubi              403   0.0  0.0  4349984   2832   ??  S    12:50下午   0:00.09 /System/Library/PrivateFrameworks/MediaRemote.framework/Support/mediaremoteagent
+niubi              400   0.0  0.1  4382948   5700   ??  Ss   12:50下午   0:00.30 /System/Library/PrivateFrameworks/Categories.framework/Versions/A/XPCServices/CategoriesService.xpc/Contents/MacOS/CategoriesService
+niubi              397   0.0  0.2  4407640  13344   ??  S    12:50下午   0:00.33 /System/Library/CoreServices/CoreServicesUIAgent.app/Contents/MacOS/CoreServicesUIAgent
+niubi              395   0.0  0.1  4402248  10784   ??  S    12:50下午   0:00.27 /System/Library/CoreServices/CoreLocationAgent.app/Contents/MacOS/CoreLocationAgent
+root               388   0.0  0.1  4380848   6764   ??  Ss   12:50下午   0:00.45 /usr/libexec/wifivelocityd
+niubi              385   0.0  0.0  4378132   3564   ??  S    12:50下午   0:00.03 /usr/libexec/WiFiVelocityAgent
+niubi              384   0.0  0.1  4334668   5352 s000  S    12:50下午   0:07.50 -zsh
+root               383   0.0  0.0  4349960   3816 s000  Ss   12:50下午   0:00.05 login -pfl niubi /bin/bash -c exec -la zsh /bin/zsh
+niubi              382   0.0  0.1  4378680   5716   ??  S    12:50下午   0:00.05 /System/Library/PrivateFrameworks/CallHistory.framework/Support/CallHistoryPluginHelper
+niubi              380   0.0  0.4  5461004  32168   ??  Ss   12:50下午   0:19.54 /System/Library/Frameworks/WebKit.framework/Versions/A/XPCServices/com.apple.WebKit.Networking.xpc/Contents/MacOS/com.apple.WebKit.Networking
+niubi              378   0.0  0.1  4383744   4256   ??  S    12:50下午   0:00.09 /System/Library/CoreServices/pbs
+niubi              376   0.0  0.1  4350032   8332   ??  S    12:50下午   0:00.59 /System/Library/Frameworks/AddressBook.framework/Executables/ContactsAccountsService
+niubi              375   0.0  0.1  4387696   9780   ??  S    12:50下午   0:10.44 /System/Library/PrivateFrameworks/GeoServices.framework/Versions/A/XPCServices/com.apple.geod.xpc/Contents/MacOS/com.apple.geod
+niubi              374   0.0  0.2  4395784  16420   ??  S    12:50下午   0:01.38 /System/Library/PrivateFrameworks/CommerceKit.framework/Versions/A/Resources/commerce
+niubi              373   0.0  0.1  4385848   7572   ??  S    12:50下午   0:00.73 /System/Library/PrivateFrameworks/CoreParsec.framework/parsec-fbf
+niubi              372   0.0  0.0  4349932   1624   ??  Ss   12:50下午   0:00.03 /System/Library/PrivateFrameworks/IMFoundation.framework/XPCServices/IMRemoteURLConnectionAgent.xpc/Contents/MacOS/IMRemoteURLConnectionAgent
+niubi              371   0.0  0.0  4378976   3816   ??  Ss   12:50下午   0:00.13 /System/Library/PrivateFrameworks/Categories.framework/Versions/A/XPCServices/CategoriesService.xpc/Contents/MacOS/CategoriesService
+niubi              370   0.0  0.2  4897064  13016   ??  S    12:50下午   0:00.41 /System/Library/Frameworks/QuickLookThumbnailing.framework/Support/com.apple.quicklook.ThumbnailsAgent
+niubi              369   0.0  0.1  4352200   8096   ??  S    12:50下午   0:00.10 /System/Library/PrivateFrameworks/CommerceKit.framework/Versions/A/Resources/storeaccountd
+niubi              368   0.0  0.4  4453908  36032   ??  S    12:50下午   0:02.45 /System/Library/PrivateFrameworks/IMDPersistence.framework/XPCServices/IMDPersistenceAgent.xpc/Contents/MacOS/IMDPersistenceAgent
+niubi              367   0.0  0.2  4388364  13772   ??  S    12:50下午   0:00.35 /System/Library/PrivateFrameworks/SafariShared.framework/Versions/A/XPCServices/com.apple.Safari.History.xpc/Contents/MacOS/com.apple.Safari.History
+niubi              366   0.0  0.4  4985108  31000   ??  Ss   12:50下午   0:00.51 /System/Library/CoreServices/Dock.app/Contents/XPCServices/com.apple.dock.extra.xpc/Contents/MacOS/com.apple.dock.extra
+niubi              365   0.0  0.1  4379024   7456   ??  S    12:50下午   0:00.05 /System/Library/PrivateFrameworks/FamilyCircle.framework/Versions/A/Resources/familycircled
+niubi              364   0.0  0.1  4381148   7664   ??  S    12:50下午   0:05.83 /System/Library/PrivateFrameworks/UserActivity.framework/Agents/useractivityd
+niubi              363   0.0  0.2  4392920  14704   ??  S    12:50下午   0:01.24 /System/Library/PrivateFrameworks/CoreParsec.framework/parsecd
+niubi              362   0.0  0.2  4472028  19408   ??  S    12:50下午   0:02.04 /System/Library/CoreServices/iconservicesagent
+niubi              361   0.0  0.3  4386284  24300   ??  S    12:50下午   0:01.32 /System/Library/PrivateFrameworks/IMCore.framework/imagent.app/Contents/MacOS/imagent
+niubi              360   0.0  0.3  4391488  22920   ??  S    12:50下午   0:00.73 /System/Library/PrivateFrameworks/TelephonyUtilities.framework/callservicesd
+niubi              359   0.0  0.1  4379380   8104   ??  Ss   12:50下午   0:00.07 /System/Library/PrivateFrameworks/IMFoundation.framework/XPCServices/IMRemoteURLConnectionAgent.xpc/Contents/MacOS/IMRemoteURLConnectionAgent
+root               358   0.0  0.1  4379092   5228   ??  Ss   12:50下午   0:00.08 /usr/sbin/WirelessRadioManagerd
+niubi              357   0.0  0.5  4421220  40344   ??  S    12:50下午   0:11.38 /usr/libexec/sharingd
+root               356   0.0  0.1  4356808   5096   ??  Ss   12:50下午   0:00.20 /usr/sbin/filecoordinationd
+niubi              355   0.0  0.1  4383844   8900   ??  Ss   12:50下午   0:00.33 /System/Library/PrivateFrameworks/IMFoundation.framework/XPCServices/IMRemoteURLConnectionAgent.xpc/Contents/MacOS/IMRemoteURLConnectionAgent
+niubi              354   0.0  0.2  4908260  13160   ??  S    12:50下午   0:00.45 /System/Library/PrivateFrameworks/AppSSO.framework/Support/AppSSOAgent.app/Contents/MacOS/AppSSOAgent
+niubi              353   0.0  0.2  4391220  19576   ??  S    12:50下午   0:01.93 /System/Library/Frameworks/CoreTelephony.framework/Support/CommCenter -L
+niubi              352   0.0  0.2  4398628  14720   ??  S    12:50下午   0:00.30 /System/Library/CoreServices/Keychain Circle Notification.app/Contents/MacOS/Keychain Circle Notification
+niubi              351   0.0  0.1  4379072   6084   ??  S    12:50下午   0:00.13 /System/Library/PrivateFrameworks/ProtectedCloudStorage.framework/Helpers/ProtectedCloudKeySyncing
+niubi              350   0.0  0.0  4349984   3920   ??  S    12:50下午   0:00.06 /System/Library/PrivateFrameworks/CoreCDP.framework/Versions/A/Resources/cdpd
+niubi              349   0.0  0.4  5040196  31904   ??  S    12:50下午   0:01.63 /System/Library/CoreServices/Spotlight.app/Contents/MacOS/Spotlight
+niubi              347   0.0  0.3  4386048  25220   ??  S    12:50下午   0:02.03 /System/Library/PrivateFrameworks/HomeKitDaemon.framework/Support/homed
+niubi              346   0.0  0.1  4386684   8600   ??  S    12:50下午   0:01.74 /usr/libexec/nsurlstoraged
+niubi              344   0.0  0.1  4353828   8640   ??  S    12:50下午   0:00.29 /System/Library/Frameworks/Security.framework/Versions/A/Resources/CloudKeychainProxy.bundle/Contents/MacOS/CloudKeychainProxy
+niubi              342   0.0  0.2  4403004  16796   ??  S    12:50下午   0:04.80 /System/Library/CoreServices/WiFiAgent.app/Contents/MacOS/WiFiAgent
+niubi              341   0.0  0.1  4401228  11328   ??  S    12:50下午   0:00.73 /System/Library/PrivateFrameworks/AuthKit.framework/Versions/A/Support/akd
+niubi              337   0.0  0.1  4451688  12500   ??  S    12:50下午   0:00.43 /System/Library/PrivateFrameworks/ContextKit.framework/Versions/A/XPCServices/ContextService.xpc/Contents/MacOS/ContextService
+niubi              336   0.0  0.1  4381712   9620   ??  S    12:50下午   0:01.60 /System/Library/Frameworks/ApplicationServices.framework/Frameworks/ATS.framework/Support/fontd
+niubi              334   0.0  0.1  4383792   4992   ??  Ss   12:50下午   0:00.04 /System/Library/PrivateFrameworks/Categories.framework/Versions/A/XPCServices/CategoriesService.xpc/Contents/MacOS/CategoriesService
+niubi              333   0.0  0.1  4385680   7572   ??  S    12:50下午   0:00.97 /System/Library/CoreServices/mapspushd
+niubi              332   0.0  0.1  4381068   7068   ??  S    12:50下午   0:00.08 /System/Library/PrivateFrameworks/AMPDevices.framework/Versions/A/Support/AMPDeviceDiscoveryAgent --launchd
+niubi              330   0.0  0.1  4385268  10292   ??  S    12:50下午   0:00.26 /System/Library/Frameworks/Security.framework/Versions/A/XPCServices/TrustedPeersHelper.xpc/Contents/MacOS/TrustedPeersHelper
+niubi              329   0.0  0.1  4382480   7940   ??  S    12:50下午   0:00.40 /usr/libexec/adprivacyd
+niubi              326   0.0  0.1  4385512   8140   ??  Ss   12:50下午   0:00.52 /System/Library/PrivateFrameworks/Categories.framework/Versions/A/XPCServices/CategoriesService.xpc/Contents/MacOS/CategoriesService
+niubi              325   0.0  0.1  4379408   8808   ??  S    12:50下午   0:01.19 /System/Library/PrivateFrameworks/ViewBridge.framework/Versions/A/XPCServices/ViewBridgeAuxiliary.xpc/Contents/MacOS/ViewBridgeAuxiliary
+niubi              324   0.0  0.1  4386416  10556   ??  S    12:50下午   0:02.05 /usr/libexec/pkd
+niubi              323   0.0  0.1  4380352   6064   ??  S    12:50下午   0:00.17 /System/Library/Frameworks/CryptoTokenKit.framework/ctkd -tw
+niubi              322   0.0  0.2  4906452  14028   ??  Ss   12:50下午   0:00.47 /System/Library/Frameworks/Quartz.framework/Versions/A/Frameworks/QuickLookUI.framework/Versions/A/XPCServices/QuickLookUIService.xpc/Contents/MacOS/QuickLookUIService
+niubi              319   0.0  0.1  4351452   5904   ??  S    12:50下午   0:00.54 /usr/libexec/pboard
+niubi              318   0.0  1.1  5166536  89824   ??  S    12:50下午   0:13.03 /System/Library/CoreServices/Finder.app/Contents/MacOS/Finder
+niubi              317   0.0  0.2  4386080  18440   ??  Ss   12:50下午   0:00.86 /System/Library/PrivateFrameworks/CalendarNotification.framework/Versions/A/XPCServices/CalNCService.xpc/Contents/MacOS/CalNCService
+niubi              316   0.0  0.6  5036068  49300   ??  S    12:50下午   0:55.69 /System/Library/CoreServices/SystemUIServer.app/Contents/MacOS/SystemUIServer
+niubi              315   0.0  0.6  5060756  50716   ??  S    12:50下午   0:12.90 /System/Library/CoreServices/Dock.app/Contents/MacOS/Dock
+niubi              314   0.0  0.2  4435900  15504   ??  S    12:50下午   0:00.67 /System/Library/CoreServices/talagent
+niubi              313   0.0  0.2  4386840  17448   ??  S    12:50下午   0:01.09 /System/Library/PrivateFrameworks/CloudDocsDaemon.framework/Versions/A/Support/bird
+niubi              312   0.0  0.3  4408680  22628   ??  S    12:50下午   0:02.31 /System/Library/PrivateFrameworks/AssistantServices.framework/Versions/A/Support/assistantd
+niubi              311   0.0  0.1  4380848   5148   ??  S    12:50下午   0:01.07 /usr/libexec/swcd
+niubi              310   0.0  0.6  4432860  52336   ??  S    12:50下午   0:21.48 /System/Library/Frameworks/Accounts.framework/Versions/A/Support/accountsd
+niubi              309   0.0  1.0  5343128  85676   ??  S    12:50下午   0:05.07 /System/Library/CoreServices/NotificationCenter.app/Contents/MacOS/NotificationCenter
+niubi              308   0.0  0.2  4388192  12716   ??  S    12:50下午   0:01.84 /System/Library/PrivateFrameworks/ScreenTimeCore.framework/Versions/A/ScreenTimeAgent
+niubi              307   0.0  0.1  4384504  10568   ??  S    12:50下午   0:00.31 /usr/libexec/dmd
+niubi              306   0.0  0.1  4381932   9148   ??  S    12:50下午   0:00.62 /usr/libexec/secinitd
+niubi              305   0.0  0.1  4385104  11604   ??  S    12:50下午   0:01.06 /System/Library/PrivateFrameworks/CoreDuetContext.framework/Resources/ContextStoreAgent
+niubi              304   0.0  0.3  4407936  28512   ??  S    12:50下午   0:18.87 /System/Library/PrivateFrameworks/CalendarAgent.framework/Executables/CalendarAgent
+niubi              303   0.0  0.0  4333060   2528   ??  S    12:50下午   0:00.01 /System/Library/CoreServices/APFSUserAgent
+niubi              301   0.0  0.0  4380272   3816   ??  S    12:50下午   0:00.08 /usr/libexec/networkserviceproxy
+niubi              300   0.0  0.2  4410956  20816   ??  S    12:50下午   0:01.49 /System/Library/PrivateFrameworks/IDS.framework/identityservicesd.app/Contents/MacOS/identityservicesd
+niubi              299   0.0  0.1  4381096   8800   ??  S    12:50下午   0:04.79 /System/Library/CoreServices/lockoutagent
+niubi              298   0.0  0.2  4385340  14592   ??  S    12:50下午   0:01.00 /usr/sbin/usernoted
+niubi              297   0.0  0.4  4401500  32080   ??  S    12:50下午   0:48.54 /usr/libexec/routined LAUNCHED_BY_LAUNCHD
+niubi              296   0.0  1.6  5350524 135828   ??  S    12:50下午   7:41.39 /Applications/XLPlayer.app/Contents/MacOS/XLPlayer -psn_0_61455
+niubi              295   0.0  1.1  6546988  88272   ??  S    12:50下午   0:59.42 /Applications/Safari.app/Contents/MacOS/Safari -psn_0_57358
+niubi              294   0.0  2.0  5397068 164368   ??  S    12:50下午   1:46.75 /System/Applications/Utilities/Terminal.app/Contents/MacOS/Terminal -psn_0_53261
+niubi              293   0.0  0.2  4380732  13252   ??  S    12:50下午   0:00.39 /usr/libexec/rapportd
+niubi              292   0.0  0.1  4381256   7120   ??  S    12:50下午   0:00.40 /System/Library/CoreServices/sharedfilelistd
+niubi              291   0.0  3.9  7376692 325256   ??  S    12:50下午   8:00.18 /Applications/QQ.app/Contents/MacOS/QQ -psn_0_49164
+_locationd         290   0.0  0.0  4351604   3096   ??  S    12:50下午   0:00.08 /usr/sbin/distnoted agent
+niubi              289   0.0  0.2  4395948  13020   ??  S    12:50下午   0:04.19 /usr/libexec/nsurlsessiond
+niubi              288   0.0  0.1  4387984  12548   ??  S    12:50下午   0:00.99 /System/Library/PrivateFrameworks/TCC.framework/Resources/tccd
+niubi              287   0.0  0.4  4411720  29476   ??  S    12:50下午   0:11.83 /System/Library/PrivateFrameworks/CloudKitDaemon.framework/Support/cloudd
+niubi              286   0.0  0.1  4380052   6316   ??  S    12:50下午   0:00.09 /System/Library/CoreServices/backgroundtaskmanagementagent
+niubi              285   0.0  0.3  4393108  21020   ??  S    12:50下午   0:10.02 /usr/libexec/trustd --agent
+niubi              284   0.0  0.3  4400052  27200   ??  S    12:50下午   1:01.73 /usr/libexec/secd
+niubi              283   0.0  0.1  4384404   9560   ??  S    12:50下午   0:00.79 /usr/libexec/lsd
+niubi              281   0.0  0.1  4351604   6912   ??  S    12:50下午   0:04.17 /usr/sbin/distnoted agent
+niubi              280   0.0  0.1  4394224   9828   ??  S    12:50下午   0:05.51 /System/Library/PrivateFrameworks/CloudServices.framework/Helpers/com.apple.sbd
+niubi              279   0.0  0.2  4388896  14696   ??  S    12:50下午   0:02.69 /usr/libexec/knowledge-agent
+niubi              277   0.0  0.2  4380788  18520   ??  S    12:50下午   0:09.63 /usr/libexec/UserEventAgent (Aqua)
+root               276   0.0  0.0  4324628   3372   ??  Ss   12:50下午   0:00.06 /System/Library/CoreServices/SubmitDiagInfo server-init
+root               275   0.0  0.6  4404636  53452   ??  Ss   12:50下午   0:06.41 /usr/sbin/spindump
+root               274   0.0  0.0  4318232   3416   ??  Ss   12:50下午   0:00.06 /usr/libexec/securityd_service
+niubi              273   0.0  0.0  4351032   3572   ??  S    12:50下午   0:03.57 /usr/sbin/cfprefsd agent
+niubi              272   0.0  0.1  4378264   5076   ??  S    12:50下午   0:00.06 /System/Library/Frameworks/LocalAuthentication.framework/Support/coreauthd
+root               270   0.0  0.0  4301640   1532   ??  Ss   12:50下午   0:00.01 /System/Library/Frameworks/GSS.framework/Helpers/GSSCred
+root               267   0.0  0.1  4379124   5280   ??  Ss   12:50下午   0:00.30 /System/Library/PrivateFrameworks/AmbientDisplay.framework/Versions/A/XPCServices/com.apple.AmbientDisplayAgent.xpc/Contents/MacOS/com.apple.AmbientDisplayAgent
+root               266   0.0  0.0  4341960   1192   ??  Ss   12:50下午   0:00.02 /usr/libexec/smd
+root               265   0.0  0.0  4342272   3176   ??  Ss   12:50下午   0:00.79 /usr/libexec/watchdogd
+root               263   0.0  0.0  4334144    744   ??  Ss   12:50下午   0:00.01 /System/Library/Frameworks/CoreMediaIO.framework/Versions/A/XPCServices/com.apple.cmio.registerassistantservice.xpc/Contents/MacOS/com.apple.cmio.registerassistantservice
+root               262   0.0  0.0  4381020   3500   ??  S    12:50下午   0:00.22 /usr/sbin/systemstats --logger-helper /private/var/db/systemstats
+root               261   0.0  0.0  4350152   1708   ??  Ss   12:50下午   0:01.57 /usr/libexec/sysmond
+root               259   0.0  0.0  4353064   2624   ??  Ss   12:50下午   0:01.09 /System/Library/PrivateFrameworks/CoreSymbolication.framework/coresymbolicationd
+root               258   0.0  0.1  4379396   4404   ??  Ss   12:50下午   0:00.03 /System/Library/CoreServices/sharedfilelistd
+root               254   0.0  0.1  4391828   7236   ??  Ss   12:50下午   0:01.17 /usr/sbin/systemsoundserverd
+_ctkd              253   0.0  0.0  4335720   1644   ??  Ss   12:50下午   0:00.02 /System/Library/Frameworks/CryptoTokenKit.framework/ctkd -s
+root               249   0.0  0.1  4351608   4292   ??  Ss   12:50下午   0:00.03 /System/Library/Frameworks/CryptoTokenKit.framework/ctkahp.bundle/Contents/MacOS/ctkahp -d
+root               248   0.0  0.1  4334008   4304   ??  Ss   12:50下午   0:00.02 /System/Library/Frameworks/LocalAuthentication.framework/Support/coreauthd
+root               247   0.0  0.0  4334112   2324   ??  Ss   12:50下午   0:00.02 /System/Library/PrivateFrameworks/AccountPolicy.framework/XPCServices/com.apple.AccountPolicyHelper.xpc/Contents/MacOS/com.apple.AccountPolicyHelper
+_captiveagent      246   0.0  0.0  4352680   3568   ??  Ss   12:50下午   0:00.04 /usr/libexec/captiveagent
+root               244   0.0  0.0  4351604   2344   ??  S    12:50下午   0:00.08 /usr/sbin/distnoted agent
+root               243   0.0  0.1  4378696   6972   ??  S    12:50下午   0:01.00 /System/Library/PrivateFrameworks/ViewBridge.framework/Versions/A/XPCServices/ViewBridgeAuxiliary.xpc/Contents/MacOS/ViewBridgeAuxiliary
+root               237   0.0  0.9  5099156  77540   ??  Ss   12:50下午   0:37.60 /System/Library/Frameworks/CoreServices.framework/Frameworks/Metadata.framework/Versions/A/Support/mds_stores
+root               228   0.0  0.1  4315364   5672   ??  Ss   12:50下午   0:00.02 /usr/libexec/bootinstalld
+root               227   0.0  0.1  4381540   4908   ??  Ss   12:50下午   0:00.22 /usr/libexec/diskmanagementd
+_appleevents       226   0.0  0.1  4382024   7036   ??  Ss   12:50下午   0:00.27 /System/Library/CoreServices/appleeventsd --server
+root               225   0.0  0.1  4381036   7156   ??  Ss   12:50下午   0:00.83 /usr/libexec/mobileassetd
+_cmiodalassistants   224   0.0  0.1  4409124   8232   ??  Ss   12:50下午   0:00.12 /System/Library/Frameworks/CoreMediaIO.framework/Resources/VDC.plugin/Contents/Resources/VDCAssistant
+root               223   0.0  0.0  4371240   2920   ??  Ss   12:50下午   0:00.73 /usr/libexec/usbd
+root               222   0.0  0.0  4349984   2740   ??  Ss   12:50下午   0:00.02 /usr/libexec/apfsd
+root               221   0.0  0.0  4324388   2972   ??  Ss   12:50下午   0:00.01 /System/Library/CryptoTokenKit/com.apple.ifdreader.slotd/Contents/MacOS/com.apple.ifdreader
+_nsurlsessiond     220   0.0  0.1  4384252   9312   ??  Ss   12:50下午   0:01.39 /usr/libexec/nsurlsessiond --privileged
+root               219   0.0  0.0  4351184   3940   ??  Ss   12:50下午   0:00.02 /usr/libexec/colorsyncd
+root               218   0.0  0.0  4350024   3680   ??  Ss   12:50下午   0:00.05 /usr/libexec/colorsync.displayservices
+root               217   0.0  0.0  4335420   3468   ??  Ss   12:50下午   0:00.02 /System/Library/Frameworks/OpenGL.framework/Versions/A/Libraries/CVMServer
+root               215   0.0  0.1  4380768   6760   ??  Ss   12:50下午   0:00.05 /usr/libexec/secinitd
+_locationd         213   0.0  0.1  4383392   6312   ??  S    12:50下午   0:00.12 /usr/libexec/trustd --agent
+_locationd         212   0.0  0.0  4350420   1356   ??  S    12:50下午   0:00.01 /usr/sbin/cfprefsd agent
+_locationd         211   0.0  0.1  4380804   7248   ??  S    12:50下午   0:00.05 /usr/libexec/secinitd
+_locationd         210   0.0  0.1  4384312   8496   ??  S    12:50下午   0:00.39 /System/Library/PrivateFrameworks/GeoServices.framework/Versions/A/XPCServices/com.apple.geod.xpc/Contents/MacOS/com.apple.geod
+root               209   0.0  0.0  4370968   3324   ??  Ss   12:50下午   0:01.00 /usr/sbin/mDNSResponderHelper
+root               208   0.0  0.1  4378804   8684   ??  Ss   12:50下午   0:01.08 /System/Library/CoreServices/backupd.bundle/Contents/Resources/backupd-helper -launchd
+_coreaudiod        206   0.0  0.0  4305080   3264   ??  Ss   12:50下午   0:00.01 /System/Library/Frameworks/AudioToolbox.framework/XPCServices/com.apple.audio.SandboxHelper.xpc/Contents/MacOS/com.apple.audio.SandboxHelper
+root               205   0.0  0.1  4334876   5616   ??  Ss   12:50下午   0:00.04 /System/Library/Frameworks/AudioToolbox.framework/AudioComponentRegistrar -daemon
+_coreaudiod        204   0.0  0.0  4378664   3892   ??  Ss   12:50下午   0:00.03 /System/Library/Frameworks/CoreAudio.framework/Versions/A/XPCServices/com.apple.audio.DriverHelper.xpc/Contents/MacOS/com.apple.audio.DriverHelper
+root               203   0.0  0.1  4353384   6124   ??  Ss   12:50下午   0:00.24 /System/Library/Frameworks/Security.framework/Versions/A/XPCServices/com.apple.CodeSigningHelper.xpc/Contents/MacOS/com.apple.CodeSigningHelper
+root               202   0.0  0.1  4384352   9124   ??  Ss   12:50下午   0:01.45 /usr/libexec/lsd runAsRoot
+root               197   0.0  0.1  4384260   7124   ??  Ss   12:50下午   0:01.08 /usr/libexec/runningboardd
+root               189   0.0  0.1  4379580   4612   ??  Ss   12:50下午   0:00.07 /System/Library/PrivateFrameworks/WirelessDiagnostics.framework/Support/awdd
+_mdnsresponder     188   0.0  0.1  4381316   6912   ??  Ss   12:50下午   0:03.44 /usr/sbin/mDNSResponder
+root               187   0.0  0.2  4391988  19384   ??  Ss   12:50下午   0:00.98 /usr/libexec/syspolicyd
+_networkd          186   0.0  0.1  4393192   9168   ??  Ss   12:50下午   0:03.72 /usr/libexec/symptomsd
+_windowserver      177   0.0  1.5  7954728 127712   ??  Ss   12:50下午  21:37.69 /System/Library/PrivateFrameworks/SkyLight.framework/Resources/WindowServer -daemon
+root               170   0.0  0.1  4381388  10700   ??  Ss   12:50下午   0:00.15 /usr/libexec/searchpartyd
+_analyticsd        161   0.0  0.1  4385160  11124   ??  Ss   12:50下午   0:01.32 /System/Library/PrivateFrameworks/CoreAnalytics.framework/Support/analyticsd
+_coreaudiod        160   0.0  0.1  4387828  12320   ??  Ss   12:50下午   5:59.05 /usr/sbin/coreaudiod
+root               158   0.0  0.1  4380136   6868   ??  Ss   12:50下午   0:00.22 /usr/libexec/nehelper
+root               156   0.0  0.2  4391592  19256   ??  Ss   12:50下午   0:08.84 /usr/libexec/airportd
+root               154   0.0  0.2  4385348  13084   ??  Ss   12:50下午   0:03.69 /System/Library/PrivateFrameworks/CoreDuetContext.framework/Resources/contextstored
+root               152   0.0  0.2  4388180  15392   ??  Ss   12:50下午   0:07.81 /usr/libexec/trustd
+root               151   0.0  0.1  4380568   6932   ??  Ss   12:50下午   0:01.17 /usr/libexec/amfid
+root               144   0.0  0.1  4382352   9308   ??  Ss   12:50下午   0:00.54 /System/Library/Frameworks/Security.framework/Versions/A/XPCServices/authd.xpc/Contents/MacOS/authd
+root               142   0.0  0.1  4369516   7528   ??  Ss   12:50下午   0:00.52 /System/Library/CoreServices/coreservicesd
+niubi              133   0.0  1.0  4605812  79844   ??  Ss   12:50下午   0:04.03 /System/Library/CoreServices/loginwindow.app/Contents/MacOS/loginwindow console
+root               128   0.0  0.0  4308272    676   ??  Ss   12:50下午   0:00.02 aslmanager
+root               120   0.0  0.2  4389012  13028   ??  Ss   12:50下午   0:02.78 /System/Library/PrivateFrameworks/TCC.framework/Resources/tccd system
+root               119   0.0  0.0  4350484   4016   ??  Ss   12:50下午   0:03.00 /usr/sbin/cfprefsd daemon
+_distnote          118   0.0  0.0  4351604   4068   ??  Ss   12:50下午   0:00.54 /usr/sbin/distnoted daemon
+root               117   0.0  0.0  4350468   2160   ??  Ss   12:50下午   0:04.02 /usr/sbin/notifyd
+root               116   0.0  0.1  4382792   9940   ??  Ss   12:50下午   0:03.23 /usr/libexec/AirPlayXPCHelper
+root               115   0.0  0.2  4394144  20268   ??  Ss   12:50下午   0:05.29 /usr/libexec/corebrightnessd --launchd
+root               114   0.0  0.1  4381524   6912   ??  Ss   12:50下午   0:01.53 /usr/libexec/sandboxd
+_hidd              113   0.0  0.1  4380892   7404   ??  Ss   12:50下午   0:34.09 /usr/libexec/hidd
+root               112   0.0  0.1  4383996  11540   ??  Ss   12:50下午   0:28.89 /usr/sbin/bluetoothd
+root               110   0.0  0.0  4309196   1564   ??  Ss   12:50下午   0:00.01 /usr/sbin/KernelEventAgent
+root               109   0.0  0.0  4380948   3768   ??  Ss   12:50下午   0:00.14 /System/Library/PrivateFrameworks/GenerationalStorage.framework/Versions/A/Support/revisiond
+root               108   0.0  0.0  4350004   3816   ??  Ss   12:50下午   0:00.05 /System/Library/CoreServices/logind
+root               104   0.0  0.1  4384424   9672   ??  Ss   12:50下午   0:06.20 /usr/libexec/dasd
+_displaypolicyd    103   0.0  0.1  4353308   6552   ??  Ss   12:50下午   0:00.14 /usr/libexec/displaypolicyd -k 1
+root               102   0.0  0.0  4333872   2204   ??  Ss   12:50下午   0:00.01 autofsd
+_locationd         100   0.0  0.2  4388852  12908   ??  Ss   12:50下午   0:02.15 /usr/libexec/locationd
+root                98   0.0  0.0  4317116   1592   ??  Ss   12:50下午   0:00.01 auditd -l
+root                97   0.0  0.1  4382748   8896   ??  Ss   12:50下午   0:03.22 /usr/sbin/securityd -i
+_usbmuxd            96   0.0  0.0  4362400   3468   ??  Ss   12:50下午   0:00.08 /System/Library/PrivateFrameworks/MobileDevice.framework/Versions/A/Resources/usbmuxd -launchd
+_timed              95   0.0  0.1  4378144   4240   ??  Ss   12:50下午   0:00.16 /usr/libexec/timed
+root                94   0.0  0.1  4381576   9900   ??  Ss   12:50下午   0:05.85 /System/Library/CoreServices/launchservicesd
+root                93   0.0  0.3  4400044  24892   ??  Ss   12:50下午   0:02.03 /System/Library/PrivateFrameworks/ApplePushService.framework/apsd
+root                92   0.0  0.3  4422636  26676   ??  Ss   12:50下午   0:08.87 /usr/libexec/opendirectoryd
+root                89   0.0  0.2  4387236  16088   ??  Ss   12:50下午   0:01.09 /usr/libexec/coreduetd
+root                86   0.0  0.1  4377948   5344   ??  Ss   12:50下午   0:01.04 /usr/libexec/diskarbitrationd
+_iconservices       85   0.0  0.0  4351992   2460   ??  Ss   12:50下午   0:00.05 /System/Library/CoreServices/iconservicesd
+root                84   0.0  0.7  4503884  56752   ??  Ss   12:50下午   1:10.08 /System/Library/Frameworks/CoreServices.framework/Frameworks/Metadata.framework/Support/mds
+root                77   0.0  0.0  4350368   3216   ??  Ss   12:50下午   0:00.12 /usr/libexec/keybagd -t 15
+root                76   0.0  0.4  4446416  31964   ??  Ss   12:50下午   0:17.82 /usr/libexec/logd
+root                72   0.0  0.1  4379876   7304   ??  Ss   12:50下午   0:04.95 /System/Library/CoreServices/powerd.bundle/powerd
+root                71   0.0  0.0  4342760   1072   ??  Ss   12:50下午   0:00.03 endpointsecurityd
+root                70   0.0  0.1  4384552   8696   ??  Ss   12:50下午   0:07.92 /usr/libexec/configd
+root                69   0.0  0.2  4388804  13420   ??  Ss   12:50下午   0:14.92 /usr/sbin/systemstats --daemon
+root                65   0.0  0.2  4387964  15688   ??  Ss   12:50下午   0:00.81 /System/Library/PrivateFrameworks/MediaRemote.framework/Support/mediaremoted
+root                64   0.0  0.1  4373908   5812   ??  Ss   12:50下午   0:11.84 /System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/FSEvents.framework/Versions/A/Support/fseventsd
+root                63   0.0  0.2  4890036  14424   ??  Ss   12:50下午   0:01.66 /usr/libexec/kextd
+root                62   0.0  0.0  4333776   2332   ??  Ss   12:50下午   0:00.71 /System/Library/PrivateFrameworks/Uninstall.framework/Resources/uninstalld
+root                59   0.0  0.1  4381252  11928   ??  Ss   12:50下午   0:09.51 /usr/libexec/UserEventAgent (System)
+root                58   0.0  0.0  4350860   1180   ??  Ss   12:50下午   0:00.98 /usr/sbin/syslogd
+root             15467   0.0  0.0  4268724    924 s000  R+    7:23下午   0:00.00 ps aux
+root                 1   0.0  0.2  4373588  19804   ??  Ss   12:50下午   0:21.65 /sbin/launchd
