@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/sunguosheng/CLionProjects/类模板的应用--数组类的封装/myOutOfrangeException.cpp
+iostream
+-
+stdexcept
+-
+string
+-
+

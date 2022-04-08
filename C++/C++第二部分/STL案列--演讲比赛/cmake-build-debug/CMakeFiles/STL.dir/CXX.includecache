@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/sunguosheng/CLionProjects/STL案列--演讲比赛/main.cpp
+iostream
+-
+vector
+-
+map
+-
+string
+-
+algorithm
+-
+functional
+-
+random
+-
+deque
+-
+numeric
+-
+

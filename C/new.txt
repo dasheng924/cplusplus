@@ -1,0 +1,2927 @@
+Undefined symbols for architecture x86_64:
+  "_main", referenced from:
+     implicit entry/start for main executable
+ld: symbol(s) not found for architecture x86_64
+clang: error: linker command failed with exit code 1 (use -v to see invocation)
+
+[Done] exited with code=1 in 0.085 seconds
+
+[Running] cd "/Users/sunguosheng/Code/new_learning/C/" && gcc _45_库函数的使用.c -o _45_库函数的使用 && "/Users/sunguosheng/Code/new_learning/C/"_45_库函数的使用
+Undefined symbols for architecture x86_64:
+  "_main", referenced from:
+     implicit entry/start for main executable
+ld: symbol(s) not found for architecture x86_64
+clang: error: linker command failed with exit code 1 (use -v to see invocation)
+
+[Done] exited with code=1 in 0.145 seconds
+
+[Running] cd "/Users/sunguosheng/Code/new_learning/C/" && gcc _46_大文件的拷贝.c -o _46_大文件的拷贝 && "/Users/sunguosheng/Code/new_learning/C/"_46_大文件的拷贝
+Undefined symbols for architecture x86_64:
+  "_main", referenced from:
+     implicit entry/start for main executable
+ld: symbol(s) not found for architecture x86_64
+clang: error: linker command failed with exit code 1 (use -v to see invocation)
+
+[Done] exited with code=1 in 0.623 seconds
+
+[Running] cd "/Users/sunguosheng/Code/new_learning/C/" && gcc _46_大文件的拷贝.c -o _46_大文件的拷贝 && "/Users/sunguosheng/Code/new_learning/C/"_46_大文件的拷贝
+Undefined symbols for architecture x86_64:
+  "_main", referenced from:
+     implicit entry/start for main executable
+ld: symbol(s) not found for architecture x86_64
+clang: error: linker command failed with exit code 1 (use -v to see invocation)
+
+[Done] exited with code=1 in 0.088 seconds
+
+[Running] cd "/Users/sunguosheng/Code/new_learning/C/" && gcc _46_大文件的拷贝.c -o _46_大文件的拷贝 && "/Users/sunguosheng/Code/new_learning/C/"_46_大文件的拷贝
+Undefined symbols for architecture x86_64:
+  "_main", referenced from:
+     implicit entry/start for main executable
+ld: symbol(s) not found for architecture x86_64
+clang: error: linker command failed with exit code 1 (use -v to see invocation)
+
+[Done] exited with code=1 in 0.086 seconds
+
+[Running] cd "/Users/sunguosheng/Code/new_learning/C/" && gcc _46_大文件的拷贝.c -o _46_大文件的拷贝 && "/Users/sunguosheng/Code/new_learning/C/"_46_大文件的拷贝
+Undefined symbols for architecture x86_64:
+  "_main", referenced from:
+     implicit entry/start for main executable
+ld: symbol(s) not found for architecture x86_64
+clang: error: linker command failed with exit code 1 (use -v to see invocation)
+
+[Done] exited with code=1 in 0.199 seconds
+
+[Running] cd "/Users/sunguosheng/Code/new_learning/C/" && gcc _46_大文件的拷贝.c -o _46_大文件的拷贝 && "/Users/sunguosheng/Code/new_learning/C/"_46_大文件的拷贝
+Undefined symbols for architecture x86_64:
+  "_main", referenced from:
+     implicit entry/start for main executable
+ld: symbol(s) not found for architecture x86_64
+clang: error: linker command failed with exit code 1 (use -v to see invocation)[Done] exited with code=1 in 0.827 seconds
+
+[Running] cd "/Users/sunguosheng/Code/new_learning/C/" && gcc _45_库函数的使用.c -o _45_库函数的使用 && "/Users/sunguosheng/Code/new_learning/C/"_45_库函数的使用
+Undefined symbols for architecture x86_64:
+  "_main", referenced from:
+     implicit entry/start for main executable
+ld: symbol(s) not found for architecture x86_64
+clang: error: linker command failed with exit code 1 (use -v to see invocation)
+
+[Done] exited with code=1 in 0.085 seconds
+
+[Running] cd "/Users/sunguosheng/Code/new_learning/C/" && gcc _45_库函数的使用.c -o _45_库函数的使用 && "/Users/sunguosheng/Code/new_learning/C/"_45_库函数的使用
+Undefined symbols for architecture x86_64:
+  "_main", referenced from:
+     implicit entry/start for main executable
+ld: symbol(s) not found for architecture x86_64
+clang: error: linker command failed with exit code 1 (use -v to see invocation)
+
+[Done] exited with code=1 in 0.145 seconds
+
+[Running] cd "/Users/sunguosheng/Code/new_learning/C/" && gcc _46_大文件的拷贝.c -o _46_大文件的拷贝 && "/Users/sunguosheng/Code/new_learning/C/"_46_大文件的拷贝
+Undefined symbols for architecture x86_64:
+  "_main", referenced from:
+     implicit entry/start for main executable
+ld: symbol(s) not found for architecture x86_64
+clang: error: linker command failed with exit code 1 (use -v to see invocation)
+
+[Done] exited with code=1 in 0.623 seconds
+
+[Running] cd "/Users/sunguosheng/Code/new_learning/C/" && gcc _46_大文件的拷贝.c -o _46_大文件的拷贝 && "/Users/sunguosheng/Code/new_learning/C/"_46_大文件的拷贝
+Undefined symbols for architecture x86_64:
+  "_main", referenced from:
+     implicit entry/start for main executable
+ld: symbol(s) not found for architecture x86_64
+clang: error: linker command failed with exit code 1 (use -v to see invocation)
+
+[Done] exited with code=1 in 0.088 seconds
+
+[Running] cd "/Users/sunguosheng/Code/new_learning/C/" && gcc _46_大文件的拷贝.c -o _46_大文件的拷贝 && "/Users/sunguosheng/Code/new_learning/C/"_46_大文件的拷贝
+Undefined symbols for architecture x86_64:
+  "_main", referenced from:
+     implicit entry/start for main executable
+ld: symbol(s) not found for architecture x86_64
+clang: error: linker command failed with exit code 1 (use -v to see invocation)
+
+[Done] exited with code=1 in 0.086 seconds
+
+[Running] cd "/Users/sunguosheng/Code/new_learning/C/" && gcc _46_大文件的拷贝.c -o _46_大文件的拷贝 && "/Users/sunguosheng/Code/new_learning/C/"_46_大文件的拷贝
+Undefined symbols for architecture x86_64:
+  "_main", referenced from:
+     implicit entry/start for main executable
+ld: symbol(s) not found for architecture x86_64
+clang: error: linker command failed with exit code 1 (use -v to see invocation)
+
+[Done] exited with code=1 in 0.199 seconds
+
+[Running] cd "/Users/sunguosheng/Code/new_learning/C/" && gcc _46_大文件的拷贝.c -o _46_大文件的拷贝 && "/Users/sunguosheng/Code/new_learning/C/"_46_大文件的拷贝
+Undefined symbols for architecture x86_64:
+  "_main", referenced from:
+     implicit entry/start for main executable
+ld: symbol(s) not found for architecture x86_64
+clang: error: linker command failed with exit code 1 (use -v to see invocation)[Done] exited with code=1 in 0.827 seconds
+
+[Running] cd "/Users/sunguosheng/Code/new_learning/C/" && gcc _45_库函数的使用.c -o _45_库函数的使用 && "/Users/sunguosheng/Code/new_learning/C/"_45_库函数的使用
+Undefined symbols for architecture x86_64:
+  "_main", referenced from:
+     implicit entry/start for main executable
+ld: symbol(s) not found for architecture x86_64
+clang: error: linker command failed with exit code 1 (use -v to see invocation)
+
+[Done] exited with code=1 in 0.085 seconds
+
+[Running] cd "/Users/sunguosheng/Code/new_learning/C/" && gcc _45_库函数的使用.c -o _45_库函数的使用 && "/Users/sunguosheng/Code/new_learning/C/"_45_库函数的使用
+Undefined symbols for architecture x86_64:
+  "_main", referenced from:
+     implicit entry/start for main executable
+ld: symbol(s) not found for architecture x86_64
+clang: error: linker command failed with exit code 1 (use -v to see invocation)
+
+[Done] exited with code=1 in 0.145 seconds
+
+[Running] cd "/Users/sunguosheng/Code/new_learning/C/" && gcc _46_大文件的拷贝.c -o _46_大文件的拷贝 && "/Users/sunguosheng/Code/new_learning/C/"_46_大文件的拷贝
+Undefined symbols for architecture x86_64:
+  "_main", referenced from:
+     implicit entry/start for main executable
+ld: symbol(s) not found for architecture x86_64
+clang: error: linker command failed with exit code 1 (use -v to see invocation)
+
+[Done] exited with code=1 in 0.623 seconds
+
+[Running] cd "/Users/sunguosheng/Code/new_learning/C/" && gcc _46_大文件的拷贝.c -o _46_大文件的拷贝 && "/Users/sunguosheng/Code/new_learning/C/"_46_大文件的拷贝
+Undefined symbols for architecture x86_64:
+  "_main", referenced from:
+     implicit entry/start for main executable
+ld: symbol(s) not found for architecture x86_64
+clang: error: linker command failed with exit code 1 (use -v to see invocation)
+
+[Done] exited with code=1 in 0.088 seconds
+
+[Running] cd "/Users/sunguosheng/Code/new_learning/C/" && gcc _46_大文件的拷贝.c -o _46_大文件的拷贝 && "/Users/sunguosheng/Code/new_learning/C/"_46_大文件的拷贝
+Undefined symbols for architecture x86_64:
+  "_main", referenced from:
+     implicit entry/start for main executable
+ld: symbol(s) not found for architecture x86_64
+clang: error: linker command failed with exit code 1 (use -v to see invocation)
+
+[Done] exited with code=1 in 0.086 seconds
+
+[Running] cd "/Users/sunguosheng/Code/new_learning/C/" && gcc _46_大文件的拷贝.c -o _46_大文件的拷贝 && "/Users/sunguosheng/Code/new_learning/C/"_46_大文件的拷贝
+Undefined symbols for architecture x86_64:
+  "_main", referenced from:
+     implicit entry/start for main executable
+ld: symbol(s) not found for architecture x86_64
+clang: error: linker command failed with exit code 1 (use -v to see invocation)
+
+[Done] exited with code=1 in 0.199 seconds
+
+[Running] cd "/Users/sunguosheng/Code/new_learning/C/" && gcc _46_大文件的拷贝.c -o _46_大文件的拷贝 && "/Users/sunguosheng/Code/new_learning/C/"_46_大文件的拷贝
+Undefined symbols for architecture x86_64:
+  "_main", referenced from:
+     implicit entry/start for main executable
+ld: symbol(s) not found for architecture x86_64
+clang: error: linker command failed with exit code 1 (use -v to see invocation)[Done] exited with code=1 in 0.827 seconds
+
+[Running] cd "/Users/sunguosheng/Code/new_learning/C/" && gcc _45_库函数的使用.c -o _45_库函数的使用 && "/Users/sunguosheng/Code/new_learning/C/"_45_库函数的使用
+Undefined symbols for architecture x86_64:
+  "_main", referenced from:
+     implicit entry/start for main executable
+ld: symbol(s) not found for architecture x86_64
+clang: error: linker command failed with exit code 1 (use -v to see invocation)
+
+[Done] exited with code=1 in 0.085 seconds
+
+[Running] cd "/Users/sunguosheng/Code/new_learning/C/" && gcc _45_库函数的使用.c -o _45_库函数的使用 && "/Users/sunguosheng/Code/new_learning/C/"_45_库函数的使用
+Undefined symbols for architecture x86_64:
+  "_main", referenced from:
+     implicit entry/start for main executable
+ld: symbol(s) not found for architecture x86_64
+clang: error: linker command failed with exit code 1 (use -v to see invocation)
+
+[Done] exited with code=1 in 0.145 seconds
+
+[Running] cd "/Users/sunguosheng/Code/new_learning/C/" && gcc _46_大文件的拷贝.c -o _46_大文件的拷贝 && "/Users/sunguosheng/Code/new_learning/C/"_46_大文件的拷贝
+Undefined symbols for architecture x86_64:
+  "_main", referenced from:
+     implicit entry/start for main executable
+ld: symbol(s) not found for architecture x86_64
+clang: error: linker command failed with exit code 1 (use -v to see invocation)
+
+[Done] exited with code=1 in 0.623 seconds
+
+[Running] cd "/Users/sunguosheng/Code/new_learning/C/" && gcc _46_大文件的拷贝.c -o _46_大文件的拷贝 && "/Users/sunguosheng/Code/new_learning/C/"_46_大文件的拷贝
+Undefined symbols for architecture x86_64:
+  "_main", referenced from:
+     implicit entry/start for main executable
+ld: symbol(s) not found for architecture x86_64
+clang: error: linker command failed with exit code 1 (use -v to see invocation)
+
+[Done] exited with code=1 in 0.088 seconds
+
+[Running] cd "/Users/sunguosheng/Code/new_learning/C/" && gcc _46_大文件的拷贝.c -o _46_大文件的拷贝 && "/Users/sunguosheng/Code/new_learning/C/"_46_大文件的拷贝
+Undefined symbols for architecture x86_64:
+  "_main", referenced from:
+     implicit entry/start for main executable
+ld: symbol(s) not found for architecture x86_64
+clang: error: linker command failed with exit code 1 (use -v to see invocation)
+
+[Done] exited with code=1 in 0.086 seconds
+
+[Running] cd "/Users/sunguosheng/Code/new_learning/C/" && gcc _46_大文件的拷贝.c -o _46_大文件的拷贝 && "/Users/sunguosheng/Code/new_learning/C/"_46_大文件的拷贝
+Undefined symbols for architecture x86_64:
+  "_main", referenced from:
+     implicit entry/start for main executable
+ld: symbol(s) not found for architecture x86_64
+clang: error: linker command failed with exit code 1 (use -v to see invocation)
+
+[Done] exited with code=1 in 0.199 seconds
+
+[Running] cd "/Users/sunguosheng/Code/new_learning/C/" && gcc _46_大文件的拷贝.c -o _46_大文件的拷贝 && "/Users/sunguosheng/Code/new_learning/C/"_46_大文件的拷贝
+Undefined symbols for architecture x86_64:
+  "_main", referenced from:
+     implicit entry/start for main executable
+ld: symbol(s) not found for architecture x86_64
+clang: error: linker command failed with exit code 1 (use -v to see invocation)[Done] exited with code=1 in 0.827 seconds
+
+[Running] cd "/Users/sunguosheng/Code/new_learning/C/" && gcc _45_库函数的使用.c -o _45_库函数的使用 && "/Users/sunguosheng/Code/new_learning/C/"_45_库函数的使用
+Undefined symbols for architecture x86_64:
+  "_main", referenced from:
+     implicit entry/start for main executable
+ld: symbol(s) not found for architecture x86_64
+clang: error: linker command failed with exit code 1 (use -v to see invocation)
+
+[Done] exited with code=1 in 0.085 seconds
+
+[Running] cd "/Users/sunguosheng/Code/new_learning/C/" && gcc _45_库函数的使用.c -o _45_库函数的使用 && "/Users/sunguosheng/Code/new_learning/C/"_45_库函数的使用
+Undefined symbols for architecture x86_64:
+  "_main", referenced from:
+     implicit entry/start for main executable
+ld: symbol(s) not found for architecture x86_64
+clang: error: linker command failed with exit code 1 (use -v to see invocation)
+
+[Done] exited with code=1 in 0.145 seconds
+
+[Running] cd "/Users/sunguosheng/Code/new_learning/C/" && gcc _46_大文件的拷贝.c -o _46_大文件的拷贝 && "/Users/sunguosheng/Code/new_learning/C/"_46_大文件的拷贝
+Undefined symbols for architecture x86_64:
+  "_main", referenced from:
+     implicit entry/start for main executable
+ld: symbol(s) not found for architecture x86_64
+clang: error: linker command failed with exit code 1 (use -v to see invocation)
+
+[Done] exited with code=1 in 0.623 seconds
+
+[Running] cd "/Users/sunguosheng/Code/new_learning/C/" && gcc _46_大文件的拷贝.c -o _46_大文件的拷贝 && "/Users/sunguosheng/Code/new_learning/C/"_46_大文件的拷贝
+Undefined symbols for architecture x86_64:
+  "_main", referenced from:
+     implicit entry/start for main executable
+ld: symbol(s) not found for architecture x86_64
+clang: error: linker command failed with exit code 1 (use -v to see invocation)
+
+[Done] exited with code=1 in 0.088 seconds
+
+[Running] cd "/Users/sunguosheng/Code/new_learning/C/" && gcc _46_大文件的拷贝.c -o _46_大文件的拷贝 && "/Users/sunguosheng/Code/new_learning/C/"_46_大文件的拷贝
+Undefined symbols for architecture x86_64:
+  "_main", referenced from:
+     implicit entry/start for main executable
+ld: symbol(s) not found for architecture x86_64
+clang: error: linker command failed with exit code 1 (use -v to see invocation)
+
+[Done] exited with code=1 in 0.086 seconds
+
+[Running] cd "/Users/sunguosheng/Code/new_learning/C/" && gcc _46_大文件的拷贝.c -o _46_大文件的拷贝 && "/Users/sunguosheng/Code/new_learning/C/"_46_大文件的拷贝
+Undefined symbols for architecture x86_64:
+  "_main", referenced from:
+     implicit entry/start for main executable
+ld: symbol(s) not found for architecture x86_64
+clang: error: linker command failed with exit code 1 (use -v to see invocation)
+
+[Done] exited with code=1 in 0.199 seconds
+
+[Running] cd "/Users/sunguosheng/Code/new_learning/C/" && gcc _46_大文件的拷贝.c -o _46_大文件的拷贝 && "/Users/sunguosheng/Code/new_learning/C/"_46_大文件的拷贝
+Undefined symbols for architecture x86_64:
+  "_main", referenced from:
+     implicit entry/start for main executable
+ld: symbol(s) not found for architecture x86_64
+clang: error: linker command failed with exit code 1 (use -v to see invocation)[Done] exited with code=1 in 0.827 seconds
+
+[Running] cd "/Users/sunguosheng/Code/new_learning/C/" && gcc _45_库函数的使用.c -o _45_库函数的使用 && "/Users/sunguosheng/Code/new_learning/C/"_45_库函数的使用
+Undefined symbols for architecture x86_64:
+  "_main", referenced from:
+     implicit entry/start for main executable
+ld: symbol(s) not found for architecture x86_64
+clang: error: linker command failed with exit code 1 (use -v to see invocation)
+
+[Done] exited with code=1 in 0.085 seconds
+
+[Running] cd "/Users/sunguosheng/Code/new_learning/C/" && gcc _45_库函数的使用.c -o _45_库函数的使用 && "/Users/sunguosheng/Code/new_learning/C/"_45_库函数的使用
+Undefined symbols for architecture x86_64:
+  "_main", referenced from:
+     implicit entry/start for main executable
+ld: symbol(s) not found for architecture x86_64
+clang: error: linker command failed with exit code 1 (use -v to see invocation)
+
+[Done] exited with code=1 in 0.145 seconds
+
+[Running] cd "/Users/sunguosheng/Code/new_learning/C/" && gcc _46_大文件的拷贝.c -o _46_大文件的拷贝 && "/Users/sunguosheng/Code/new_learning/C/"_46_大文件的拷贝
+Undefined symbols for architecture x86_64:
+  "_main", referenced from:
+     implicit entry/start for main executable
+ld: symbol(s) not found for architecture x86_64
+clang: error: linker command failed with exit code 1 (use -v to see invocation)
+
+[Done] exited with code=1 in 0.623 seconds
+
+[Running] cd "/Users/sunguosheng/Code/new_learning/C/" && gcc _46_大文件的拷贝.c -o _46_大文件的拷贝 && "/Users/sunguosheng/Code/new_learning/C/"_46_大文件的拷贝
+Undefined symbols for architecture x86_64:
+  "_main", referenced from:
+     implicit entry/start for main executable
+ld: symbol(s) not found for architecture x86_64
+clang: error: linker command failed with exit code 1 (use -v to see invocation)
+
+[Done] exited with code=1 in 0.088 seconds
+
+[Running] cd "/Users/sunguosheng/Code/new_learning/C/" && gcc _46_大文件的拷贝.c -o _46_大文件的拷贝 && "/Users/sunguosheng/Code/new_learning/C/"_46_大文件的拷贝
+Undefined symbols for architecture x86_64:
+  "_main", referenced from:
+     implicit entry/start for main executable
+ld: symbol(s) not found for architecture x86_64
+clang: error: linker command failed with exit code 1 (use -v to see invocation)
+
+[Done] exited with code=1 in 0.086 seconds
+
+[Running] cd "/Users/sunguosheng/Code/new_learning/C/" && gcc _46_大文件的拷贝.c -o _46_大文件的拷贝 && "/Users/sunguosheng/Code/new_learning/C/"_46_大文件的拷贝
+Undefined symbols for architecture x86_64:
+  "_main", referenced from:
+     implicit entry/start for main executable
+ld: symbol(s) not found for architecture x86_64
+clang: error: linker command failed with exit code 1 (use -v to see invocation)
+
+[Done] exited with code=1 in 0.199 seconds
+
+[Running] cd "/Users/sunguosheng/Code/new_learning/C/" && gcc _46_大文件的拷贝.c -o _46_大文件的拷贝 && "/Users/sunguosheng/Code/new_learning/C/"_46_大文件的拷贝
+Undefined symbols for architecture x86_64:
+  "_main", referenced from:
+     implicit entry/start for main executable
+ld: symbol(s) not found for architecture x86_64
+clang: error: linker command failed with exit code 1 (use -v to see invocation)[Done] exited with code=1 in 0.827 seconds
+
+[Running] cd "/Users/sunguosheng/Code/new_learning/C/" && gcc _45_库函数的使用.c -o _45_库函数的使用 && "/Users/sunguosheng/Code/new_learning/C/"_45_库函数的使用
+Undefined symbols for architecture x86_64:
+  "_main", referenced from:
+     implicit entry/start for main executable
+ld: symbol(s) not found for architecture x86_64
+clang: error: linker command failed with exit code 1 (use -v to see invocation)
+
+[Done] exited with code=1 in 0.085 seconds
+
+[Running] cd "/Users/sunguosheng/Code/new_learning/C/" && gcc _45_库函数的使用.c -o _45_库函数的使用 && "/Users/sunguosheng/Code/new_learning/C/"_45_库函数的使用
+Undefined symbols for architecture x86_64:
+  "_main", referenced from:
+     implicit entry/start for main executable
+ld: symbol(s) not found for architecture x86_64
+clang: error: linker command failed with exit code 1 (use -v to see invocation)
+
+[Done] exited with code=1 in 0.145 seconds
+
+[Running] cd "/Users/sunguosheng/Code/new_learning/C/" && gcc _46_大文件的拷贝.c -o _46_大文件的拷贝 && "/Users/sunguosheng/Code/new_learning/C/"_46_大文件的拷贝
+Undefined symbols for architecture x86_64:
+  "_main", referenced from:
+     implicit entry/start for main executable
+ld: symbol(s) not found for architecture x86_64
+clang: error: linker command failed with exit code 1 (use -v to see invocation)
+
+[Done] exited with code=1 in 0.623 seconds
+
+[Running] cd "/Users/sunguosheng/Code/new_learning/C/" && gcc _46_大文件的拷贝.c -o _46_大文件的拷贝 && "/Users/sunguosheng/Code/new_learning/C/"_46_大文件的拷贝
+Undefined symbols for architecture x86_64:
+  "_main", referenced from:
+     implicit entry/start for main executable
+ld: symbol(s) not found for architecture x86_64
+clang: error: linker command failed with exit code 1 (use -v to see invocation)
+
+[Done] exited with code=1 in 0.088 seconds
+
+[Running] cd "/Users/sunguosheng/Code/new_learning/C/" && gcc _46_大文件的拷贝.c -o _46_大文件的拷贝 && "/Users/sunguosheng/Code/new_learning/C/"_46_大文件的拷贝
+Undefined symbols for architecture x86_64:
+  "_main", referenced from:
+     implicit entry/start for main executable
+ld: symbol(s) not found for architecture x86_64
+clang: error: linker command failed with exit code 1 (use -v to see invocation)
+
+[Done] exited with code=1 in 0.086 seconds
+
+[Running] cd "/Users/sunguosheng/Code/new_learning/C/" && gcc _46_大文件的拷贝.c -o _46_大文件的拷贝 && "/Users/sunguosheng/Code/new_learning/C/"_46_大文件的拷贝
+Undefined symbols for architecture x86_64:
+  "_main", referenced from:
+     implicit entry/start for main executable
+ld: symbol(s) not found for architecture x86_64
+clang: error: linker command failed with exit code 1 (use -v to see invocation)
+
+[Done] exited with code=1 in 0.199 seconds
+
+[Running] cd "/Users/sunguosheng/Code/new_learning/C/" && gcc _46_大文件的拷贝.c -o _46_大文件的拷贝 && "/Users/sunguosheng/Code/new_learning/C/"_46_大文件的拷贝
+Undefined symbols for architecture x86_64:
+  "_main", referenced from:
+     implicit entry/start for main executable
+ld: symbol(s) not found for architecture x86_64
+clang: error: linker command failed with exit code 1 (use -v to see invocation)[Done] exited with code=1 in 0.827 seconds
+
+[Running] cd "/Users/sunguosheng/Code/new_learning/C/" && gcc _45_库函数的使用.c -o _45_库函数的使用 && "/Users/sunguosheng/Code/new_learning/C/"_45_库函数的使用
+Undefined symbols for architecture x86_64:
+  "_main", referenced from:
+     implicit entry/start for main executable
+ld: symbol(s) not found for architecture x86_64
+clang: error: linker command failed with exit code 1 (use -v to see invocation)
+
+[Done] exited with code=1 in 0.085 seconds
+
+[Running] cd "/Users/sunguosheng/Code/new_learning/C/" && gcc _45_库函数的使用.c -o _45_库函数的使用 && "/Users/sunguosheng/Code/new_learning/C/"_45_库函数的使用
+Undefined symbols for architecture x86_64:
+  "_main", referenced from:
+     implicit entry/start for main executable
+ld: symbol(s) not found for architecture x86_64
+clang: error: linker command failed with exit code 1 (use -v to see invocation)
+
+[Done] exited with code=1 in 0.145 seconds
+
+[Running] cd "/Users/sunguosheng/Code/new_learning/C/" && gcc _46_大文件的拷贝.c -o _46_大文件的拷贝 && "/Users/sunguosheng/Code/new_learning/C/"_46_大文件的拷贝
+Undefined symbols for architecture x86_64:
+  "_main", referenced from:
+     implicit entry/start for main executable
+ld: symbol(s) not found for architecture x86_64
+clang: error: linker command failed with exit code 1 (use -v to see invocation)
+
+[Done] exited with code=1 in 0.623 seconds
+
+[Running] cd "/Users/sunguosheng/Code/new_learning/C/" && gcc _46_大文件的拷贝.c -o _46_大文件的拷贝 && "/Users/sunguosheng/Code/new_learning/C/"_46_大文件的拷贝
+Undefined symbols for architecture x86_64:
+  "_main", referenced from:
+     implicit entry/start for main executable
+ld: symbol(s) not found for architecture x86_64
+clang: error: linker command failed with exit code 1 (use -v to see invocation)
+
+[Done] exited with code=1 in 0.088 seconds
+
+[Running] cd "/Users/sunguosheng/Code/new_learning/C/" && gcc _46_大文件的拷贝.c -o _46_大文件的拷贝 && "/Users/sunguosheng/Code/new_learning/C/"_46_大文件的拷贝
+Undefined symbols for architecture x86_64:
+  "_main", referenced from:
+     implicit entry/start for main executable
+ld: symbol(s) not found for architecture x86_64
+clang: error: linker command failed with exit code 1 (use -v to see invocation)
+
+[Done] exited with code=1 in 0.086 seconds
+
+[Running] cd "/Users/sunguosheng/Code/new_learning/C/" && gcc _46_大文件的拷贝.c -o _46_大文件的拷贝 && "/Users/sunguosheng/Code/new_learning/C/"_46_大文件的拷贝
+Undefined symbols for architecture x86_64:
+  "_main", referenced from:
+     implicit entry/start for main executable
+ld: symbol(s) not found for architecture x86_64
+clang: error: linker command failed with exit code 1 (use -v to see invocation)
+
+[Done] exited with code=1 in 0.199 seconds
+
+[Running] cd "/Users/sunguosheng/Code/new_learning/C/" && gcc _46_大文件的拷贝.c -o _46_大文件的拷贝 && "/Users/sunguosheng/Code/new_learning/C/"_46_大文件的拷贝
+Undefined symbols for architecture x86_64:
+  "_main", referenced from:
+     implicit entry/start for main executable
+ld: symbol(s) not found for architecture x86_64
+clang: error: linker command failed with exit code 1 (use -v to see invocation)[Done] exited with code=1 in 0.827 seconds
+
+[Running] cd "/Users/sunguosheng/Code/new_learning/C/" && gcc _45_库函数的使用.c -o _45_库函数的使用 && "/Users/sunguosheng/Code/new_learning/C/"_45_库函数的使用
+Undefined symbols for architecture x86_64:
+  "_main", referenced from:
+     implicit entry/start for main executable
+ld: symbol(s) not found for architecture x86_64
+clang: error: linker command failed with exit code 1 (use -v to see invocation)
+
+[Done] exited with code=1 in 0.085 seconds
+
+[Running] cd "/Users/sunguosheng/Code/new_learning/C/" && gcc _45_库函数的使用.c -o _45_库函数的使用 && "/Users/sunguosheng/Code/new_learning/C/"_45_库函数的使用
+Undefined symbols for architecture x86_64:
+  "_main", referenced from:
+     implicit entry/start for main executable
+ld: symbol(s) not found for architecture x86_64
+clang: error: linker command failed with exit code 1 (use -v to see invocation)
+
+[Done] exited with code=1 in 0.145 seconds
+
+[Running] cd "/Users/sunguosheng/Code/new_learning/C/" && gcc _46_大文件的拷贝.c -o _46_大文件的拷贝 && "/Users/sunguosheng/Code/new_learning/C/"_46_大文件的拷贝
+Undefined symbols for architecture x86_64:
+  "_main", referenced from:
+     implicit entry/start for main executable
+ld: symbol(s) not found for architecture x86_64
+clang: error: linker command failed with exit code 1 (use -v to see invocation)
+
+[Done] exited with code=1 in 0.623 seconds
+
+[Running] cd "/Users/sunguosheng/Code/new_learning/C/" && gcc _46_大文件的拷贝.c -o _46_大文件的拷贝 && "/Users/sunguosheng/Code/new_learning/C/"_46_大文件的拷贝
+Undefined symbols for architecture x86_64:
+  "_main", referenced from:
+     implicit entry/start for main executable
+ld: symbol(s) not found for architecture x86_64
+clang: error: linker command failed with exit code 1 (use -v to see invocation)
+
+[Done] exited with code=1 in 0.088 seconds
+
+[Running] cd "/Users/sunguosheng/Code/new_learning/C/" && gcc _46_大文件的拷贝.c -o _46_大文件的拷贝 && "/Users/sunguosheng/Code/new_learning/C/"_46_大文件的拷贝
+Undefined symbols for architecture x86_64:
+  "_main", referenced from:
+     implicit entry/start for main executable
+ld: symbol(s) not found for architecture x86_64
+clang: error: linker command failed with exit code 1 (use -v to see invocation)
+
+[Done] exited with code=1 in 0.086 seconds
+
+[Running] cd "/Users/sunguosheng/Code/new_learning/C/" && gcc _46_大文件的拷贝.c -o _46_大文件的拷贝 && "/Users/sunguosheng/Code/new_learning/C/"_46_大文件的拷贝
+Undefined symbols for architecture x86_64:
+  "_main", referenced from:
+     implicit entry/start for main executable
+ld: symbol(s) not found for architecture x86_64
+clang: error: linker command failed with exit code 1 (use -v to see invocation)
+
+[Done] exited with code=1 in 0.199 seconds
+
+[Running] cd "/Users/sunguosheng/Code/new_learning/C/" && gcc _46_大文件的拷贝.c -o _46_大文件的拷贝 && "/Users/sunguosheng/Code/new_learning/C/"_46_大文件的拷贝
+Undefined symbols for architecture x86_64:
+  "_main", referenced from:
+     implicit entry/start for main executable
+ld: symbol(s) not found for architecture x86_64
+clang: error: linker command failed with exit code 1 (use -v to see invocation)[Done] exited with code=1 in 0.827 seconds
+
+[Running] cd "/Users/sunguosheng/Code/new_learning/C/" && gcc _45_库函数的使用.c -o _45_库函数的使用 && "/Users/sunguosheng/Code/new_learning/C/"_45_库函数的使用
+Undefined symbols for architecture x86_64:
+  "_main", referenced from:
+     implicit entry/start for main executable
+ld: symbol(s) not found for architecture x86_64
+clang: error: linker command failed with exit code 1 (use -v to see invocation)
+
+[Done] exited with code=1 in 0.085 seconds
+
+[Running] cd "/Users/sunguosheng/Code/new_learning/C/" && gcc _45_库函数的使用.c -o _45_库函数的使用 && "/Users/sunguosheng/Code/new_learning/C/"_45_库函数的使用
+Undefined symbols for architecture x86_64:
+  "_main", referenced from:
+     implicit entry/start for main executable
+ld: symbol(s) not found for architecture x86_64
+clang: error: linker command failed with exit code 1 (use -v to see invocation)
+
+[Done] exited with code=1 in 0.145 seconds
+
+[Running] cd "/Users/sunguosheng/Code/new_learning/C/" && gcc _46_大文件的拷贝.c -o _46_大文件的拷贝 && "/Users/sunguosheng/Code/new_learning/C/"_46_大文件的拷贝
+Undefined symbols for architecture x86_64:
+  "_main", referenced from:
+     implicit entry/start for main executable
+ld: symbol(s) not found for architecture x86_64
+clang: error: linker command failed with exit code 1 (use -v to see invocation)
+
+[Done] exited with code=1 in 0.623 seconds
+
+[Running] cd "/Users/sunguosheng/Code/new_learning/C/" && gcc _46_大文件的拷贝.c -o _46_大文件的拷贝 && "/Users/sunguosheng/Code/new_learning/C/"_46_大文件的拷贝
+Undefined symbols for architecture x86_64:
+  "_main", referenced from:
+     implicit entry/start for main executable
+ld: symbol(s) not found for architecture x86_64
+clang: error: linker command failed with exit code 1 (use -v to see invocation)
+
+[Done] exited with code=1 in 0.088 seconds
+
+[Running] cd "/Users/sunguosheng/Code/new_learning/C/" && gcc _46_大文件的拷贝.c -o _46_大文件的拷贝 && "/Users/sunguosheng/Code/new_learning/C/"_46_大文件的拷贝
+Undefined symbols for architecture x86_64:
+  "_main", referenced from:
+     implicit entry/start for main executable
+ld: symbol(s) not found for architecture x86_64
+clang: error: linker command failed with exit code 1 (use -v to see invocation)
+
+[Done] exited with code=1 in 0.086 seconds
+
+[Running] cd "/Users/sunguosheng/Code/new_learning/C/" && gcc _46_大文件的拷贝.c -o _46_大文件的拷贝 && "/Users/sunguosheng/Code/new_learning/C/"_46_大文件的拷贝
+Undefined symbols for architecture x86_64:
+  "_main", referenced from:
+     implicit entry/start for main executable
+ld: symbol(s) not found for architecture x86_64
+clang: error: linker command failed with exit code 1 (use -v to see invocation)
+
+[Done] exited with code=1 in 0.199 seconds
+
+[Running] cd "/Users/sunguosheng/Code/new_learning/C/" && gcc _46_大文件的拷贝.c -o _46_大文件的拷贝 && "/Users/sunguosheng/Code/new_learning/C/"_46_大文件的拷贝
+Undefined symbols for architecture x86_64:
+  "_main", referenced from:
+     implicit entry/start for main executable
+ld: symbol(s) not found for architecture x86_64
+clang: error: linker command failed with exit code 1 (use -v to see invocation)[Done] exited with code=1 in 0.827 seconds
+
+[Running] cd "/Users/sunguosheng/Code/new_learning/C/" && gcc _45_库函数的使用.c -o _45_库函数的使用 && "/Users/sunguosheng/Code/new_learning/C/"_45_库函数的使用
+Undefined symbols for architecture x86_64:
+  "_main", referenced from:
+     implicit entry/start for main executable
+ld: symbol(s) not found for architecture x86_64
+clang: error: linker command failed with exit code 1 (use -v to see invocation)
+
+[Done] exited with code=1 in 0.085 seconds
+
+[Running] cd "/Users/sunguosheng/Code/new_learning/C/" && gcc _45_库函数的使用.c -o _45_库函数的使用 && "/Users/sunguosheng/Code/new_learning/C/"_45_库函数的使用
+Undefined symbols for architecture x86_64:
+  "_main", referenced from:
+     implicit entry/start for main executable
+ld: symbol(s) not found for architecture x86_64
+clang: error: linker command failed with exit code 1 (use -v to see invocation)
+
+[Done] exited with code=1 in 0.145 seconds
+
+[Running] cd "/Users/sunguosheng/Code/new_learning/C/" && gcc _46_大文件的拷贝.c -o _46_大文件的拷贝 && "/Users/sunguosheng/Code/new_learning/C/"_46_大文件的拷贝
+Undefined symbols for architecture x86_64:
+  "_main", referenced from:
+     implicit entry/start for main executable
+ld: symbol(s) not found for architecture x86_64
+clang: error: linker command failed with exit code 1 (use -v to see invocation)
+
+[Done] exited with code=1 in 0.623 seconds
+
+[Running] cd "/Users/sunguosheng/Code/new_learning/C/" && gcc _46_大文件的拷贝.c -o _46_大文件的拷贝 && "/Users/sunguosheng/Code/new_learning/C/"_46_大文件的拷贝
+Undefined symbols for architecture x86_64:
+  "_main", referenced from:
+     implicit entry/start for main executable
+ld: symbol(s) not found for architecture x86_64
+clang: error: linker command failed with exit code 1 (use -v to see invocation)
+
+[Done] exited with code=1 in 0.088 seconds
+
+[Running] cd "/Users/sunguosheng/Code/new_learning/C/" && gcc _46_大文件的拷贝.c -o _46_大文件的拷贝 && "/Users/sunguosheng/Code/new_learning/C/"_46_大文件的拷贝
+Undefined symbols for architecture x86_64:
+  "_main", referenced from:
+     implicit entry/start for main executable
+ld: symbol(s) not found for architecture x86_64
+clang: error: linker command failed with exit code 1 (use -v to see invocation)
+
+[Done] exited with code=1 in 0.086 seconds
+
+[Running] cd "/Users/sunguosheng/Code/new_learning/C/" && gcc _46_大文件的拷贝.c -o _46_大文件的拷贝 && "/Users/sunguosheng/Code/new_learning/C/"_46_大文件的拷贝
+Undefined symbols for architecture x86_64:
+  "_main", referenced from:
+     implicit entry/start for main executable
+ld: symbol(s) not found for architecture x86_64
+clang: error: linker command failed with exit code 1 (use -v to see invocation)
+
+[Done] exited with code=1 in 0.199 seconds
+
+[Running] cd "/Users/sunguosheng/Code/new_learning/C/" && gcc _46_大文件的拷贝.c -o _46_大文件的拷贝 && "/Users/sunguosheng/Code/new_learning/C/"_46_大文件的拷贝
+Undefined symbols for architecture x86_64:
+  "_main", referenced from:
+     implicit entry/start for main executable
+ld: symbol(s) not found for architecture x86_64
+clang: error: linker command failed with exit code 1 (use -v to see invocation)[Done] exited with code=1 in 0.827 seconds
+
+[Running] cd "/Users/sunguosheng/Code/new_learning/C/" && gcc _45_库函数的使用.c -o _45_库函数的使用 && "/Users/sunguosheng/Code/new_learning/C/"_45_库函数的使用
+Undefined symbols for architecture x86_64:
+  "_main", referenced from:
+     implicit entry/start for main executable
+ld: symbol(s) not found for architecture x86_64
+clang: error: linker command failed with exit code 1 (use -v to see invocation)
+
+[Done] exited with code=1 in 0.085 seconds
+
+[Running] cd "/Users/sunguosheng/Code/new_learning/C/" && gcc _45_库函数的使用.c -o _45_库函数的使用 && "/Users/sunguosheng/Code/new_learning/C/"_45_库函数的使用
+Undefined symbols for architecture x86_64:
+  "_main", referenced from:
+     implicit entry/start for main executable
+ld: symbol(s) not found for architecture x86_64
+clang: error: linker command failed with exit code 1 (use -v to see invocation)
+
+[Done] exited with code=1 in 0.145 seconds
+
+[Running] cd "/Users/sunguosheng/Code/new_learning/C/" && gcc _46_大文件的拷贝.c -o _46_大文件的拷贝 && "/Users/sunguosheng/Code/new_learning/C/"_46_大文件的拷贝
+Undefined symbols for architecture x86_64:
+  "_main", referenced from:
+     implicit entry/start for main executable
+ld: symbol(s) not found for architecture x86_64
+clang: error: linker command failed with exit code 1 (use -v to see invocation)
+
+[Done] exited with code=1 in 0.623 seconds
+
+[Running] cd "/Users/sunguosheng/Code/new_learning/C/" && gcc _46_大文件的拷贝.c -o _46_大文件的拷贝 && "/Users/sunguosheng/Code/new_learning/C/"_46_大文件的拷贝
+Undefined symbols for architecture x86_64:
+  "_main", referenced from:
+     implicit entry/start for main executable
+ld: symbol(s) not found for architecture x86_64
+clang: error: linker command failed with exit code 1 (use -v to see invocation)
+
+[Done] exited with code=1 in 0.088 seconds
+
+[Running] cd "/Users/sunguosheng/Code/new_learning/C/" && gcc _46_大文件的拷贝.c -o _46_大文件的拷贝 && "/Users/sunguosheng/Code/new_learning/C/"_46_大文件的拷贝
+Undefined symbols for architecture x86_64:
+  "_main", referenced from:
+     implicit entry/start for main executable
+ld: symbol(s) not found for architecture x86_64
+clang: error: linker command failed with exit code 1 (use -v to see invocation)
+
+[Done] exited with code=1 in 0.086 seconds
+
+[Running] cd "/Users/sunguosheng/Code/new_learning/C/" && gcc _46_大文件的拷贝.c -o _46_大文件的拷贝 && "/Users/sunguosheng/Code/new_learning/C/"_46_大文件的拷贝
+Undefined symbols for architecture x86_64:
+  "_main", referenced from:
+     implicit entry/start for main executable
+ld: symbol(s) not found for architecture x86_64
+clang: error: linker command failed with exit code 1 (use -v to see invocation)
+
+[Done] exited with code=1 in 0.199 seconds
+
+[Running] cd "/Users/sunguosheng/Code/new_learning/C/" && gcc _46_大文件的拷贝.c -o _46_大文件的拷贝 && "/Users/sunguosheng/Code/new_learning/C/"_46_大文件的拷贝
+Undefined symbols for architecture x86_64:
+  "_main", referenced from:
+     implicit entry/start for main executable
+ld: symbol(s) not found for architecture x86_64
+clang: error: linker command failed with exit code 1 (use -v to see invocation)[Done] exited with code=1 in 0.827 seconds
+
+[Running] cd "/Users/sunguosheng/Code/new_learning/C/" && gcc _45_库函数的使用.c -o _45_库函数的使用 && "/Users/sunguosheng/Code/new_learning/C/"_45_库函数的使用
+Undefined symbols for architecture x86_64:
+  "_main", referenced from:
+     implicit entry/start for main executable
+ld: symbol(s) not found for architecture x86_64
+clang: error: linker command failed with exit code 1 (use -v to see invocation)
+
+[Done] exited with code=1 in 0.085 seconds
+
+[Running] cd "/Users/sunguosheng/Code/new_learning/C/" && gcc _45_库函数的使用.c -o _45_库函数的使用 && "/Users/sunguosheng/Code/new_learning/C/"_45_库函数的使用
+Undefined symbols for architecture x86_64:
+  "_main", referenced from:
+     implicit entry/start for main executable
+ld: symbol(s) not found for architecture x86_64
+clang: error: linker command failed with exit code 1 (use -v to see invocation)
+
+[Done] exited with code=1 in 0.145 seconds
+
+[Running] cd "/Users/sunguosheng/Code/new_learning/C/" && gcc _46_大文件的拷贝.c -o _46_大文件的拷贝 && "/Users/sunguosheng/Code/new_learning/C/"_46_大文件的拷贝
+Undefined symbols for architecture x86_64:
+  "_main", referenced from:
+     implicit entry/start for main executable
+ld: symbol(s) not found for architecture x86_64
+clang: error: linker command failed with exit code 1 (use -v to see invocation)
+
+[Done] exited with code=1 in 0.623 seconds
+
+[Running] cd "/Users/sunguosheng/Code/new_learning/C/" && gcc _46_大文件的拷贝.c -o _46_大文件的拷贝 && "/Users/sunguosheng/Code/new_learning/C/"_46_大文件的拷贝
+Undefined symbols for architecture x86_64:
+  "_main", referenced from:
+     implicit entry/start for main executable
+ld: symbol(s) not found for architecture x86_64
+clang: error: linker command failed with exit code 1 (use -v to see invocation)
+
+[Done] exited with code=1 in 0.088 seconds
+
+[Running] cd "/Users/sunguosheng/Code/new_learning/C/" && gcc _46_大文件的拷贝.c -o _46_大文件的拷贝 && "/Users/sunguosheng/Code/new_learning/C/"_46_大文件的拷贝
+Undefined symbols for architecture x86_64:
+  "_main", referenced from:
+     implicit entry/start for main executable
+ld: symbol(s) not found for architecture x86_64
+clang: error: linker command failed with exit code 1 (use -v to see invocation)
+
+[Done] exited with code=1 in 0.086 seconds
+
+[Running] cd "/Users/sunguosheng/Code/new_learning/C/" && gcc _46_大文件的拷贝.c -o _46_大文件的拷贝 && "/Users/sunguosheng/Code/new_learning/C/"_46_大文件的拷贝
+Undefined symbols for architecture x86_64:
+  "_main", referenced from:
+     implicit entry/start for main executable
+ld: symbol(s) not found for architecture x86_64
+clang: error: linker command failed with exit code 1 (use -v to see invocation)
+
+[Done] exited with code=1 in 0.199 seconds
+
+[Running] cd "/Users/sunguosheng/Code/new_learning/C/" && gcc _46_大文件的拷贝.c -o _46_大文件的拷贝 && "/Users/sunguosheng/Code/new_learning/C/"_46_大文件的拷贝
+Undefined symbols for architecture x86_64:
+  "_main", referenced from:
+     implicit entry/start for main executable
+ld: symbol(s) not found for architecture x86_64
+clang: error: linker command failed with exit code 1 (use -v to see invocation)[Done] exited with code=1 in 0.827 seconds
+
+[Running] cd "/Users/sunguosheng/Code/new_learning/C/" && gcc _45_库函数的使用.c -o _45_库函数的使用 && "/Users/sunguosheng/Code/new_learning/C/"_45_库函数的使用
+Undefined symbols for architecture x86_64:
+  "_main", referenced from:
+     implicit entry/start for main executable
+ld: symbol(s) not found for architecture x86_64
+clang: error: linker command failed with exit code 1 (use -v to see invocation)
+
+[Done] exited with code=1 in 0.085 seconds
+
+[Running] cd "/Users/sunguosheng/Code/new_learning/C/" && gcc _45_库函数的使用.c -o _45_库函数的使用 && "/Users/sunguosheng/Code/new_learning/C/"_45_库函数的使用
+Undefined symbols for architecture x86_64:
+  "_main", referenced from:
+     implicit entry/start for main executable
+ld: symbol(s) not found for architecture x86_64
+clang: error: linker command failed with exit code 1 (use -v to see invocation)
+
+[Done] exited with code=1 in 0.145 seconds
+
+[Running] cd "/Users/sunguosheng/Code/new_learning/C/" && gcc _46_大文件的拷贝.c -o _46_大文件的拷贝 && "/Users/sunguosheng/Code/new_learning/C/"_46_大文件的拷贝
+Undefined symbols for architecture x86_64:
+  "_main", referenced from:
+     implicit entry/start for main executable
+ld: symbol(s) not found for architecture x86_64
+clang: error: linker command failed with exit code 1 (use -v to see invocation)
+
+[Done] exited with code=1 in 0.623 seconds
+
+[Running] cd "/Users/sunguosheng/Code/new_learning/C/" && gcc _46_大文件的拷贝.c -o _46_大文件的拷贝 && "/Users/sunguosheng/Code/new_learning/C/"_46_大文件的拷贝
+Undefined symbols for architecture x86_64:
+  "_main", referenced from:
+     implicit entry/start for main executable
+ld: symbol(s) not found for architecture x86_64
+clang: error: linker command failed with exit code 1 (use -v to see invocation)
+
+[Done] exited with code=1 in 0.088 seconds
+
+[Running] cd "/Users/sunguosheng/Code/new_learning/C/" && gcc _46_大文件的拷贝.c -o _46_大文件的拷贝 && "/Users/sunguosheng/Code/new_learning/C/"_46_大文件的拷贝
+Undefined symbols for architecture x86_64:
+  "_main", referenced from:
+     implicit entry/start for main executable
+ld: symbol(s) not found for architecture x86_64
+clang: error: linker command failed with exit code 1 (use -v to see invocation)
+
+[Done] exited with code=1 in 0.086 seconds
+
+[Running] cd "/Users/sunguosheng/Code/new_learning/C/" && gcc _46_大文件的拷贝.c -o _46_大文件的拷贝 && "/Users/sunguosheng/Code/new_learning/C/"_46_大文件的拷贝
+Undefined symbols for architecture x86_64:
+  "_main", referenced from:
+     implicit entry/start for main executable
+ld: symbol(s) not found for architecture x86_64
+clang: error: linker command failed with exit code 1 (use -v to see invocation)
+
+[Done] exited with code=1 in 0.199 seconds
+
+[Running] cd "/Users/sunguosheng/Code/new_learning/C/" && gcc _46_大文件的拷贝.c -o _46_大文件的拷贝 && "/Users/sunguosheng/Code/new_learning/C/"_46_大文件的拷贝
+Undefined symbols for architecture x86_64:
+  "_main", referenced from:
+     implicit entry/start for main executable
+ld: symbol(s) not found for architecture x86_64
+clang: error: linker command failed with exit code 1 (use -v to see invocation)[Done] exited with code=1 in 0.827 seconds
+
+[Running] cd "/Users/sunguosheng/Code/new_learning/C/" && gcc _45_库函数的使用.c -o _45_库函数的使用 && "/Users/sunguosheng/Code/new_learning/C/"_45_库函数的使用
+Undefined symbols for architecture x86_64:
+  "_main", referenced from:
+     implicit entry/start for main executable
+ld: symbol(s) not found for architecture x86_64
+clang: error: linker command failed with exit code 1 (use -v to see invocation)
+
+[Done] exited with code=1 in 0.085 seconds
+
+[Running] cd "/Users/sunguosheng/Code/new_learning/C/" && gcc _45_库函数的使用.c -o _45_库函数的使用 && "/Users/sunguosheng/Code/new_learning/C/"_45_库函数的使用
+Undefined symbols for architecture x86_64:
+  "_main", referenced from:
+     implicit entry/start for main executable
+ld: symbol(s) not found for architecture x86_64
+clang: error: linker command failed with exit code 1 (use -v to see invocation)
+
+[Done] exited with code=1 in 0.145 seconds
+
+[Running] cd "/Users/sunguosheng/Code/new_learning/C/" && gcc _46_大文件的拷贝.c -o _46_大文件的拷贝 && "/Users/sunguosheng/Code/new_learning/C/"_46_大文件的拷贝
+Undefined symbols for architecture x86_64:
+  "_main", referenced from:
+     implicit entry/start for main executable
+ld: symbol(s) not found for architecture x86_64
+clang: error: linker command failed with exit code 1 (use -v to see invocation)
+
+[Done] exited with code=1 in 0.623 seconds
+
+[Running] cd "/Users/sunguosheng/Code/new_learning/C/" && gcc _46_大文件的拷贝.c -o _46_大文件的拷贝 && "/Users/sunguosheng/Code/new_learning/C/"_46_大文件的拷贝
+Undefined symbols for architecture x86_64:
+  "_main", referenced from:
+     implicit entry/start for main executable
+ld: symbol(s) not found for architecture x86_64
+clang: error: linker command failed with exit code 1 (use -v to see invocation)
+
+[Done] exited with code=1 in 0.088 seconds
+
+[Running] cd "/Users/sunguosheng/Code/new_learning/C/" && gcc _46_大文件的拷贝.c -o _46_大文件的拷贝 && "/Users/sunguosheng/Code/new_learning/C/"_46_大文件的拷贝
+Undefined symbols for architecture x86_64:
+  "_main", referenced from:
+     implicit entry/start for main executable
+ld: symbol(s) not found for architecture x86_64
+clang: error: linker command failed with exit code 1 (use -v to see invocation)
+
+[Done] exited with code=1 in 0.086 seconds
+
+[Running] cd "/Users/sunguosheng/Code/new_learning/C/" && gcc _46_大文件的拷贝.c -o _46_大文件的拷贝 && "/Users/sunguosheng/Code/new_learning/C/"_46_大文件的拷贝
+Undefined symbols for architecture x86_64:
+  "_main", referenced from:
+     implicit entry/start for main executable
+ld: symbol(s) not found for architecture x86_64
+clang: error: linker command failed with exit code 1 (use -v to see invocation)
+
+[Done] exited with code=1 in 0.199 seconds
+
+[Running] cd "/Users/sunguosheng/Code/new_learning/C/" && gcc _46_大文件的拷贝.c -o _46_大文件的拷贝 && "/Users/sunguosheng/Code/new_learning/C/"_46_大文件的拷贝
+Undefined symbols for architecture x86_64:
+  "_main", referenced from:
+     implicit entry/start for main executable
+ld: symbol(s) not found for architecture x86_64
+clang: error: linker command failed with exit code 1 (use -v to see invocation)[Done] exited with code=1 in 0.827 seconds
+
+[Running] cd "/Users/sunguosheng/Code/new_learning/C/" && gcc _45_库函数的使用.c -o _45_库函数的使用 && "/Users/sunguosheng/Code/new_learning/C/"_45_库函数的使用
+Undefined symbols for architecture x86_64:
+  "_main", referenced from:
+     implicit entry/start for main executable
+ld: symbol(s) not found for architecture x86_64
+clang: error: linker command failed with exit code 1 (use -v to see invocation)
+
+[Done] exited with code=1 in 0.085 seconds
+
+[Running] cd "/Users/sunguosheng/Code/new_learning/C/" && gcc _45_库函数的使用.c -o _45_库函数的使用 && "/Users/sunguosheng/Code/new_learning/C/"_45_库函数的使用
+Undefined symbols for architecture x86_64:
+  "_main", referenced from:
+     implicit entry/start for main executable
+ld: symbol(s) not found for architecture x86_64
+clang: error: linker command failed with exit code 1 (use -v to see invocation)
+
+[Done] exited with code=1 in 0.145 seconds
+
+[Running] cd "/Users/sunguosheng/Code/new_learning/C/" && gcc _46_大文件的拷贝.c -o _46_大文件的拷贝 && "/Users/sunguosheng/Code/new_learning/C/"_46_大文件的拷贝
+Undefined symbols for architecture x86_64:
+  "_main", referenced from:
+     implicit entry/start for main executable
+ld: symbol(s) not found for architecture x86_64
+clang: error: linker command failed with exit code 1 (use -v to see invocation)
+
+[Done] exited with code=1 in 0.623 seconds
+
+[Running] cd "/Users/sunguosheng/Code/new_learning/C/" && gcc _46_大文件的拷贝.c -o _46_大文件的拷贝 && "/Users/sunguosheng/Code/new_learning/C/"_46_大文件的拷贝
+Undefined symbols for architecture x86_64:
+  "_main", referenced from:
+     implicit entry/start for main executable
+ld: symbol(s) not found for architecture x86_64
+clang: error: linker command failed with exit code 1 (use -v to see invocation)
+
+[Done] exited with code=1 in 0.088 seconds
+
+[Running] cd "/Users/sunguosheng/Code/new_learning/C/" && gcc _46_大文件的拷贝.c -o _46_大文件的拷贝 && "/Users/sunguosheng/Code/new_learning/C/"_46_大文件的拷贝
+Undefined symbols for architecture x86_64:
+  "_main", referenced from:
+     implicit entry/start for main executable
+ld: symbol(s) not found for architecture x86_64
+clang: error: linker command failed with exit code 1 (use -v to see invocation)
+
+[Done] exited with code=1 in 0.086 seconds
+
+[Running] cd "/Users/sunguosheng/Code/new_learning/C/" && gcc _46_大文件的拷贝.c -o _46_大文件的拷贝 && "/Users/sunguosheng/Code/new_learning/C/"_46_大文件的拷贝
+Undefined symbols for architecture x86_64:
+  "_main", referenced from:
+     implicit entry/start for main executable
+ld: symbol(s) not found for architecture x86_64
+clang: error: linker command failed with exit code 1 (use -v to see invocation)
+
+[Done] exited with code=1 in 0.199 seconds
+
+[Running] cd "/Users/sunguosheng/Code/new_learning/C/" && gcc _46_大文件的拷贝.c -o _46_大文件的拷贝 && "/Users/sunguosheng/Code/new_learning/C/"_46_大文件的拷贝
+Undefined symbols for architecture x86_64:
+  "_main", referenced from:
+     implicit entry/start for main executable
+ld: symbol(s) not found for architecture x86_64
+clang: error: linker command failed with exit code 1 (use -v to see invocation)[Done] exited with code=1 in 0.827 seconds
+
+[Running] cd "/Users/sunguosheng/Code/new_learning/C/" && gcc _45_库函数的使用.c -o _45_库函数的使用 && "/Users/sunguosheng/Code/new_learning/C/"_45_库函数的使用
+Undefined symbols for architecture x86_64:
+  "_main", referenced from:
+     implicit entry/start for main executable
+ld: symbol(s) not found for architecture x86_64
+clang: error: linker command failed with exit code 1 (use -v to see invocation)
+
+[Done] exited with code=1 in 0.085 seconds
+
+[Running] cd "/Users/sunguosheng/Code/new_learning/C/" && gcc _45_库函数的使用.c -o _45_库函数的使用 && "/Users/sunguosheng/Code/new_learning/C/"_45_库函数的使用
+Undefined symbols for architecture x86_64:
+  "_main", referenced from:
+     implicit entry/start for main executable
+ld: symbol(s) not found for architecture x86_64
+clang: error: linker command failed with exit code 1 (use -v to see invocation)
+
+[Done] exited with code=1 in 0.145 seconds
+
+[Running] cd "/Users/sunguosheng/Code/new_learning/C/" && gcc _46_大文件的拷贝.c -o _46_大文件的拷贝 && "/Users/sunguosheng/Code/new_learning/C/"_46_大文件的拷贝
+Undefined symbols for architecture x86_64:
+  "_main", referenced from:
+     implicit entry/start for main executable
+ld: symbol(s) not found for architecture x86_64
+clang: error: linker command failed with exit code 1 (use -v to see invocation)
+
+[Done] exited with code=1 in 0.623 seconds
+
+[Running] cd "/Users/sunguosheng/Code/new_learning/C/" && gcc _46_大文件的拷贝.c -o _46_大文件的拷贝 && "/Users/sunguosheng/Code/new_learning/C/"_46_大文件的拷贝
+Undefined symbols for architecture x86_64:
+  "_main", referenced from:
+     implicit entry/start for main executable
+ld: symbol(s) not found for architecture x86_64
+clang: error: linker command failed with exit code 1 (use -v to see invocation)
+
+[Done] exited with code=1 in 0.088 seconds
+
+[Running] cd "/Users/sunguosheng/Code/new_learning/C/" && gcc _46_大文件的拷贝.c -o _46_大文件的拷贝 && "/Users/sunguosheng/Code/new_learning/C/"_46_大文件的拷贝
+Undefined symbols for architecture x86_64:
+  "_main", referenced from:
+     implicit entry/start for main executable
+ld: symbol(s) not found for architecture x86_64
+clang: error: linker command failed with exit code 1 (use -v to see invocation)
+
+[Done] exited with code=1 in 0.086 seconds
+
+[Running] cd "/Users/sunguosheng/Code/new_learning/C/" && gcc _46_大文件的拷贝.c -o _46_大文件的拷贝 && "/Users/sunguosheng/Code/new_learning/C/"_46_大文件的拷贝
+Undefined symbols for architecture x86_64:
+  "_main", referenced from:
+     implicit entry/start for main executable
+ld: symbol(s) not found for architecture x86_64
+clang: error: linker command failed with exit code 1 (use -v to see invocation)
+
+[Done] exited with code=1 in 0.199 seconds
+
+[Running] cd "/Users/sunguosheng/Code/new_learning/C/" && gcc _46_大文件的拷贝.c -o _46_大文件的拷贝 && "/Users/sunguosheng/Code/new_learning/C/"_46_大文件的拷贝
+Undefined symbols for architecture x86_64:
+  "_main", referenced from:
+     implicit entry/start for main executable
+ld: symbol(s) not found for architecture x86_64
+clang: error: linker command failed with exit code 1 (use -v to see invocation)[Done] exited with code=1 in 0.827 seconds
+
+[Running] cd "/Users/sunguosheng/Code/new_learning/C/" && gcc _45_库函数的使用.c -o _45_库函数的使用 && "/Users/sunguosheng/Code/new_learning/C/"_45_库函数的使用
+Undefined symbols for architecture x86_64:
+  "_main", referenced from:
+     implicit entry/start for main executable
+ld: symbol(s) not found for architecture x86_64
+clang: error: linker command failed with exit code 1 (use -v to see invocation)
+
+[Done] exited with code=1 in 0.085 seconds
+
+[Running] cd "/Users/sunguosheng/Code/new_learning/C/" && gcc _45_库函数的使用.c -o _45_库函数的使用 && "/Users/sunguosheng/Code/new_learning/C/"_45_库函数的使用
+Undefined symbols for architecture x86_64:
+  "_main", referenced from:
+     implicit entry/start for main executable
+ld: symbol(s) not found for architecture x86_64
+clang: error: linker command failed with exit code 1 (use -v to see invocation)
+
+[Done] exited with code=1 in 0.145 seconds
+
+[Running] cd "/Users/sunguosheng/Code/new_learning/C/" && gcc _46_大文件的拷贝.c -o _46_大文件的拷贝 && "/Users/sunguosheng/Code/new_learning/C/"_46_大文件的拷贝
+Undefined symbols for architecture x86_64:
+  "_main", referenced from:
+     implicit entry/start for main executable
+ld: symbol(s) not found for architecture x86_64
+clang: error: linker command failed with exit code 1 (use -v to see invocation)
+
+[Done] exited with code=1 in 0.623 seconds
+
+[Running] cd "/Users/sunguosheng/Code/new_learning/C/" && gcc _46_大文件的拷贝.c -o _46_大文件的拷贝 && "/Users/sunguosheng/Code/new_learning/C/"_46_大文件的拷贝
+Undefined symbols for architecture x86_64:
+  "_main", referenced from:
+     implicit entry/start for main executable
+ld: symbol(s) not found for architecture x86_64
+clang: error: linker command failed with exit code 1 (use -v to see invocation)
+
+[Done] exited with code=1 in 0.088 seconds
+
+[Running] cd "/Users/sunguosheng/Code/new_learning/C/" && gcc _46_大文件的拷贝.c -o _46_大文件的拷贝 && "/Users/sunguosheng/Code/new_learning/C/"_46_大文件的拷贝
+Undefined symbols for architecture x86_64:
+  "_main", referenced from:
+     implicit entry/start for main executable
+ld: symbol(s) not found for architecture x86_64
+clang: error: linker command failed with exit code 1 (use -v to see invocation)
+
+[Done] exited with code=1 in 0.086 seconds
+
+[Running] cd "/Users/sunguosheng/Code/new_learning/C/" && gcc _46_大文件的拷贝.c -o _46_大文件的拷贝 && "/Users/sunguosheng/Code/new_learning/C/"_46_大文件的拷贝
+Undefined symbols for architecture x86_64:
+  "_main", referenced from:
+     implicit entry/start for main executable
+ld: symbol(s) not found for architecture x86_64
+clang: error: linker command failed with exit code 1 (use -v to see invocation)
+
+[Done] exited with code=1 in 0.199 seconds
+
+[Running] cd "/Users/sunguosheng/Code/new_learning/C/" && gcc _46_大文件的拷贝.c -o _46_大文件的拷贝 && "/Users/sunguosheng/Code/new_learning/C/"_46_大文件的拷贝
+Undefined symbols for architecture x86_64:
+  "_main", referenced from:
+     implicit entry/start for main executable
+ld: symbol(s) not found for architecture x86_64
+clang: error: linker command failed with exit code 1 (use -v to see invocation)[Done] exited with code=1 in 0.827 seconds
+
+[Running] cd "/Users/sunguosheng/Code/new_learning/C/" && gcc _45_库函数的使用.c -o _45_库函数的使用 && "/Users/sunguosheng/Code/new_learning/C/"_45_库函数的使用
+Undefined symbols for architecture x86_64:
+  "_main", referenced from:
+     implicit entry/start for main executable
+ld: symbol(s) not found for architecture x86_64
+clang: error: linker command failed with exit code 1 (use -v to see invocation)
+
+[Done] exited with code=1 in 0.085 seconds
+
+[Running] cd "/Users/sunguosheng/Code/new_learning/C/" && gcc _45_库函数的使用.c -o _45_库函数的使用 && "/Users/sunguosheng/Code/new_learning/C/"_45_库函数的使用
+Undefined symbols for architecture x86_64:
+  "_main", referenced from:
+     implicit entry/start for main executable
+ld: symbol(s) not found for architecture x86_64
+clang: error: linker command failed with exit code 1 (use -v to see invocation)
+
+[Done] exited with code=1 in 0.145 seconds
+
+[Running] cd "/Users/sunguosheng/Code/new_learning/C/" && gcc _46_大文件的拷贝.c -o _46_大文件的拷贝 && "/Users/sunguosheng/Code/new_learning/C/"_46_大文件的拷贝
+Undefined symbols for architecture x86_64:
+  "_main", referenced from:
+     implicit entry/start for main executable
+ld: symbol(s) not found for architecture x86_64
+clang: error: linker command failed with exit code 1 (use -v to see invocation)
+
+[Done] exited with code=1 in 0.623 seconds
+
+[Running] cd "/Users/sunguosheng/Code/new_learning/C/" && gcc _46_大文件的拷贝.c -o _46_大文件的拷贝 && "/Users/sunguosheng/Code/new_learning/C/"_46_大文件的拷贝
+Undefined symbols for architecture x86_64:
+  "_main", referenced from:
+     implicit entry/start for main executable
+ld: symbol(s) not found for architecture x86_64
+clang: error: linker command failed with exit code 1 (use -v to see invocation)
+
+[Done] exited with code=1 in 0.088 seconds
+
+[Running] cd "/Users/sunguosheng/Code/new_learning/C/" && gcc _46_大文件的拷贝.c -o _46_大文件的拷贝 && "/Users/sunguosheng/Code/new_learning/C/"_46_大文件的拷贝
+Undefined symbols for architecture x86_64:
+  "_main", referenced from:
+     implicit entry/start for main executable
+ld: symbol(s) not found for architecture x86_64
+clang: error: linker command failed with exit code 1 (use -v to see invocation)
+
+[Done] exited with code=1 in 0.086 seconds
+
+[Running] cd "/Users/sunguosheng/Code/new_learning/C/" && gcc _46_大文件的拷贝.c -o _46_大文件的拷贝 && "/Users/sunguosheng/Code/new_learning/C/"_46_大文件的拷贝
+Undefined symbols for architecture x86_64:
+  "_main", referenced from:
+     implicit entry/start for main executable
+ld: symbol(s) not found for architecture x86_64
+clang: error: linker command failed with exit code 1 (use -v to see invocation)
+
+[Done] exited with code=1 in 0.199 seconds
+
+[Running] cd "/Users/sunguosheng/Code/new_learning/C/" && gcc _46_大文件的拷贝.c -o _46_大文件的拷贝 && "/Users/sunguosheng/Code/new_learning/C/"_46_大文件的拷贝
+Undefined symbols for architecture x86_64:
+  "_main", referenced from:
+     implicit entry/start for main executable
+ld: symbol(s) not found for architecture x86_64
+clang: error: linker command failed with exit code 1 (use -v to see invocation)[Done] exited with code=1 in 0.827 seconds
+
+[Running] cd "/Users/sunguosheng/Code/new_learning/C/" && gcc _45_库函数的使用.c -o _45_库函数的使用 && "/Users/sunguosheng/Code/new_learning/C/"_45_库函数的使用
+Undefined symbols for architecture x86_64:
+  "_main", referenced from:
+     implicit entry/start for main executable
+ld: symbol(s) not found for architecture x86_64
+clang: error: linker command failed with exit code 1 (use -v to see invocation)
+
+[Done] exited with code=1 in 0.085 seconds
+
+[Running] cd "/Users/sunguosheng/Code/new_learning/C/" && gcc _45_库函数的使用.c -o _45_库函数的使用 && "/Users/sunguosheng/Code/new_learning/C/"_45_库函数的使用
+Undefined symbols for architecture x86_64:
+  "_main", referenced from:
+     implicit entry/start for main executable
+ld: symbol(s) not found for architecture x86_64
+clang: error: linker command failed with exit code 1 (use -v to see invocation)
+
+[Done] exited with code=1 in 0.145 seconds
+
+[Running] cd "/Users/sunguosheng/Code/new_learning/C/" && gcc _46_大文件的拷贝.c -o _46_大文件的拷贝 && "/Users/sunguosheng/Code/new_learning/C/"_46_大文件的拷贝
+Undefined symbols for architecture x86_64:
+  "_main", referenced from:
+     implicit entry/start for main executable
+ld: symbol(s) not found for architecture x86_64
+clang: error: linker command failed with exit code 1 (use -v to see invocation)
+
+[Done] exited with code=1 in 0.623 seconds
+
+[Running] cd "/Users/sunguosheng/Code/new_learning/C/" && gcc _46_大文件的拷贝.c -o _46_大文件的拷贝 && "/Users/sunguosheng/Code/new_learning/C/"_46_大文件的拷贝
+Undefined symbols for architecture x86_64:
+  "_main", referenced from:
+     implicit entry/start for main executable
+ld: symbol(s) not found for architecture x86_64
+clang: error: linker command failed with exit code 1 (use -v to see invocation)
+
+[Done] exited with code=1 in 0.088 seconds
+
+[Running] cd "/Users/sunguosheng/Code/new_learning/C/" && gcc _46_大文件的拷贝.c -o _46_大文件的拷贝 && "/Users/sunguosheng/Code/new_learning/C/"_46_大文件的拷贝
+Undefined symbols for architecture x86_64:
+  "_main", referenced from:
+     implicit entry/start for main executable
+ld: symbol(s) not found for architecture x86_64
+clang: error: linker command failed with exit code 1 (use -v to see invocation)
+
+[Done] exited with code=1 in 0.086 seconds
+
+[Running] cd "/Users/sunguosheng/Code/new_learning/C/" && gcc _46_大文件的拷贝.c -o _46_大文件的拷贝 && "/Users/sunguosheng/Code/new_learning/C/"_46_大文件的拷贝
+Undefined symbols for architecture x86_64:
+  "_main", referenced from:
+     implicit entry/start for main executable
+ld: symbol(s) not found for architecture x86_64
+clang: error: linker command failed with exit code 1 (use -v to see invocation)
+
+[Done] exited with code=1 in 0.199 seconds
+
+[Running] cd "/Users/sunguosheng/Code/new_learning/C/" && gcc _46_大文件的拷贝.c -o _46_大文件的拷贝 && "/Users/sunguosheng/Code/new_learning/C/"_46_大文件的拷贝
+Undefined symbols for architecture x86_64:
+  "_main", referenced from:
+     implicit entry/start for main executable
+ld: symbol(s) not found for architecture x86_64
+clang: error: linker command failed with exit code 1 (use -v to see invocation)[Done] exited with code=1 in 0.827 seconds
+
+[Running] cd "/Users/sunguosheng/Code/new_learning/C/" && gcc _45_库函数的使用.c -o _45_库函数的使用 && "/Users/sunguosheng/Code/new_learning/C/"_45_库函数的使用
+Undefined symbols for architecture x86_64:
+  "_main", referenced from:
+     implicit entry/start for main executable
+ld: symbol(s) not found for architecture x86_64
+clang: error: linker command failed with exit code 1 (use -v to see invocation)
+
+[Done] exited with code=1 in 0.085 seconds
+
+[Running] cd "/Users/sunguosheng/Code/new_learning/C/" && gcc _45_库函数的使用.c -o _45_库函数的使用 && "/Users/sunguosheng/Code/new_learning/C/"_45_库函数的使用
+Undefined symbols for architecture x86_64:
+  "_main", referenced from:
+     implicit entry/start for main executable
+ld: symbol(s) not found for architecture x86_64
+clang: error: linker command failed with exit code 1 (use -v to see invocation)
+
+[Done] exited with code=1 in 0.145 seconds
+
+[Running] cd "/Users/sunguosheng/Code/new_learning/C/" && gcc _46_大文件的拷贝.c -o _46_大文件的拷贝 && "/Users/sunguosheng/Code/new_learning/C/"_46_大文件的拷贝
+Undefined symbols for architecture x86_64:
+  "_main", referenced from:
+     implicit entry/start for main executable
+ld: symbol(s) not found for architecture x86_64
+clang: error: linker command failed with exit code 1 (use -v to see invocation)
+
+[Done] exited with code=1 in 0.623 seconds
+
+[Running] cd "/Users/sunguosheng/Code/new_learning/C/" && gcc _46_大文件的拷贝.c -o _46_大文件的拷贝 && "/Users/sunguosheng/Code/new_learning/C/"_46_大文件的拷贝
+Undefined symbols for architecture x86_64:
+  "_main", referenced from:
+     implicit entry/start for main executable
+ld: symbol(s) not found for architecture x86_64
+clang: error: linker command failed with exit code 1 (use -v to see invocation)
+
+[Done] exited with code=1 in 0.088 seconds
+
+[Running] cd "/Users/sunguosheng/Code/new_learning/C/" && gcc _46_大文件的拷贝.c -o _46_大文件的拷贝 && "/Users/sunguosheng/Code/new_learning/C/"_46_大文件的拷贝
+Undefined symbols for architecture x86_64:
+  "_main", referenced from:
+     implicit entry/start for main executable
+ld: symbol(s) not found for architecture x86_64
+clang: error: linker command failed with exit code 1 (use -v to see invocation)
+
+[Done] exited with code=1 in 0.086 seconds
+
+[Running] cd "/Users/sunguosheng/Code/new_learning/C/" && gcc _46_大文件的拷贝.c -o _46_大文件的拷贝 && "/Users/sunguosheng/Code/new_learning/C/"_46_大文件的拷贝
+Undefined symbols for architecture x86_64:
+  "_main", referenced from:
+     implicit entry/start for main executable
+ld: symbol(s) not found for architecture x86_64
+clang: error: linker command failed with exit code 1 (use -v to see invocation)
+
+[Done] exited with code=1 in 0.199 seconds
+
+[Running] cd "/Users/sunguosheng/Code/new_learning/C/" && gcc _46_大文件的拷贝.c -o _46_大文件的拷贝 && "/Users/sunguosheng/Code/new_learning/C/"_46_大文件的拷贝
+Undefined symbols for architecture x86_64:
+  "_main", referenced from:
+     implicit entry/start for main executable
+ld: symbol(s) not found for architecture x86_64
+clang: error: linker command failed with exit code 1 (use -v to see invocation)[Done] exited with code=1 in 0.827 seconds
+
+[Running] cd "/Users/sunguosheng/Code/new_learning/C/" && gcc _45_库函数的使用.c -o _45_库函数的使用 && "/Users/sunguosheng/Code/new_learning/C/"_45_库函数的使用
+Undefined symbols for architecture x86_64:
+  "_main", referenced from:
+     implicit entry/start for main executable
+ld: symbol(s) not found for architecture x86_64
+clang: error: linker command failed with exit code 1 (use -v to see invocation)
+
+[Done] exited with code=1 in 0.085 seconds
+
+[Running] cd "/Users/sunguosheng/Code/new_learning/C/" && gcc _45_库函数的使用.c -o _45_库函数的使用 && "/Users/sunguosheng/Code/new_learning/C/"_45_库函数的使用
+Undefined symbols for architecture x86_64:
+  "_main", referenced from:
+     implicit entry/start for main executable
+ld: symbol(s) not found for architecture x86_64
+clang: error: linker command failed with exit code 1 (use -v to see invocation)
+
+[Done] exited with code=1 in 0.145 seconds
+
+[Running] cd "/Users/sunguosheng/Code/new_learning/C/" && gcc _46_大文件的拷贝.c -o _46_大文件的拷贝 && "/Users/sunguosheng/Code/new_learning/C/"_46_大文件的拷贝
+Undefined symbols for architecture x86_64:
+  "_main", referenced from:
+     implicit entry/start for main executable
+ld: symbol(s) not found for architecture x86_64
+clang: error: linker command failed with exit code 1 (use -v to see invocation)
+
+[Done] exited with code=1 in 0.623 seconds
+
+[Running] cd "/Users/sunguosheng/Code/new_learning/C/" && gcc _46_大文件的拷贝.c -o _46_大文件的拷贝 && "/Users/sunguosheng/Code/new_learning/C/"_46_大文件的拷贝
+Undefined symbols for architecture x86_64:
+  "_main", referenced from:
+     implicit entry/start for main executable
+ld: symbol(s) not found for architecture x86_64
+clang: error: linker command failed with exit code 1 (use -v to see invocation)
+
+[Done] exited with code=1 in 0.088 seconds
+
+[Running] cd "/Users/sunguosheng/Code/new_learning/C/" && gcc _46_大文件的拷贝.c -o _46_大文件的拷贝 && "/Users/sunguosheng/Code/new_learning/C/"_46_大文件的拷贝
+Undefined symbols for architecture x86_64:
+  "_main", referenced from:
+     implicit entry/start for main executable
+ld: symbol(s) not found for architecture x86_64
+clang: error: linker command failed with exit code 1 (use -v to see invocation)
+
+[Done] exited with code=1 in 0.086 seconds
+
+[Running] cd "/Users/sunguosheng/Code/new_learning/C/" && gcc _46_大文件的拷贝.c -o _46_大文件的拷贝 && "/Users/sunguosheng/Code/new_learning/C/"_46_大文件的拷贝
+Undefined symbols for architecture x86_64:
+  "_main", referenced from:
+     implicit entry/start for main executable
+ld: symbol(s) not found for architecture x86_64
+clang: error: linker command failed with exit code 1 (use -v to see invocation)
+
+[Done] exited with code=1 in 0.199 seconds
+
+[Running] cd "/Users/sunguosheng/Code/new_learning/C/" && gcc _46_大文件的拷贝.c -o _46_大文件的拷贝 && "/Users/sunguosheng/Code/new_learning/C/"_46_大文件的拷贝
+Undefined symbols for architecture x86_64:
+  "_main", referenced from:
+     implicit entry/start for main executable
+ld: symbol(s) not found for architecture x86_64
+clang: error: linker command failed with exit code 1 (use -v to see invocation)[Done] exited with code=1 in 0.827 seconds
+
+[Running] cd "/Users/sunguosheng/Code/new_learning/C/" && gcc _45_库函数的使用.c -o _45_库函数的使用 && "/Users/sunguosheng/Code/new_learning/C/"_45_库函数的使用
+Undefined symbols for architecture x86_64:
+  "_main", referenced from:
+     implicit entry/start for main executable
+ld: symbol(s) not found for architecture x86_64
+clang: error: linker command failed with exit code 1 (use -v to see invocation)
+
+[Done] exited with code=1 in 0.085 seconds
+
+[Running] cd "/Users/sunguosheng/Code/new_learning/C/" && gcc _45_库函数的使用.c -o _45_库函数的使用 && "/Users/sunguosheng/Code/new_learning/C/"_45_库函数的使用
+Undefined symbols for architecture x86_64:
+  "_main", referenced from:
+     implicit entry/start for main executable
+ld: symbol(s) not found for architecture x86_64
+clang: error: linker command failed with exit code 1 (use -v to see invocation)
+
+[Done] exited with code=1 in 0.145 seconds
+
+[Running] cd "/Users/sunguosheng/Code/new_learning/C/" && gcc _46_大文件的拷贝.c -o _46_大文件的拷贝 && "/Users/sunguosheng/Code/new_learning/C/"_46_大文件的拷贝
+Undefined symbols for architecture x86_64:
+  "_main", referenced from:
+     implicit entry/start for main executable
+ld: symbol(s) not found for architecture x86_64
+clang: error: linker command failed with exit code 1 (use -v to see invocation)
+
+[Done] exited with code=1 in 0.623 seconds
+
+[Running] cd "/Users/sunguosheng/Code/new_learning/C/" && gcc _46_大文件的拷贝.c -o _46_大文件的拷贝 && "/Users/sunguosheng/Code/new_learning/C/"_46_大文件的拷贝
+Undefined symbols for architecture x86_64:
+  "_main", referenced from:
+     implicit entry/start for main executable
+ld: symbol(s) not found for architecture x86_64
+clang: error: linker command failed with exit code 1 (use -v to see invocation)
+
+[Done] exited with code=1 in 0.088 seconds
+
+[Running] cd "/Users/sunguosheng/Code/new_learning/C/" && gcc _46_大文件的拷贝.c -o _46_大文件的拷贝 && "/Users/sunguosheng/Code/new_learning/C/"_46_大文件的拷贝
+Undefined symbols for architecture x86_64:
+  "_main", referenced from:
+     implicit entry/start for main executable
+ld: symbol(s) not found for architecture x86_64
+clang: error: linker command failed with exit code 1 (use -v to see invocation)
+
+[Done] exited with code=1 in 0.086 seconds
+
+[Running] cd "/Users/sunguosheng/Code/new_learning/C/" && gcc _46_大文件的拷贝.c -o _46_大文件的拷贝 && "/Users/sunguosheng/Code/new_learning/C/"_46_大文件的拷贝
+Undefined symbols for architecture x86_64:
+  "_main", referenced from:
+     implicit entry/start for main executable
+ld: symbol(s) not found for architecture x86_64
+clang: error: linker command failed with exit code 1 (use -v to see invocation)
+
+[Done] exited with code=1 in 0.199 seconds
+
+[Running] cd "/Users/sunguosheng/Code/new_learning/C/" && gcc _46_大文件的拷贝.c -o _46_大文件的拷贝 && "/Users/sunguosheng/Code/new_learning/C/"_46_大文件的拷贝
+Undefined symbols for architecture x86_64:
+  "_main", referenced from:
+     implicit entry/start for main executable
+ld: symbol(s) not found for architecture x86_64
+clang: error: linker command failed with exit code 1 (use -v to see invocation)[Done] exited with code=1 in 0.827 seconds
+
+[Running] cd "/Users/sunguosheng/Code/new_learning/C/" && gcc _45_库函数的使用.c -o _45_库函数的使用 && "/Users/sunguosheng/Code/new_learning/C/"_45_库函数的使用
+Undefined symbols for architecture x86_64:
+  "_main", referenced from:
+     implicit entry/start for main executable
+ld: symbol(s) not found for architecture x86_64
+clang: error: linker command failed with exit code 1 (use -v to see invocation)
+
+[Done] exited with code=1 in 0.085 seconds
+
+[Running] cd "/Users/sunguosheng/Code/new_learning/C/" && gcc _45_库函数的使用.c -o _45_库函数的使用 && "/Users/sunguosheng/Code/new_learning/C/"_45_库函数的使用
+Undefined symbols for architecture x86_64:
+  "_main", referenced from:
+     implicit entry/start for main executable
+ld: symbol(s) not found for architecture x86_64
+clang: error: linker command failed with exit code 1 (use -v to see invocation)
+
+[Done] exited with code=1 in 0.145 seconds
+
+[Running] cd "/Users/sunguosheng/Code/new_learning/C/" && gcc _46_大文件的拷贝.c -o _46_大文件的拷贝 && "/Users/sunguosheng/Code/new_learning/C/"_46_大文件的拷贝
+Undefined symbols for architecture x86_64:
+  "_main", referenced from:
+     implicit entry/start for main executable
+ld: symbol(s) not found for architecture x86_64
+clang: error: linker command failed with exit code 1 (use -v to see invocation)
+
+[Done] exited with code=1 in 0.623 seconds
+
+[Running] cd "/Users/sunguosheng/Code/new_learning/C/" && gcc _46_大文件的拷贝.c -o _46_大文件的拷贝 && "/Users/sunguosheng/Code/new_learning/C/"_46_大文件的拷贝
+Undefined symbols for architecture x86_64:
+  "_main", referenced from:
+     implicit entry/start for main executable
+ld: symbol(s) not found for architecture x86_64
+clang: error: linker command failed with exit code 1 (use -v to see invocation)
+
+[Done] exited with code=1 in 0.088 seconds
+
+[Running] cd "/Users/sunguosheng/Code/new_learning/C/" && gcc _46_大文件的拷贝.c -o _46_大文件的拷贝 && "/Users/sunguosheng/Code/new_learning/C/"_46_大文件的拷贝
+Undefined symbols for architecture x86_64:
+  "_main", referenced from:
+     implicit entry/start for main executable
+ld: symbol(s) not found for architecture x86_64
+clang: error: linker command failed with exit code 1 (use -v to see invocation)
+
+[Done] exited with code=1 in 0.086 seconds
+
+[Running] cd "/Users/sunguosheng/Code/new_learning/C/" && gcc _46_大文件的拷贝.c -o _46_大文件的拷贝 && "/Users/sunguosheng/Code/new_learning/C/"_46_大文件的拷贝
+Undefined symbols for architecture x86_64:
+  "_main", referenced from:
+     implicit entry/start for main executable
+ld: symbol(s) not found for architecture x86_64
+clang: error: linker command failed with exit code 1 (use -v to see invocation)
+
+[Done] exited with code=1 in 0.199 seconds
+
+[Running] cd "/Users/sunguosheng/Code/new_learning/C/" && gcc _46_大文件的拷贝.c -o _46_大文件的拷贝 && "/Users/sunguosheng/Code/new_learning/C/"_46_大文件的拷贝
+Undefined symbols for architecture x86_64:
+  "_main", referenced from:
+     implicit entry/start for main executable
+ld: symbol(s) not found for architecture x86_64
+clang: error: linker command failed with exit code 1 (use -v to see invocation)[Done] exited with code=1 in 0.827 seconds
+
+[Running] cd "/Users/sunguosheng/Code/new_learning/C/" && gcc _45_库函数的使用.c -o _45_库函数的使用 && "/Users/sunguosheng/Code/new_learning/C/"_45_库函数的使用
+Undefined symbols for architecture x86_64:
+  "_main", referenced from:
+     implicit entry/start for main executable
+ld: symbol(s) not found for architecture x86_64
+clang: error: linker command failed with exit code 1 (use -v to see invocation)
+
+[Done] exited with code=1 in 0.085 seconds
+
+[Running] cd "/Users/sunguosheng/Code/new_learning/C/" && gcc _45_库函数的使用.c -o _45_库函数的使用 && "/Users/sunguosheng/Code/new_learning/C/"_45_库函数的使用
+Undefined symbols for architecture x86_64:
+  "_main", referenced from:
+     implicit entry/start for main executable
+ld: symbol(s) not found for architecture x86_64
+clang: error: linker command failed with exit code 1 (use -v to see invocation)
+
+[Done] exited with code=1 in 0.145 seconds
+
+[Running] cd "/Users/sunguosheng/Code/new_learning/C/" && gcc _46_大文件的拷贝.c -o _46_大文件的拷贝 && "/Users/sunguosheng/Code/new_learning/C/"_46_大文件的拷贝
+Undefined symbols for architecture x86_64:
+  "_main", referenced from:
+     implicit entry/start for main executable
+ld: symbol(s) not found for architecture x86_64
+clang: error: linker command failed with exit code 1 (use -v to see invocation)
+
+[Done] exited with code=1 in 0.623 seconds
+
+[Running] cd "/Users/sunguosheng/Code/new_learning/C/" && gcc _46_大文件的拷贝.c -o _46_大文件的拷贝 && "/Users/sunguosheng/Code/new_learning/C/"_46_大文件的拷贝
+Undefined symbols for architecture x86_64:
+  "_main", referenced from:
+     implicit entry/start for main executable
+ld: symbol(s) not found for architecture x86_64
+clang: error: linker command failed with exit code 1 (use -v to see invocation)
+
+[Done] exited with code=1 in 0.088 seconds
+
+[Running] cd "/Users/sunguosheng/Code/new_learning/C/" && gcc _46_大文件的拷贝.c -o _46_大文件的拷贝 && "/Users/sunguosheng/Code/new_learning/C/"_46_大文件的拷贝
+Undefined symbols for architecture x86_64:
+  "_main", referenced from:
+     implicit entry/start for main executable
+ld: symbol(s) not found for architecture x86_64
+clang: error: linker command failed with exit code 1 (use -v to see invocation)
+
+[Done] exited with code=1 in 0.086 seconds
+
+[Running] cd "/Users/sunguosheng/Code/new_learning/C/" && gcc _46_大文件的拷贝.c -o _46_大文件的拷贝 && "/Users/sunguosheng/Code/new_learning/C/"_46_大文件的拷贝
+Undefined symbols for architecture x86_64:
+  "_main", referenced from:
+     implicit entry/start for main executable
+ld: symbol(s) not found for architecture x86_64
+clang: error: linker command failed with exit code 1 (use -v to see invocation)
+
+[Done] exited with code=1 in 0.199 seconds
+
+[Running] cd "/Users/sunguosheng/Code/new_learning/C/" && gcc _46_大文件的拷贝.c -o _46_大文件的拷贝 && "/Users/sunguosheng/Code/new_learning/C/"_46_大文件的拷贝
+Undefined symbols for architecture x86_64:
+  "_main", referenced from:
+     implicit entry/start for main executable
+ld: symbol(s) not found for architecture x86_64
+clang: error: linker command failed with exit code 1 (use -v to see invocation)[Done] exited with code=1 in 0.827 seconds
+
+[Running] cd "/Users/sunguosheng/Code/new_learning/C/" && gcc _45_库函数的使用.c -o _45_库函数的使用 && "/Users/sunguosheng/Code/new_learning/C/"_45_库函数的使用
+Undefined symbols for architecture x86_64:
+  "_main", referenced from:
+     implicit entry/start for main executable
+ld: symbol(s) not found for architecture x86_64
+clang: error: linker command failed with exit code 1 (use -v to see invocation)
+
+[Done] exited with code=1 in 0.085 seconds
+
+[Running] cd "/Users/sunguosheng/Code/new_learning/C/" && gcc _45_库函数的使用.c -o _45_库函数的使用 && "/Users/sunguosheng/Code/new_learning/C/"_45_库函数的使用
+Undefined symbols for architecture x86_64:
+  "_main", referenced from:
+     implicit entry/start for main executable
+ld: symbol(s) not found for architecture x86_64
+clang: error: linker command failed with exit code 1 (use -v to see invocation)
+
+[Done] exited with code=1 in 0.145 seconds
+
+[Running] cd "/Users/sunguosheng/Code/new_learning/C/" && gcc _46_大文件的拷贝.c -o _46_大文件的拷贝 && "/Users/sunguosheng/Code/new_learning/C/"_46_大文件的拷贝
+Undefined symbols for architecture x86_64:
+  "_main", referenced from:
+     implicit entry/start for main executable
+ld: symbol(s) not found for architecture x86_64
+clang: error: linker command failed with exit code 1 (use -v to see invocation)
+
+[Done] exited with code=1 in 0.623 seconds
+
+[Running] cd "/Users/sunguosheng/Code/new_learning/C/" && gcc _46_大文件的拷贝.c -o _46_大文件的拷贝 && "/Users/sunguosheng/Code/new_learning/C/"_46_大文件的拷贝
+Undefined symbols for architecture x86_64:
+  "_main", referenced from:
+     implicit entry/start for main executable
+ld: symbol(s) not found for architecture x86_64
+clang: error: linker command failed with exit code 1 (use -v to see invocation)
+
+[Done] exited with code=1 in 0.088 seconds
+
+[Running] cd "/Users/sunguosheng/Code/new_learning/C/" && gcc _46_大文件的拷贝.c -o _46_大文件的拷贝 && "/Users/sunguosheng/Code/new_learning/C/"_46_大文件的拷贝
+Undefined symbols for architecture x86_64:
+  "_main", referenced from:
+     implicit entry/start for main executable
+ld: symbol(s) not found for architecture x86_64
+clang: error: linker command failed with exit code 1 (use -v to see invocation)
+
+[Done] exited with code=1 in 0.086 seconds
+
+[Running] cd "/Users/sunguosheng/Code/new_learning/C/" && gcc _46_大文件的拷贝.c -o _46_大文件的拷贝 && "/Users/sunguosheng/Code/new_learning/C/"_46_大文件的拷贝
+Undefined symbols for architecture x86_64:
+  "_main", referenced from:
+     implicit entry/start for main executable
+ld: symbol(s) not found for architecture x86_64
+clang: error: linker command failed with exit code 1 (use -v to see invocation)
+
+[Done] exited with code=1 in 0.199 seconds
+
+[Running] cd "/Users/sunguosheng/Code/new_learning/C/" && gcc _46_大文件的拷贝.c -o _46_大文件的拷贝 && "/Users/sunguosheng/Code/new_learning/C/"_46_大文件的拷贝
+Undefined symbols for architecture x86_64:
+  "_main", referenced from:
+     implicit entry/start for main executable
+ld: symbol(s) not found for architecture x86_64
+clang: error: linker command failed with exit code 1 (use -v to see invocation)[Done] exited with code=1 in 0.827 seconds
+
+[Running] cd "/Users/sunguosheng/Code/new_learning/C/" && gcc _45_库函数的使用.c -o _45_库函数的使用 && "/Users/sunguosheng/Code/new_learning/C/"_45_库函数的使用
+Undefined symbols for architecture x86_64:
+  "_main", referenced from:
+     implicit entry/start for main executable
+ld: symbol(s) not found for architecture x86_64
+clang: error: linker command failed with exit code 1 (use -v to see invocation)
+
+[Done] exited with code=1 in 0.085 seconds
+
+[Running] cd "/Users/sunguosheng/Code/new_learning/C/" && gcc _45_库函数的使用.c -o _45_库函数的使用 && "/Users/sunguosheng/Code/new_learning/C/"_45_库函数的使用
+Undefined symbols for architecture x86_64:
+  "_main", referenced from:
+     implicit entry/start for main executable
+ld: symbol(s) not found for architecture x86_64
+clang: error: linker command failed with exit code 1 (use -v to see invocation)
+
+[Done] exited with code=1 in 0.145 seconds
+
+[Running] cd "/Users/sunguosheng/Code/new_learning/C/" && gcc _46_大文件的拷贝.c -o _46_大文件的拷贝 && "/Users/sunguosheng/Code/new_learning/C/"_46_大文件的拷贝
+Undefined symbols for architecture x86_64:
+  "_main", referenced from:
+     implicit entry/start for main executable
+ld: symbol(s) not found for architecture x86_64
+clang: error: linker command failed with exit code 1 (use -v to see invocation)
+
+[Done] exited with code=1 in 0.623 seconds
+
+[Running] cd "/Users/sunguosheng/Code/new_learning/C/" && gcc _46_大文件的拷贝.c -o _46_大文件的拷贝 && "/Users/sunguosheng/Code/new_learning/C/"_46_大文件的拷贝
+Undefined symbols for architecture x86_64:
+  "_main", referenced from:
+     implicit entry/start for main executable
+ld: symbol(s) not found for architecture x86_64
+clang: error: linker command failed with exit code 1 (use -v to see invocation)
+
+[Done] exited with code=1 in 0.088 seconds
+
+[Running] cd "/Users/sunguosheng/Code/new_learning/C/" && gcc _46_大文件的拷贝.c -o _46_大文件的拷贝 && "/Users/sunguosheng/Code/new_learning/C/"_46_大文件的拷贝
+Undefined symbols for architecture x86_64:
+  "_main", referenced from:
+     implicit entry/start for main executable
+ld: symbol(s) not found for architecture x86_64
+clang: error: linker command failed with exit code 1 (use -v to see invocation)
+
+[Done] exited with code=1 in 0.086 seconds
+
+[Running] cd "/Users/sunguosheng/Code/new_learning/C/" && gcc _46_大文件的拷贝.c -o _46_大文件的拷贝 && "/Users/sunguosheng/Code/new_learning/C/"_46_大文件的拷贝
+Undefined symbols for architecture x86_64:
+  "_main", referenced from:
+     implicit entry/start for main executable
+ld: symbol(s) not found for architecture x86_64
+clang: error: linker command failed with exit code 1 (use -v to see invocation)
+
+[Done] exited with code=1 in 0.199 seconds
+
+[Running] cd "/Users/sunguosheng/Code/new_learning/C/" && gcc _46_大文件的拷贝.c -o _46_大文件的拷贝 && "/Users/sunguosheng/Code/new_learning/C/"_46_大文件的拷贝
+Undefined symbols for architecture x86_64:
+  "_main", referenced from:
+     implicit entry/start for main executable
+ld: symbol(s) not found for architecture x86_64
+clang: error: linker command failed with exit code 1 (use -v to see invocation)[Done] exited with code=1 in 0.827 seconds
+
+[Running] cd "/Users/sunguosheng/Code/new_learning/C/" && gcc _45_库函数的使用.c -o _45_库函数的使用 && "/Users/sunguosheng/Code/new_learning/C/"_45_库函数的使用
+Undefined symbols for architecture x86_64:
+  "_main", referenced from:
+     implicit entry/start for main executable
+ld: symbol(s) not found for architecture x86_64
+clang: error: linker command failed with exit code 1 (use -v to see invocation)
+
+[Done] exited with code=1 in 0.085 seconds
+
+[Running] cd "/Users/sunguosheng/Code/new_learning/C/" && gcc _45_库函数的使用.c -o _45_库函数的使用 && "/Users/sunguosheng/Code/new_learning/C/"_45_库函数的使用
+Undefined symbols for architecture x86_64:
+  "_main", referenced from:
+     implicit entry/start for main executable
+ld: symbol(s) not found for architecture x86_64
+clang: error: linker command failed with exit code 1 (use -v to see invocation)
+
+[Done] exited with code=1 in 0.145 seconds
+
+[Running] cd "/Users/sunguosheng/Code/new_learning/C/" && gcc _46_大文件的拷贝.c -o _46_大文件的拷贝 && "/Users/sunguosheng/Code/new_learning/C/"_46_大文件的拷贝
+Undefined symbols for architecture x86_64:
+  "_main", referenced from:
+     implicit entry/start for main executable
+ld: symbol(s) not found for architecture x86_64
+clang: error: linker command failed with exit code 1 (use -v to see invocation)
+
+[Done] exited with code=1 in 0.623 seconds
+
+[Running] cd "/Users/sunguosheng/Code/new_learning/C/" && gcc _46_大文件的拷贝.c -o _46_大文件的拷贝 && "/Users/sunguosheng/Code/new_learning/C/"_46_大文件的拷贝
+Undefined symbols for architecture x86_64:
+  "_main", referenced from:
+     implicit entry/start for main executable
+ld: symbol(s) not found for architecture x86_64
+clang: error: linker command failed with exit code 1 (use -v to see invocation)
+
+[Done] exited with code=1 in 0.088 seconds
+
+[Running] cd "/Users/sunguosheng/Code/new_learning/C/" && gcc _46_大文件的拷贝.c -o _46_大文件的拷贝 && "/Users/sunguosheng/Code/new_learning/C/"_46_大文件的拷贝
+Undefined symbols for architecture x86_64:
+  "_main", referenced from:
+     implicit entry/start for main executable
+ld: symbol(s) not found for architecture x86_64
+clang: error: linker command failed with exit code 1 (use -v to see invocation)
+
+[Done] exited with code=1 in 0.086 seconds
+
+[Running] cd "/Users/sunguosheng/Code/new_learning/C/" && gcc _46_大文件的拷贝.c -o _46_大文件的拷贝 && "/Users/sunguosheng/Code/new_learning/C/"_46_大文件的拷贝
+Undefined symbols for architecture x86_64:
+  "_main", referenced from:
+     implicit entry/start for main executable
+ld: symbol(s) not found for architecture x86_64
+clang: error: linker command failed with exit code 1 (use -v to see invocation)
+
+[Done] exited with code=1 in 0.199 seconds
+
+[Running] cd "/Users/sunguosheng/Code/new_learning/C/" && gcc _46_大文件的拷贝.c -o _46_大文件的拷贝 && "/Users/sunguosheng/Code/new_learning/C/"_46_大文件的拷贝
+Undefined symbols for architecture x86_64:
+  "_main", referenced from:
+     implicit entry/start for main executable
+ld: symbol(s) not found for architecture x86_64
+clang: error: linker command failed with exit code 1 (use -v to see invocation)[Done] exited with code=1 in 0.827 seconds
+
+[Running] cd "/Users/sunguosheng/Code/new_learning/C/" && gcc _45_库函数的使用.c -o _45_库函数的使用 && "/Users/sunguosheng/Code/new_learning/C/"_45_库函数的使用
+Undefined symbols for architecture x86_64:
+  "_main", referenced from:
+     implicit entry/start for main executable
+ld: symbol(s) not found for architecture x86_64
+clang: error: linker command failed with exit code 1 (use -v to see invocation)
+
+[Done] exited with code=1 in 0.085 seconds
+
+[Running] cd "/Users/sunguosheng/Code/new_learning/C/" && gcc _45_库函数的使用.c -o _45_库函数的使用 && "/Users/sunguosheng/Code/new_learning/C/"_45_库函数的使用
+Undefined symbols for architecture x86_64:
+  "_main", referenced from:
+     implicit entry/start for main executable
+ld: symbol(s) not found for architecture x86_64
+clang: error: linker command failed with exit code 1 (use -v to see invocation)
+
+[Done] exited with code=1 in 0.145 seconds
+
+[Running] cd "/Users/sunguosheng/Code/new_learning/C/" && gcc _46_大文件的拷贝.c -o _46_大文件的拷贝 && "/Users/sunguosheng/Code/new_learning/C/"_46_大文件的拷贝
+Undefined symbols for architecture x86_64:
+  "_main", referenced from:
+     implicit entry/start for main executable
+ld: symbol(s) not found for architecture x86_64
+clang: error: linker command failed with exit code 1 (use -v to see invocation)
+
+[Done] exited with code=1 in 0.623 seconds
+
+[Running] cd "/Users/sunguosheng/Code/new_learning/C/" && gcc _46_大文件的拷贝.c -o _46_大文件的拷贝 && "/Users/sunguosheng/Code/new_learning/C/"_46_大文件的拷贝
+Undefined symbols for architecture x86_64:
+  "_main", referenced from:
+     implicit entry/start for main executable
+ld: symbol(s) not found for architecture x86_64
+clang: error: linker command failed with exit code 1 (use -v to see invocation)
+
+[Done] exited with code=1 in 0.088 seconds
+
+[Running] cd "/Users/sunguosheng/Code/new_learning/C/" && gcc _46_大文件的拷贝.c -o _46_大文件的拷贝 && "/Users/sunguosheng/Code/new_learning/C/"_46_大文件的拷贝
+Undefined symbols for architecture x86_64:
+  "_main", referenced from:
+     implicit entry/start for main executable
+ld: symbol(s) not found for architecture x86_64
+clang: error: linker command failed with exit code 1 (use -v to see invocation)
+
+[Done] exited with code=1 in 0.086 seconds
+
+[Running] cd "/Users/sunguosheng/Code/new_learning/C/" && gcc _46_大文件的拷贝.c -o _46_大文件的拷贝 && "/Users/sunguosheng/Code/new_learning/C/"_46_大文件的拷贝
+Undefined symbols for architecture x86_64:
+  "_main", referenced from:
+     implicit entry/start for main executable
+ld: symbol(s) not found for architecture x86_64
+clang: error: linker command failed with exit code 1 (use -v to see invocation)
+
+[Done] exited with code=1 in 0.199 seconds
+
+[Running] cd "/Users/sunguosheng/Code/new_learning/C/" && gcc _46_大文件的拷贝.c -o _46_大文件的拷贝 && "/Users/sunguosheng/Code/new_learning/C/"_46_大文件的拷贝
+Undefined symbols for architecture x86_64:
+  "_main", referenced from:
+     implicit entry/start for main executable
+ld: symbol(s) not found for architecture x86_64
+clang: error: linker command failed with exit code 1 (use -v to see invocation)[Done] exited with code=1 in 0.827 seconds
+
+[Running] cd "/Users/sunguosheng/Code/new_learning/C/" && gcc _45_库函数的使用.c -o _45_库函数的使用 && "/Users/sunguosheng/Code/new_learning/C/"_45_库函数的使用
+Undefined symbols for architecture x86_64:
+  "_main", referenced from:
+     implicit entry/start for main executable
+ld: symbol(s) not found for architecture x86_64
+clang: error: linker command failed with exit code 1 (use -v to see invocation)
+
+[Done] exited with code=1 in 0.085 seconds
+
+[Running] cd "/Users/sunguosheng/Code/new_learning/C/" && gcc _45_库函数的使用.c -o _45_库函数的使用 && "/Users/sunguosheng/Code/new_learning/C/"_45_库函数的使用
+Undefined symbols for architecture x86_64:
+  "_main", referenced from:
+     implicit entry/start for main executable
+ld: symbol(s) not found for architecture x86_64
+clang: error: linker command failed with exit code 1 (use -v to see invocation)
+
+[Done] exited with code=1 in 0.145 seconds
+
+[Running] cd "/Users/sunguosheng/Code/new_learning/C/" && gcc _46_大文件的拷贝.c -o _46_大文件的拷贝 && "/Users/sunguosheng/Code/new_learning/C/"_46_大文件的拷贝
+Undefined symbols for architecture x86_64:
+  "_main", referenced from:
+     implicit entry/start for main executable
+ld: symbol(s) not found for architecture x86_64
+clang: error: linker command failed with exit code 1 (use -v to see invocation)
+
+[Done] exited with code=1 in 0.623 seconds
+
+[Running] cd "/Users/sunguosheng/Code/new_learning/C/" && gcc _46_大文件的拷贝.c -o _46_大文件的拷贝 && "/Users/sunguosheng/Code/new_learning/C/"_46_大文件的拷贝
+Undefined symbols for architecture x86_64:
+  "_main", referenced from:
+     implicit entry/start for main executable
+ld: symbol(s) not found for architecture x86_64
+clang: error: linker command failed with exit code 1 (use -v to see invocation)
+
+[Done] exited with code=1 in 0.088 seconds
+
+[Running] cd "/Users/sunguosheng/Code/new_learning/C/" && gcc _46_大文件的拷贝.c -o _46_大文件的拷贝 && "/Users/sunguosheng/Code/new_learning/C/"_46_大文件的拷贝
+Undefined symbols for architecture x86_64:
+  "_main", referenced from:
+     implicit entry/start for main executable
+ld: symbol(s) not found for architecture x86_64
+clang: error: linker command failed with exit code 1 (use -v to see invocation)
+
+[Done] exited with code=1 in 0.086 seconds
+
+[Running] cd "/Users/sunguosheng/Code/new_learning/C/" && gcc _46_大文件的拷贝.c -o _46_大文件的拷贝 && "/Users/sunguosheng/Code/new_learning/C/"_46_大文件的拷贝
+Undefined symbols for architecture x86_64:
+  "_main", referenced from:
+     implicit entry/start for main executable
+ld: symbol(s) not found for architecture x86_64
+clang: error: linker command failed with exit code 1 (use -v to see invocation)
+
+[Done] exited with code=1 in 0.199 seconds
+
+[Running] cd "/Users/sunguosheng/Code/new_learning/C/" && gcc _46_大文件的拷贝.c -o _46_大文件的拷贝 && "/Users/sunguosheng/Code/new_learning/C/"_46_大文件的拷贝
+Undefined symbols for architecture x86_64:
+  "_main", referenced from:
+     implicit entry/start for main executable
+ld: symbol(s) not found for architecture x86_64
+clang: error: linker command failed with exit code 1 (use -v to see invocation)[Done] exited with code=1 in 0.827 seconds
+
+[Running] cd "/Users/sunguosheng/Code/new_learning/C/" && gcc _45_库函数的使用.c -o _45_库函数的使用 && "/Users/sunguosheng/Code/new_learning/C/"_45_库函数的使用
+Undefined symbols for architecture x86_64:
+  "_main", referenced from:
+     implicit entry/start for main executable
+ld: symbol(s) not found for architecture x86_64
+clang: error: linker command failed with exit code 1 (use -v to see invocation)
+
+[Done] exited with code=1 in 0.085 seconds
+
+[Running] cd "/Users/sunguosheng/Code/new_learning/C/" && gcc _45_库函数的使用.c -o _45_库函数的使用 && "/Users/sunguosheng/Code/new_learning/C/"_45_库函数的使用
+Undefined symbols for architecture x86_64:
+  "_main", referenced from:
+     implicit entry/start for main executable
+ld: symbol(s) not found for architecture x86_64
+clang: error: linker command failed with exit code 1 (use -v to see invocation)
+
+[Done] exited with code=1 in 0.145 seconds
+
+[Running] cd "/Users/sunguosheng/Code/new_learning/C/" && gcc _46_大文件的拷贝.c -o _46_大文件的拷贝 && "/Users/sunguosheng/Code/new_learning/C/"_46_大文件的拷贝
+Undefined symbols for architecture x86_64:
+  "_main", referenced from:
+     implicit entry/start for main executable
+ld: symbol(s) not found for architecture x86_64
+clang: error: linker command failed with exit code 1 (use -v to see invocation)
+
+[Done] exited with code=1 in 0.623 seconds
+
+[Running] cd "/Users/sunguosheng/Code/new_learning/C/" && gcc _46_大文件的拷贝.c -o _46_大文件的拷贝 && "/Users/sunguosheng/Code/new_learning/C/"_46_大文件的拷贝
+Undefined symbols for architecture x86_64:
+  "_main", referenced from:
+     implicit entry/start for main executable
+ld: symbol(s) not found for architecture x86_64
+clang: error: linker command failed with exit code 1 (use -v to see invocation)
+
+[Done] exited with code=1 in 0.088 seconds
+
+[Running] cd "/Users/sunguosheng/Code/new_learning/C/" && gcc _46_大文件的拷贝.c -o _46_大文件的拷贝 && "/Users/sunguosheng/Code/new_learning/C/"_46_大文件的拷贝
+Undefined symbols for architecture x86_64:
+  "_main", referenced from:
+     implicit entry/start for main executable
+ld: symbol(s) not found for architecture x86_64
+clang: error: linker command failed with exit code 1 (use -v to see invocation)
+
+[Done] exited with code=1 in 0.086 seconds
+
+[Running] cd "/Users/sunguosheng/Code/new_learning/C/" && gcc _46_大文件的拷贝.c -o _46_大文件的拷贝 && "/Users/sunguosheng/Code/new_learning/C/"_46_大文件的拷贝
+Undefined symbols for architecture x86_64:
+  "_main", referenced from:
+     implicit entry/start for main executable
+ld: symbol(s) not found for architecture x86_64
+clang: error: linker command failed with exit code 1 (use -v to see invocation)
+
+[Done] exited with code=1 in 0.199 seconds
+
+[Running] cd "/Users/sunguosheng/Code/new_learning/C/" && gcc _46_大文件的拷贝.c -o _46_大文件的拷贝 && "/Users/sunguosheng/Code/new_learning/C/"_46_大文件的拷贝
+Undefined symbols for architecture x86_64:
+  "_main", referenced from:
+     implicit entry/start for main executable
+ld: symbol(s) not found for architecture x86_64
+clang: error: linker command failed with exit code 1 (use -v to see invocation)[Done] exited with code=1 in 0.827 seconds
+
+[Running] cd "/Users/sunguosheng/Code/new_learning/C/" && gcc _45_库函数的使用.c -o _45_库函数的使用 && "/Users/sunguosheng/Code/new_learning/C/"_45_库函数的使用
+Undefined symbols for architecture x86_64:
+  "_main", referenced from:
+     implicit entry/start for main executable
+ld: symbol(s) not found for architecture x86_64
+clang: error: linker command failed with exit code 1 (use -v to see invocation)
+
+[Done] exited with code=1 in 0.085 seconds
+
+[Running] cd "/Users/sunguosheng/Code/new_learning/C/" && gcc _45_库函数的使用.c -o _45_库函数的使用 && "/Users/sunguosheng/Code/new_learning/C/"_45_库函数的使用
+Undefined symbols for architecture x86_64:
+  "_main", referenced from:
+     implicit entry/start for main executable
+ld: symbol(s) not found for architecture x86_64
+clang: error: linker command failed with exit code 1 (use -v to see invocation)
+
+[Done] exited with code=1 in 0.145 seconds
+
+[Running] cd "/Users/sunguosheng/Code/new_learning/C/" && gcc _46_大文件的拷贝.c -o _46_大文件的拷贝 && "/Users/sunguosheng/Code/new_learning/C/"_46_大文件的拷贝
+Undefined symbols for architecture x86_64:
+  "_main", referenced from:
+     implicit entry/start for main executable
+ld: symbol(s) not found for architecture x86_64
+clang: error: linker command failed with exit code 1 (use -v to see invocation)
+
+[Done] exited with code=1 in 0.623 seconds
+
+[Running] cd "/Users/sunguosheng/Code/new_learning/C/" && gcc _46_大文件的拷贝.c -o _46_大文件的拷贝 && "/Users/sunguosheng/Code/new_learning/C/"_46_大文件的拷贝
+Undefined symbols for architecture x86_64:
+  "_main", referenced from:
+     implicit entry/start for main executable
+ld: symbol(s) not found for architecture x86_64
+clang: error: linker command failed with exit code 1 (use -v to see invocation)
+
+[Done] exited with code=1 in 0.088 seconds
+
+[Running] cd "/Users/sunguosheng/Code/new_learning/C/" && gcc _46_大文件的拷贝.c -o _46_大文件的拷贝 && "/Users/sunguosheng/Code/new_learning/C/"_46_大文件的拷贝
+Undefined symbols for architecture x86_64:
+  "_main", referenced from:
+     implicit entry/start for main executable
+ld: symbol(s) not found for architecture x86_64
+clang: error: linker command failed with exit code 1 (use -v to see invocation)
+
+[Done] exited with code=1 in 0.086 seconds
+
+[Running] cd "/Users/sunguosheng/Code/new_learning/C/" && gcc _46_大文件的拷贝.c -o _46_大文件的拷贝 && "/Users/sunguosheng/Code/new_learning/C/"_46_大文件的拷贝
+Undefined symbols for architecture x86_64:
+  "_main", referenced from:
+     implicit entry/start for main executable
+ld: symbol(s) not found for architecture x86_64
+clang: error: linker command failed with exit code 1 (use -v to see invocation)
+
+[Done] exited with code=1 in 0.199 seconds
+
+[Running] cd "/Users/sunguosheng/Code/new_learning/C/" && gcc _46_大文件的拷贝.c -o _46_大文件的拷贝 && "/Users/sunguosheng/Code/new_learning/C/"_46_大文件的拷贝
+Undefined symbols for architecture x86_64:
+  "_main", referenced from:
+     implicit entry/start for main executable
+ld: symbol(s) not found for architecture x86_64
+clang: error: linker command failed with exit code 1 (use -v to see invocation)[Done] exited with code=1 in 0.827 seconds
+
+[Running] cd "/Users/sunguosheng/Code/new_learning/C/" && gcc _45_库函数的使用.c -o _45_库函数的使用 && "/Users/sunguosheng/Code/new_learning/C/"_45_库函数的使用
+Undefined symbols for architecture x86_64:
+  "_main", referenced from:
+     implicit entry/start for main executable
+ld: symbol(s) not found for architecture x86_64
+clang: error: linker command failed with exit code 1 (use -v to see invocation)
+
+[Done] exited with code=1 in 0.085 seconds
+
+[Running] cd "/Users/sunguosheng/Code/new_learning/C/" && gcc _45_库函数的使用.c -o _45_库函数的使用 && "/Users/sunguosheng/Code/new_learning/C/"_45_库函数的使用
+Undefined symbols for architecture x86_64:
+  "_main", referenced from:
+     implicit entry/start for main executable
+ld: symbol(s) not found for architecture x86_64
+clang: error: linker command failed with exit code 1 (use -v to see invocation)
+
+[Done] exited with code=1 in 0.145 seconds
+
+[Running] cd "/Users/sunguosheng/Code/new_learning/C/" && gcc _46_大文件的拷贝.c -o _46_大文件的拷贝 && "/Users/sunguosheng/Code/new_learning/C/"_46_大文件的拷贝
+Undefined symbols for architecture x86_64:
+  "_main", referenced from:
+     implicit entry/start for main executable
+ld: symbol(s) not found for architecture x86_64
+clang: error: linker command failed with exit code 1 (use -v to see invocation)
+
+[Done] exited with code=1 in 0.623 seconds
+
+[Running] cd "/Users/sunguosheng/Code/new_learning/C/" && gcc _46_大文件的拷贝.c -o _46_大文件的拷贝 && "/Users/sunguosheng/Code/new_learning/C/"_46_大文件的拷贝
+Undefined symbols for architecture x86_64:
+  "_main", referenced from:
+     implicit entry/start for main executable
+ld: symbol(s) not found for architecture x86_64
+clang: error: linker command failed with exit code 1 (use -v to see invocation)
+
+[Done] exited with code=1 in 0.088 seconds
+
+[Running] cd "/Users/sunguosheng/Code/new_learning/C/" && gcc _46_大文件的拷贝.c -o _46_大文件的拷贝 && "/Users/sunguosheng/Code/new_learning/C/"_46_大文件的拷贝
+Undefined symbols for architecture x86_64:
+  "_main", referenced from:
+     implicit entry/start for main executable
+ld: symbol(s) not found for architecture x86_64
+clang: error: linker command failed with exit code 1 (use -v to see invocation)
+
+[Done] exited with code=1 in 0.086 seconds
+
+[Running] cd "/Users/sunguosheng/Code/new_learning/C/" && gcc _46_大文件的拷贝.c -o _46_大文件的拷贝 && "/Users/sunguosheng/Code/new_learning/C/"_46_大文件的拷贝
+Undefined symbols for architecture x86_64:
+  "_main", referenced from:
+     implicit entry/start for main executable
+ld: symbol(s) not found for architecture x86_64
+clang: error: linker command failed with exit code 1 (use -v to see invocation)
+
+[Done] exited with code=1 in 0.199 seconds
+
+[Running] cd "/Users/sunguosheng/Code/new_learning/C/" && gcc _46_大文件的拷贝.c -o _46_大文件的拷贝 && "/Users/sunguosheng/Code/new_learning/C/"_46_大文件的拷贝
+Undefined symbols for architecture x86_64:
+  "_main", referenced from:
+     implicit entry/start for main executable
+ld: symbol(s) not found for architecture x86_64
+clang: error: linker command failed with exit code 1 (use -v to see invocation)[Done] exited with code=1 in 0.827 seconds
+
+[Running] cd "/Users/sunguosheng/Code/new_learning/C/" && gcc _45_库函数的使用.c -o _45_库函数的使用 && "/Users/sunguosheng/Code/new_learning/C/"_45_库函数的使用
+Undefined symbols for architecture x86_64:
+  "_main", referenced from:
+     implicit entry/start for main executable
+ld: symbol(s) not found for architecture x86_64
+clang: error: linker command failed with exit code 1 (use -v to see invocation)
+
+[Done] exited with code=1 in 0.085 seconds
+
+[Running] cd "/Users/sunguosheng/Code/new_learning/C/" && gcc _45_库函数的使用.c -o _45_库函数的使用 && "/Users/sunguosheng/Code/new_learning/C/"_45_库函数的使用
+Undefined symbols for architecture x86_64:
+  "_main", referenced from:
+     implicit entry/start for main executable
+ld: symbol(s) not found for architecture x86_64
+clang: error: linker command failed with exit code 1 (use -v to see invocation)
+
+[Done] exited with code=1 in 0.145 seconds
+
+[Running] cd "/Users/sunguosheng/Code/new_learning/C/" && gcc _46_大文件的拷贝.c -o _46_大文件的拷贝 && "/Users/sunguosheng/Code/new_learning/C/"_46_大文件的拷贝
+Undefined symbols for architecture x86_64:
+  "_main", referenced from:
+     implicit entry/start for main executable
+ld: symbol(s) not found for architecture x86_64
+clang: error: linker command failed with exit code 1 (use -v to see invocation)
+
+[Done] exited with code=1 in 0.623 seconds
+
+[Running] cd "/Users/sunguosheng/Code/new_learning/C/" && gcc _46_大文件的拷贝.c -o _46_大文件的拷贝 && "/Users/sunguosheng/Code/new_learning/C/"_46_大文件的拷贝
+Undefined symbols for architecture x86_64:
+  "_main", referenced from:
+     implicit entry/start for main executable
+ld: symbol(s) not found for architecture x86_64
+clang: error: linker command failed with exit code 1 (use -v to see invocation)
+
+[Done] exited with code=1 in 0.088 seconds
+
+[Running] cd "/Users/sunguosheng/Code/new_learning/C/" && gcc _46_大文件的拷贝.c -o _46_大文件的拷贝 && "/Users/sunguosheng/Code/new_learning/C/"_46_大文件的拷贝
+Undefined symbols for architecture x86_64:
+  "_main", referenced from:
+     implicit entry/start for main executable
+ld: symbol(s) not found for architecture x86_64
+clang: error: linker command failed with exit code 1 (use -v to see invocation)
+
+[Done] exited with code=1 in 0.086 seconds
+
+[Running] cd "/Users/sunguosheng/Code/new_learning/C/" && gcc _46_大文件的拷贝.c -o _46_大文件的拷贝 && "/Users/sunguosheng/Code/new_learning/C/"_46_大文件的拷贝
+Undefined symbols for architecture x86_64:
+  "_main", referenced from:
+     implicit entry/start for main executable
+ld: symbol(s) not found for architecture x86_64
+clang: error: linker command failed with exit code 1 (use -v to see invocation)
+
+[Done] exited with code=1 in 0.199 seconds
+
+[Running] cd "/Users/sunguosheng/Code/new_learning/C/" && gcc _46_大文件的拷贝.c -o _46_大文件的拷贝 && "/Users/sunguosheng/Code/new_learning/C/"_46_大文件的拷贝
+Undefined symbols for architecture x86_64:
+  "_main", referenced from:
+     implicit entry/start for main executable
+ld: symbol(s) not found for architecture x86_64
+clang: error: linker command failed with exit code 1 (use -v to see invocation)[Done] exited with code=1 in 0.827 seconds
+
+[Running] cd "/Users/sunguosheng/Code/new_learning/C/" && gcc _45_库函数的使用.c -o _45_库函数的使用 && "/Users/sunguosheng/Code/new_learning/C/"_45_库函数的使用
+Undefined symbols for architecture x86_64:
+  "_main", referenced from:
+     implicit entry/start for main executable
+ld: symbol(s) not found for architecture x86_64
+clang: error: linker command failed with exit code 1 (use -v to see invocation)
+
+[Done] exited with code=1 in 0.085 seconds
+
+[Running] cd "/Users/sunguosheng/Code/new_learning/C/" && gcc _45_库函数的使用.c -o _45_库函数的使用 && "/Users/sunguosheng/Code/new_learning/C/"_45_库函数的使用
+Undefined symbols for architecture x86_64:
+  "_main", referenced from:
+     implicit entry/start for main executable
+ld: symbol(s) not found for architecture x86_64
+clang: error: linker command failed with exit code 1 (use -v to see invocation)
+
+[Done] exited with code=1 in 0.145 seconds
+
+[Running] cd "/Users/sunguosheng/Code/new_learning/C/" && gcc _46_大文件的拷贝.c -o _46_大文件的拷贝 && "/Users/sunguosheng/Code/new_learning/C/"_46_大文件的拷贝
+Undefined symbols for architecture x86_64:
+  "_main", referenced from:
+     implicit entry/start for main executable
+ld: symbol(s) not found for architecture x86_64
+clang: error: linker command failed with exit code 1 (use -v to see invocation)
+
+[Done] exited with code=1 in 0.623 seconds
+
+[Running] cd "/Users/sunguosheng/Code/new_learning/C/" && gcc _46_大文件的拷贝.c -o _46_大文件的拷贝 && "/Users/sunguosheng/Code/new_learning/C/"_46_大文件的拷贝
+Undefined symbols for architecture x86_64:
+  "_main", referenced from:
+     implicit entry/start for main executable
+ld: symbol(s) not found for architecture x86_64
+clang: error: linker command failed with exit code 1 (use -v to see invocation)
+
+[Done] exited with code=1 in 0.088 seconds
+
+[Running] cd "/Users/sunguosheng/Code/new_learning/C/" && gcc _46_大文件的拷贝.c -o _46_大文件的拷贝 && "/Users/sunguosheng/Code/new_learning/C/"_46_大文件的拷贝
+Undefined symbols for architecture x86_64:
+  "_main", referenced from:
+     implicit entry/start for main executable
+ld: symbol(s) not found for architecture x86_64
+clang: error: linker command failed with exit code 1 (use -v to see invocation)
+
+[Done] exited with code=1 in 0.086 seconds
+
+[Running] cd "/Users/sunguosheng/Code/new_learning/C/" && gcc _46_大文件的拷贝.c -o _46_大文件的拷贝 && "/Users/sunguosheng/Code/new_learning/C/"_46_大文件的拷贝
+Undefined symbols for architecture x86_64:
+  "_main", referenced from:
+     implicit entry/start for main executable
+ld: symbol(s) not found for architecture x86_64
+clang: error: linker command failed with exit code 1 (use -v to see invocation)
+
+[Done] exited with code=1 in 0.199 seconds
+
+[Running] cd "/Users/sunguosheng/Code/new_learning/C/" && gcc _46_大文件的拷贝.c -o _46_大文件的拷贝 && "/Users/sunguosheng/Code/new_learning/C/"_46_大文件的拷贝
+Undefined symbols for architecture x86_64:
+  "_main", referenced from:
+     implicit entry/start for main executable
+ld: symbol(s) not found for architecture x86_64
+clang: error: linker command failed with exit code 1 (use -v to see invocation)[Done] exited with code=1 in 0.827 seconds
+
+[Running] cd "/Users/sunguosheng/Code/new_learning/C/" && gcc _45_库函数的使用.c -o _45_库函数的使用 && "/Users/sunguosheng/Code/new_learning/C/"_45_库函数的使用
+Undefined symbols for architecture x86_64:
+  "_main", referenced from:
+     implicit entry/start for main executable
+ld: symbol(s) not found for architecture x86_64
+clang: error: linker command failed with exit code 1 (use -v to see invocation)
+
+[Done] exited with code=1 in 0.085 seconds
+
+[Running] cd "/Users/sunguosheng/Code/new_learning/C/" && gcc _45_库函数的使用.c -o _45_库函数的使用 && "/Users/sunguosheng/Code/new_learning/C/"_45_库函数的使用
+Undefined symbols for architecture x86_64:
+  "_main", referenced from:
+     implicit entry/start for main executable
+ld: symbol(s) not found for architecture x86_64
+clang: error: linker command failed with exit code 1 (use -v to see invocation)
+
+[Done] exited with code=1 in 0.145 seconds
+
+[Running] cd "/Users/sunguosheng/Code/new_learning/C/" && gcc _46_大文件的拷贝.c -o _46_大文件的拷贝 && "/Users/sunguosheng/Code/new_learning/C/"_46_大文件的拷贝
+Undefined symbols for architecture x86_64:
+  "_main", referenced from:
+     implicit entry/start for main executable
+ld: symbol(s) not found for architecture x86_64
+clang: error: linker command failed with exit code 1 (use -v to see invocation)
+
+[Done] exited with code=1 in 0.623 seconds
+
+[Running] cd "/Users/sunguosheng/Code/new_learning/C/" && gcc _46_大文件的拷贝.c -o _46_大文件的拷贝 && "/Users/sunguosheng/Code/new_learning/C/"_46_大文件的拷贝
+Undefined symbols for architecture x86_64:
+  "_main", referenced from:
+     implicit entry/start for main executable
+ld: symbol(s) not found for architecture x86_64
+clang: error: linker command failed with exit code 1 (use -v to see invocation)
+
+[Done] exited with code=1 in 0.088 seconds
+
+[Running] cd "/Users/sunguosheng/Code/new_learning/C/" && gcc _46_大文件的拷贝.c -o _46_大文件的拷贝 && "/Users/sunguosheng/Code/new_learning/C/"_46_大文件的拷贝
+Undefined symbols for architecture x86_64:
+  "_main", referenced from:
+     implicit entry/start for main executable
+ld: symbol(s) not found for architecture x86_64
+clang: error: linker command failed with exit code 1 (use -v to see invocation)
+
+[Done] exited with code=1 in 0.086 seconds
+
+[Running] cd "/Users/sunguosheng/Code/new_learning/C/" && gcc _46_大文件的拷贝.c -o _46_大文件的拷贝 && "/Users/sunguosheng/Code/new_learning/C/"_46_大文件的拷贝
+Undefined symbols for architecture x86_64:
+  "_main", referenced from:
+     implicit entry/start for main executable
+ld: symbol(s) not found for architecture x86_64
+clang: error: linker command failed with exit code 1 (use -v to see invocation)
+
+[Done] exited with code=1 in 0.199 seconds
+
+[Running] cd "/Users/sunguosheng/Code/new_learning/C/" && gcc _46_大文件的拷贝.c -o _46_大文件的拷贝 && "/Users/sunguosheng/Code/new_learning/C/"_46_大文件的拷贝
+Undefined symbols for architecture x86_64:
+  "_main", referenced from:
+     implicit entry/start for main executable
+ld: symbol(s) not found for architecture x86_64
+clang: error: linker command failed with exit code 1 (use -v to see invocation)[Done] exited with code=1 in 0.827 seconds
+
+[Running] cd "/Users/sunguosheng/Code/new_learning/C/" && gcc _45_库函数的使用.c -o _45_库函数的使用 && "/Users/sunguosheng/Code/new_learning/C/"_45_库函数的使用
+Undefined symbols for architecture x86_64:
+  "_main", referenced from:
+     implicit entry/start for main executable
+ld: symbol(s) not found for architecture x86_64
+clang: error: linker command failed with exit code 1 (use -v to see invocation)
+
+[Done] exited with code=1 in 0.085 seconds
+
+[Running] cd "/Users/sunguosheng/Code/new_learning/C/" && gcc _45_库函数的使用.c -o _45_库函数的使用 && "/Users/sunguosheng/Code/new_learning/C/"_45_库函数的使用
+Undefined symbols for architecture x86_64:
+  "_main", referenced from:
+     implicit entry/start for main executable
+ld: symbol(s) not found for architecture x86_64
+clang: error: linker command failed with exit code 1 (use -v to see invocation)
+
+[Done] exited with code=1 in 0.145 seconds
+
+[Running] cd "/Users/sunguosheng/Code/new_learning/C/" && gcc _46_大文件的拷贝.c -o _46_大文件的拷贝 && "/Users/sunguosheng/Code/new_learning/C/"_46_大文件的拷贝
+Undefined symbols for architecture x86_64:
+  "_main", referenced from:
+     implicit entry/start for main executable
+ld: symbol(s) not found for architecture x86_64
+clang: error: linker command failed with exit code 1 (use -v to see invocation)
+
+[Done] exited with code=1 in 0.623 seconds
+
+[Running] cd "/Users/sunguosheng/Code/new_learning/C/" && gcc _46_大文件的拷贝.c -o _46_大文件的拷贝 && "/Users/sunguosheng/Code/new_learning/C/"_46_大文件的拷贝
+Undefined symbols for architecture x86_64:
+  "_main", referenced from:
+     implicit entry/start for main executable
+ld: symbol(s) not found for architecture x86_64
+clang: error: linker command failed with exit code 1 (use -v to see invocation)
+
+[Done] exited with code=1 in 0.088 seconds
+
+[Running] cd "/Users/sunguosheng/Code/new_learning/C/" && gcc _46_大文件的拷贝.c -o _46_大文件的拷贝 && "/Users/sunguosheng/Code/new_learning/C/"_46_大文件的拷贝
+Undefined symbols for architecture x86_64:
+  "_main", referenced from:
+     implicit entry/start for main executable
+ld: symbol(s) not found for architecture x86_64
+clang: error: linker command failed with exit code 1 (use -v to see invocation)
+
+[Done] exited with code=1 in 0.086 seconds
+
+[Running] cd "/Users/sunguosheng/Code/new_learning/C/" && gcc _46_大文件的拷贝.c -o _46_大文件的拷贝 && "/Users/sunguosheng/Code/new_learning/C/"_46_大文件的拷贝
+Undefined symbols for architecture x86_64:
+  "_main", referenced from:
+     implicit entry/start for main executable
+ld: symbol(s) not found for architecture x86_64
+clang: error: linker command failed with exit code 1 (use -v to see invocation)
+
+[Done] exited with code=1 in 0.199 seconds
+
+[Running] cd "/Users/sunguosheng/Code/new_learning/C/" && gcc _46_大文件的拷贝.c -o _46_大文件的拷贝 && "/Users/sunguosheng/Code/new_learning/C/"_46_大文件的拷贝
+Undefined symbols for architecture x86_64:
+  "_main", referenced from:
+     implicit entry/start for main executable
+ld: symbol(s) not found for architecture x86_64
+clang: error: linker command failed with exit code 1 (use -v to see invocation)[Done] exited with code=1 in 0.827 seconds
+
+[Running] cd "/Users/sunguosheng/Code/new_learning/C/" && gcc _45_库函数的使用.c -o _45_库函数的使用 && "/Users/sunguosheng/Code/new_learning/C/"_45_库函数的使用
+Undefined symbols for architecture x86_64:
+  "_main", referenced from:
+     implicit entry/start for main executable
+ld: symbol(s) not found for architecture x86_64
+clang: error: linker command failed with exit code 1 (use -v to see invocation)
+
+[Done] exited with code=1 in 0.085 seconds
+
+[Running] cd "/Users/sunguosheng/Code/new_learning/C/" && gcc _45_库函数的使用.c -o _45_库函数的使用 && "/Users/sunguosheng/Code/new_learning/C/"_45_库函数的使用
+Undefined symbols for architecture x86_64:
+  "_main", referenced from:
+     implicit entry/start for main executable
+ld: symbol(s) not found for architecture x86_64
+clang: error: linker command failed with exit code 1 (use -v to see invocation)
+
+[Done] exited with code=1 in 0.145 seconds
+
+[Running] cd "/Users/sunguosheng/Code/new_learning/C/" && gcc _46_大文件的拷贝.c -o _46_大文件的拷贝 && "/Users/sunguosheng/Code/new_learning/C/"_46_大文件的拷贝
+Undefined symbols for architecture x86_64:
+  "_main", referenced from:
+     implicit entry/start for main executable
+ld: symbol(s) not found for architecture x86_64
+clang: error: linker command failed with exit code 1 (use -v to see invocation)
+
+[Done] exited with code=1 in 0.623 seconds
+
+[Running] cd "/Users/sunguosheng/Code/new_learning/C/" && gcc _46_大文件的拷贝.c -o _46_大文件的拷贝 && "/Users/sunguosheng/Code/new_learning/C/"_46_大文件的拷贝
+Undefined symbols for architecture x86_64:
+  "_main", referenced from:
+     implicit entry/start for main executable
+ld: symbol(s) not found for architecture x86_64
+clang: error: linker command failed with exit code 1 (use -v to see invocation)
+
+[Done] exited with code=1 in 0.088 seconds
+
+[Running] cd "/Users/sunguosheng/Code/new_learning/C/" && gcc _46_大文件的拷贝.c -o _46_大文件的拷贝 && "/Users/sunguosheng/Code/new_learning/C/"_46_大文件的拷贝
+Undefined symbols for architecture x86_64:
+  "_main", referenced from:
+     implicit entry/start for main executable
+ld: symbol(s) not found for architecture x86_64
+clang: error: linker command failed with exit code 1 (use -v to see invocation)
+
+[Done] exited with code=1 in 0.086 seconds
+
+[Running] cd "/Users/sunguosheng/Code/new_learning/C/" && gcc _46_大文件的拷贝.c -o _46_大文件的拷贝 && "/Users/sunguosheng/Code/new_learning/C/"_46_大文件的拷贝
+Undefined symbols for architecture x86_64:
+  "_main", referenced from:
+     implicit entry/start for main executable
+ld: symbol(s) not found for architecture x86_64
+clang: error: linker command failed with exit code 1 (use -v to see invocation)
+
+[Done] exited with code=1 in 0.199 seconds
+
+[Running] cd "/Users/sunguosheng/Code/new_learning/C/" && gcc _46_大文件的拷贝.c -o _46_大文件的拷贝 && "/Users/sunguosheng/Code/new_learning/C/"_46_大文件的拷贝
+Undefined symbols for architecture x86_64:
+  "_main", referenced from:
+     implicit entry/start for main executable
+ld: symbol(s) not found for architecture x86_64
+clang: error: linker command failed with exit code 1 (use -v to see invocation)[Done] exited with code=1 in 0.827 seconds
+
+[Running] cd "/Users/sunguosheng/Code/new_learning/C/" && gcc _45_库函数的使用.c -o _45_库函数的使用 && "/Users/sunguosheng/Code/new_learning/C/"_45_库函数的使用
+Undefined symbols for architecture x86_64:
+  "_main", referenced from:
+     implicit entry/start for main executable
+ld: symbol(s) not found for architecture x86_64
+clang: error: linker command failed with exit code 1 (use -v to see invocation)
+
+[Done] exited with code=1 in 0.085 seconds
+
+[Running] cd "/Users/sunguosheng/Code/new_learning/C/" && gcc _45_库函数的使用.c -o _45_库函数的使用 && "/Users/sunguosheng/Code/new_learning/C/"_45_库函数的使用
+Undefined symbols for architecture x86_64:
+  "_main", referenced from:
+     implicit entry/start for main executable
+ld: symbol(s) not found for architecture x86_64
+clang: error: linker command failed with exit code 1 (use -v to see invocation)
+
+[Done] exited with code=1 in 0.145 seconds
+
+[Running] cd "/Users/sunguosheng/Code/new_learning/C/" && gcc _46_大文件的拷贝.c -o _46_大文件的拷贝 && "/Users/sunguosheng/Code/new_learning/C/"_46_大文件的拷贝
+Undefined symbols for architecture x86_64:
+  "_main", referenced from:
+     implicit entry/start for main executable
+ld: symbol(s) not found for architecture x86_64
+clang: error: linker command failed with exit code 1 (use -v to see invocation)
+
+[Done] exited with code=1 in 0.623 seconds
+
+[Running] cd "/Users/sunguosheng/Code/new_learning/C/" && gcc _46_大文件的拷贝.c -o _46_大文件的拷贝 && "/Users/sunguosheng/Code/new_learning/C/"_46_大文件的拷贝
+Undefined symbols for architecture x86_64:
+  "_main", referenced from:
+     implicit entry/start for main executable
+ld: symbol(s) not found for architecture x86_64
+clang: error: linker command failed with exit code 1 (use -v to see invocation)
+
+[Done] exited with code=1 in 0.088 seconds
+
+[Running] cd "/Users/sunguosheng/Code/new_learning/C/" && gcc _46_大文件的拷贝.c -o _46_大文件的拷贝 && "/Users/sunguosheng/Code/new_learning/C/"_46_大文件的拷贝
+Undefined symbols for architecture x86_64:
+  "_main", referenced from:
+     implicit entry/start for main executable
+ld: symbol(s) not found for architecture x86_64
+clang: error: linker command failed with exit code 1 (use -v to see invocation)
+
+[Done] exited with code=1 in 0.086 seconds
+
+[Running] cd "/Users/sunguosheng/Code/new_learning/C/" && gcc _46_大文件的拷贝.c -o _46_大文件的拷贝 && "/Users/sunguosheng/Code/new_learning/C/"_46_大文件的拷贝
+Undefined symbols for architecture x86_64:
+  "_main", referenced from:
+     implicit entry/start for main executable
+ld: symbol(s) not found for architecture x86_64
+clang: error: linker command failed with exit code 1 (use -v to see invocation)
+
+[Done] exited with code=1 in 0.199 seconds
+
+[Running] cd "/Users/sunguosheng/Code/new_learning/C/" && gcc _46_大文件的拷贝.c -o _46_大文件的拷贝 && "/Users/sunguosheng/Code/new_learning/C/"_46_大文件的拷贝
+Undefined symbols for architecture x86_64:
+  "_main", referenced from:
+     implicit entry/start for main executable
+ld: symbol(s) not found for architecture x86_64
+clang: error: linker command failed with exit code 1 (use -v to see invocation)[Done] exited with code=1 in 0.827 seconds
+
+[Running] cd "/Users/sunguosheng/Code/new_learning/C/" && gcc _45_库函数的使用.c -o _45_库函数的使用 && "/Users/sunguosheng/Code/new_learning/C/"_45_库函数的使用
+Undefined symbols for architecture x86_64:
+  "_main", referenced from:
+     implicit entry/start for main executable
+ld: symbol(s) not found for architecture x86_64
+clang: error: linker command failed with exit code 1 (use -v to see invocation)
+
+[Done] exited with code=1 in 0.085 seconds
+
+[Running] cd "/Users/sunguosheng/Code/new_learning/C/" && gcc _45_库函数的使用.c -o _45_库函数的使用 && "/Users/sunguosheng/Code/new_learning/C/"_45_库函数的使用
+Undefined symbols for architecture x86_64:
+  "_main", referenced from:
+     implicit entry/start for main executable
+ld: symbol(s) not found for architecture x86_64
+clang: error: linker command failed with exit code 1 (use -v to see invocation)
+
+[Done] exited with code=1 in 0.145 seconds
+
+[Running] cd "/Users/sunguosheng/Code/new_learning/C/" && gcc _46_大文件的拷贝.c -o _46_大文件的拷贝 && "/Users/sunguosheng/Code/new_learning/C/"_46_大文件的拷贝
+Undefined symbols for architecture x86_64:
+  "_main", referenced from:
+     implicit entry/start for main executable
+ld: symbol(s) not found for architecture x86_64
+clang: error: linker command failed with exit code 1 (use -v to see invocation)
+
+[Done] exited with code=1 in 0.623 seconds
+
+[Running] cd "/Users/sunguosheng/Code/new_learning/C/" && gcc _46_大文件的拷贝.c -o _46_大文件的拷贝 && "/Users/sunguosheng/Code/new_learning/C/"_46_大文件的拷贝
+Undefined symbols for architecture x86_64:
+  "_main", referenced from:
+     implicit entry/start for main executable
+ld: symbol(s) not found for architecture x86_64
+clang: error: linker command failed with exit code 1 (use -v to see invocation)
+
+[Done] exited with code=1 in 0.088 seconds
+
+[Running] cd "/Users/sunguosheng/Code/new_learning/C/" && gcc _46_大文件的拷贝.c -o _46_大文件的拷贝 && "/Users/sunguosheng/Code/new_learning/C/"_46_大文件的拷贝
+Undefined symbols for architecture x86_64:
+  "_main", referenced from:
+     implicit entry/start for main executable
+ld: symbol(s) not found for architecture x86_64
+clang: error: linker command failed with exit code 1 (use -v to see invocation)
+
+[Done] exited with code=1 in 0.086 seconds
+
+[Running] cd "/Users/sunguosheng/Code/new_learning/C/" && gcc _46_大文件的拷贝.c -o _46_大文件的拷贝 && "/Users/sunguosheng/Code/new_learning/C/"_46_大文件的拷贝
+Undefined symbols for architecture x86_64:
+  "_main", referenced from:
+     implicit entry/start for main executable
+ld: symbol(s) not found for architecture x86_64
+clang: error: linker command failed with exit code 1 (use -v to see invocation)
+
+[Done] exited with code=1 in 0.199 seconds
+
+[Running] cd "/Users/sunguosheng/Code/new_learning/C/" && gcc _46_大文件的拷贝.c -o _46_大文件的拷贝 && "/Users/sunguosheng/Code/new_learning/C/"_46_大文件的拷贝
+Undefined symbols for architecture x86_64:
+  "_main", referenced from:
+     implicit entry/start for main executable
+ld: symbol(s) not found for architecture x86_64
+clang: error: linker command failed with exit code 1 (use -v to see invocation)[Done] exited with code=1 in 0.827 seconds
+
+[Running] cd "/Users/sunguosheng/Code/new_learning/C/" && gcc _45_库函数的使用.c -o _45_库函数的使用 && "/Users/sunguosheng/Code/new_learning/C/"_45_库函数的使用
+Undefined symbols for architecture x86_64:
+  "_main", referenced from:
+     implicit entry/start for main executable
+ld: symbol(s) not found for architecture x86_64
+clang: error: linker command failed with exit code 1 (use -v to see invocation)
+
+[Done] exited with code=1 in 0.085 seconds
+
+[Running] cd "/Users/sunguosheng/Code/new_learning/C/" && gcc _45_库函数的使用.c -o _45_库函数的使用 && "/Users/sunguosheng/Code/new_learning/C/"_45_库函数的使用
+Undefined symbols for architecture x86_64:
+  "_main", referenced from:
+     implicit entry/start for main executable
+ld: symbol(s) not found for architecture x86_64
+clang: error: linker command failed with exit code 1 (use -v to see invocation)
+
+[Done] exited with code=1 in 0.145 seconds
+
+[Running] cd "/Users/sunguosheng/Code/new_learning/C/" && gcc _46_大文件的拷贝.c -o _46_大文件的拷贝 && "/Users/sunguosheng/Code/new_learning/C/"_46_大文件的拷贝
+Undefined symbols for architecture x86_64:
+  "_main", referenced from:
+     implicit entry/start for main executable
+ld: symbol(s) not found for architecture x86_64
+clang: error: linker command failed with exit code 1 (use -v to see invocation)
+
+[Done] exited with code=1 in 0.623 seconds
+
+[Running] cd "/Users/sunguosheng/Code/new_learning/C/" && gcc _46_大文件的拷贝.c -o _46_大文件的拷贝 && "/Users/sunguosheng/Code/new_learning/C/"_46_大文件的拷贝
+Undefined symbols for architecture x86_64:
+  "_main", referenced from:
+     implicit entry/start for main executable
+ld: symbol(s) not found for architecture x86_64
+clang: error: linker command failed with exit code 1 (use -v to see invocation)
+
+[Done] exited with code=1 in 0.088 seconds
+
+[Running] cd "/Users/sunguosheng/Code/new_learning/C/" && gcc _46_大文件的拷贝.c -o _46_大文件的拷贝 && "/Users/sunguosheng/Code/new_learning/C/"_46_大文件的拷贝
+Undefined symbols for architecture x86_64:
+  "_main", referenced from:
+     implicit entry/start for main executable
+ld: symbol(s) not found for architecture x86_64
+clang: error: linker command failed with exit code 1 (use -v to see invocation)
+
+[Done] exited with code=1 in 0.086 seconds
+
+[Running] cd "/Users/sunguosheng/Code/new_learning/C/" && gcc _46_大文件的拷贝.c -o _46_大文件的拷贝 && "/Users/sunguosheng/Code/new_learning/C/"_46_大文件的拷贝
+Undefined symbols for architecture x86_64:
+  "_main", referenced from:
+     implicit entry/start for main executable
+ld: symbol(s) not found for architecture x86_64
+clang: error: linker command failed with exit code 1 (use -v to see invocation)
+
+[Done] exited with code=1 in 0.199 seconds
+
+[Running] cd "/Users/sunguosheng/Code/new_learning/C/" && gcc _46_大文件的拷贝.c -o _46_大文件的拷贝 && "/Users/sunguosheng/Code/new_learning/C/"_46_大文件的拷贝
+Undefined symbols for architecture x86_64:
+  "_main", referenced from:
+     implicit entry/start for main executable
+ld: symbol(s) not found for architecture x86_64
+clang: error: linker command failed with exit code 1 (use -v to see invocation)[Done] exited with code=1 in 0.827 seconds
+
+[Running] cd "/Users/sunguosheng/Code/new_learning/C/" && gcc _45_库函数的使用.c -o _45_库函数的使用 && "/Users/sunguosheng/Code/new_learning/C/"_45_库函数的使用
+Undefined symbols for architecture x86_64:
+  "_main", referenced from:
+     implicit entry/start for main executable
+ld: symbol(s) not found for architecture x86_64
+clang: error: linker command failed with exit code 1 (use -v to see invocation)
+
+[Done] exited with code=1 in 0.085 seconds
+
+[Running] cd "/Users/sunguosheng/Code/new_learning/C/" && gcc _45_库函数的使用.c -o _45_库函数的使用 && "/Users/sunguosheng/Code/new_learning/C/"_45_库函数的使用
+Undefined symbols for architecture x86_64:
+  "_main", referenced from:
+     implicit entry/start for main executable
+ld: symbol(s) not found for architecture x86_64
+clang: error: linker command failed with exit code 1 (use -v to see invocation)
+
+[Done] exited with code=1 in 0.145 seconds
+
+[Running] cd "/Users/sunguosheng/Code/new_learning/C/" && gcc _46_大文件的拷贝.c -o _46_大文件的拷贝 && "/Users/sunguosheng/Code/new_learning/C/"_46_大文件的拷贝
+Undefined symbols for architecture x86_64:
+  "_main", referenced from:
+     implicit entry/start for main executable
+ld: symbol(s) not found for architecture x86_64
+clang: error: linker command failed with exit code 1 (use -v to see invocation)
+
+[Done] exited with code=1 in 0.623 seconds
+
+[Running] cd "/Users/sunguosheng/Code/new_learning/C/" && gcc _46_大文件的拷贝.c -o _46_大文件的拷贝 && "/Users/sunguosheng/Code/new_learning/C/"_46_大文件的拷贝
+Undefined symbols for architecture x86_64:
+  "_main", referenced from:
+     implicit entry/start for main executable
+ld: symbol(s) not found for architecture x86_64
+clang: error: linker command failed with exit code 1 (use -v to see invocation)
+
+[Done] exited with code=1 in 0.088 seconds
+
+[Running] cd "/Users/sunguosheng/Code/new_learning/C/" && gcc _46_大文件的拷贝.c -o _46_大文件的拷贝 && "/Users/sunguosheng/Code/new_learning/C/"_46_大文件的拷贝
+Undefined symbols for architecture x86_64:
+  "_main", referenced from:
+     implicit entry/start for main executable
+ld: symbol(s) not found for architecture x86_64
+clang: error: linker command failed with exit code 1 (use -v to see invocation)
+
+[Done] exited with code=1 in 0.086 seconds
+
+[Running] cd "/Users/sunguosheng/Code/new_learning/C/" && gcc _46_大文件的拷贝.c -o _46_大文件的拷贝 && "/Users/sunguosheng/Code/new_learning/C/"_46_大文件的拷贝
+Undefined symbols for architecture x86_64:
+  "_main", referenced from:
+     implicit entry/start for main executable
+ld: symbol(s) not found for architecture x86_64
+clang: error: linker command failed with exit code 1 (use -v to see invocation)
+
+[Done] exited with code=1 in 0.199 seconds
+
+[Running] cd "/Users/sunguosheng/Code/new_learning/C/" && gcc _46_大文件的拷贝.c -o _46_大文件的拷贝 && "/Users/sunguosheng/Code/new_learning/C/"_46_大文件的拷贝
+Undefined symbols for architecture x86_64:
+  "_main", referenced from:
+     implicit entry/start for main executable
+ld: symbol(s) not found for architecture x86_64
+clang: error: linker command failed with exit code 1 (use -v to see invocation)[Done] exited with code=1 in 0.827 seconds
+
+[Running] cd "/Users/sunguosheng/Code/new_learning/C/" && gcc _45_库函数的使用.c -o _45_库函数的使用 && "/Users/sunguosheng/Code/new_learning/C/"_45_库函数的使用
+Undefined symbols for architecture x86_64:
+  "_main", referenced from:
+     implicit entry/start for main executable
+ld: symbol(s) not found for architecture x86_64
+clang: error: linker command failed with exit code 1 (use -v to see invocation)
+
+[Done] exited with code=1 in 0.085 seconds
+
+[Running] cd "/Users/sunguosheng/Code/new_learning/C/" && gcc _45_库函数的使用.c -o _45_库函数的使用 && "/Users/sunguosheng/Code/new_learning/C/"_45_库函数的使用
+Undefined symbols for architecture x86_64:
+  "_main", referenced from:
+     implicit entry/start for main executable
+ld: symbol(s) not found for architecture x86_64
+clang: error: linker command failed with exit code 1 (use -v to see invocation)
+
+[Done] exited with code=1 in 0.145 seconds
+
+[Running] cd "/Users/sunguosheng/Code/new_learning/C/" && gcc _46_大文件的拷贝.c -o _46_大文件的拷贝 && "/Users/sunguosheng/Code/new_learning/C/"_46_大文件的拷贝
+Undefined symbols for architecture x86_64:
+  "_main", referenced from:
+     implicit entry/start for main executable
+ld: symbol(s) not found for architecture x86_64
+clang: error: linker command failed with exit code 1 (use -v to see invocation)
+
+[Done] exited with code=1 in 0.623 seconds
+
+[Running] cd "/Users/sunguosheng/Code/new_learning/C/" && gcc _46_大文件的拷贝.c -o _46_大文件的拷贝 && "/Users/sunguosheng/Code/new_learning/C/"_46_大文件的拷贝
+Undefined symbols for architecture x86_64:
+  "_main", referenced from:
+     implicit entry/start for main executable
+ld: symbol(s) not found for architecture x86_64
+clang: error: linker command failed with exit code 1 (use -v to see invocation)
+
+[Done] exited with code=1 in 0.088 seconds
+
+[Running] cd "/Users/sunguosheng/Code/new_learning/C/" && gcc _46_大文件的拷贝.c -o _46_大文件的拷贝 && "/Users/sunguosheng/Code/new_learning/C/"_46_大文件的拷贝
+Undefined symbols for architecture x86_64:
+  "_main", referenced from:
+     implicit entry/start for main executable
+ld: symbol(s) not found for architecture x86_64
+clang: error: linker command failed with exit code 1 (use -v to see invocation)
+
+[Done] exited with code=1 in 0.086 seconds
+
+[Running] cd "/Users/sunguosheng/Code/new_learning/C/" && gcc _46_大文件的拷贝.c -o _46_大文件的拷贝 && "/Users/sunguosheng/Code/new_learning/C/"_46_大文件的拷贝
+Undefined symbols for architecture x86_64:
+  "_main", referenced from:
+     implicit entry/start for main executable
+ld: symbol(s) not found for architecture x86_64
+clang: error: linker command failed with exit code 1 (use -v to see invocation)
+
+[Done] exited with code=1 in 0.199 seconds
+
+[Running] cd "/Users/sunguosheng/Code/new_learning/C/" && gcc _46_大文件的拷贝.c -o _46_大文件的拷贝 && "/Users/sunguosheng/Code/new_learning/C/"_46_大文件的拷贝
+Undefined symbols for architecture x86_64:
+  "_main", referenced from:
+     implicit entry/start for main executable
+ld: symbol(s) not found for architecture x86_64
+clang: error: linker command failed with exit code 1 (use -v to see invocation)[Done] exited with code=1 in 0.827 seconds
+
+[Running] cd "/Users/sunguosheng/Code/new_learning/C/" && gcc _45_库函数的使用.c -o _45_库函数的使用 && "/Users/sunguosheng/Code/new_learning/C/"_45_库函数的使用
+Undefined symbols for architecture x86_64:
+  "_main", referenced from:
+     implicit entry/start for main executable
+ld: symbol(s) not found for architecture x86_64
+clang: error: linker command failed with exit code 1 (use -v to see invocation)
+
+[Done] exited with code=1 in 0.085 seconds
+
+[Running] cd "/Users/sunguosheng/Code/new_learning/C/" && gcc _45_库函数的使用.c -o _45_库函数的使用 && "/Users/sunguosheng/Code/new_learning/C/"_45_库函数的使用
+Undefined symbols for architecture x86_64:
+  "_main", referenced from:
+     implicit entry/start for main executable
+ld: symbol(s) not found for architecture x86_64
+clang: error: linker command failed with exit code 1 (use -v to see invocation)
+
+[Done] exited with code=1 in 0.145 seconds
+
+[Running] cd "/Users/sunguosheng/Code/new_learning/C/" && gcc _46_大文件的拷贝.c -o _46_大文件的拷贝 && "/Users/sunguosheng/Code/new_learning/C/"_46_大文件的拷贝
+Undefined symbols for architecture x86_64:
+  "_main", referenced from:
+     implicit entry/start for main executable
+ld: symbol(s) not found for architecture x86_64
+clang: error: linker command failed with exit code 1 (use -v to see invocation)
+
+[Done] exited with code=1 in 0.623 seconds
+
+[Running] cd "/Users/sunguosheng/Code/new_learning/C/" && gcc _46_大文件的拷贝.c -o _46_大文件的拷贝 && "/Users/sunguosheng/Code/new_learning/C/"_46_大文件的拷贝
+Undefined symbols for architecture x86_64:
+  "_main", referenced from:
+     implicit entry/start for main executable
+ld: symbol(s) not found for architecture x86_64
+clang: error: linker command failed with exit code 1 (use -v to see invocation)
+
+[Done] exited with code=1 in 0.088 seconds
+
+[Running] cd "/Users/sunguosheng/Code/new_learning/C/" && gcc _46_大文件的拷贝.c -o _46_大文件的拷贝 && "/Users/sunguosheng/Code/new_learning/C/"_46_大文件的拷贝
+Undefined symbols for architecture x86_64:
+  "_main", referenced from:
+     implicit entry/start for main executable
+ld: symbol(s) not found for architecture x86_64
+clang: error: linker command failed with exit code 1 (use -v to see invocation)
+
+[Done] exited with code=1 in 0.086 seconds
+
+[Running] cd "/Users/sunguosheng/Code/new_learning/C/" && gcc _46_大文件的拷贝.c -o _46_大文件的拷贝 && "/Users/sunguosheng/Code/new_learning/C/"_46_大文件的拷贝
+Undefined symbols for architecture x86_64:
+  "_main", referenced from:
+     implicit entry/start for main executable
+ld: symbol(s) not found for architecture x86_64
+clang: error: linker command failed with exit code 1 (use -v to see invocation)
+
+[Done] exited with code=1 in 0.199 seconds
+
+[Running] cd "/Users/sunguosheng/Code/new_learning/C/" && gcc _46_大文件的拷贝.c -o _46_大文件的拷贝 && "/Users/sunguosheng/Code/new_learning/C/"_46_大文件的拷贝
+Undefined symbols for architecture x86_64:
+  "_main", referenced from:
+     implicit entry/start for main executable
+ld: symbol(s) not found for architecture x86_64
+clang: error: linker command failed with exit code 1 (use -v to see invocation)[Done] exited with code=1 in 0.827 seconds
+
+[Running] cd "/Users/sunguosheng/Code/new_learning/C/" && gcc _45_库函数的使用.c -o _45_库函数的使用 && "/Users/sunguosheng/Code/new_learning/C/"_45_库函数的使用
+Undefined symbols for architecture x86_64:
+  "_main", referenced from:
+     implicit entry/start for main executable
+ld: symbol(s) not found for architecture x86_64
+clang: error: linker command failed with exit code 1 (use -v to see invocation)
+
+[Done] exited with code=1 in 0.085 seconds
+
+[Running] cd "/Users/sunguosheng/Code/new_learning/C/" && gcc _45_库函数的使用.c -o _45_库函数的使用 && "/Users/sunguosheng/Code/new_learning/C/"_45_库函数的使用
+Undefined symbols for architecture x86_64:
+  "_main", referenced from:
+     implicit entry/start for main executable
+ld: symbol(s) not found for architecture x86_64
+clang: error: linker command failed with exit code 1 (use -v to see invocation)
+
+[Done] exited with code=1 in 0.145 seconds
+
+[Running] cd "/Users/sunguosheng/Code/new_learning/C/" && gcc _46_大文件的拷贝.c -o _46_大文件的拷贝 && "/Users/sunguosheng/Code/new_learning/C/"_46_大文件的拷贝
+Undefined symbols for architecture x86_64:
+  "_main", referenced from:
+     implicit entry/start for main executable
+ld: symbol(s) not found for architecture x86_64
+clang: error: linker command failed with exit code 1 (use -v to see invocation)
+
+[Done] exited with code=1 in 0.623 seconds
+
+[Running] cd "/Users/sunguosheng/Code/new_learning/C/" && gcc _46_大文件的拷贝.c -o _46_大文件的拷贝 && "/Users/sunguosheng/Code/new_learning/C/"_46_大文件的拷贝
+Undefined symbols for architecture x86_64:
+  "_main", referenced from:
+     implicit entry/start for main executable
+ld: symbol(s) not found for architecture x86_64
+clang: error: linker command failed with exit code 1 (use -v to see invocation)
+
+[Done] exited with code=1 in 0.088 seconds
+
+[Running] cd "/Users/sunguosheng/Code/new_learning/C/" && gcc _46_大文件的拷贝.c -o _46_大文件的拷贝 && "/Users/sunguosheng/Code/new_learning/C/"_46_大文件的拷贝
+Undefined symbols for architecture x86_64:
+  "_main", referenced from:
+     implicit entry/start for main executable
+ld: symbol(s) not found for architecture x86_64
+clang: error: linker command failed with exit code 1 (use -v to see invocation)
+
+[Done] exited with code=1 in 0.086 seconds
+
+[Running] cd "/Users/sunguosheng/Code/new_learning/C/" && gcc _46_大文件的拷贝.c -o _46_大文件的拷贝 && "/Users/sunguosheng/Code/new_learning/C/"_46_大文件的拷贝
+Undefined symbols for architecture x86_64:
+  "_main", referenced from:
+     implicit entry/start for main executable
+ld: symbol(s) not found for architecture x86_64
+clang: error: linker command failed with exit code 1 (use -v to see invocation)
+
+[Done] exited with code=1 in 0.199 seconds
+
+[Running] cd "/Users/sunguosheng/Code/new_learning/C/" && gcc _46_大文件的拷贝.c -o _46_大文件的拷贝 && "/Users/sunguosheng/Code/new_learning/C/"_46_大文件的拷贝
+Undefined symbols for architecture x86_64:
+  "_main", referenced from:
+     implicit entry/start for main executable
+ld: symbol(s) not found for architecture x86_64
+clang: error: linker command failed with exit code 1 (use -v to see invocation)[Done] exited with code=1 in 0.827 seconds
+
+[Running] cd "/Users/sunguosheng/Code/new_learning/C/" && gcc _45_库函数的使用.c -o _45_库函数的使用 && "/Users/sunguosheng/Code/new_learning/C/"_45_库函数的使用
+Undefined symbols for architecture x86_64:
+  "_main", referenced from:
+     implicit entry/start for main executable
+ld: symbol(s) not found for architecture x86_64
+clang: error: linker command failed with exit code 1 (use -v to see invocation)
+
+[Done] exited with code=1 in 0.085 seconds
+
+[Running] cd "/Users/sunguosheng/Code/new_learning/C/" && gcc _45_库函数的使用.c -o _45_库函数的使用 && "/Users/sunguosheng/Code/new_learning/C/"_45_库函数的使用
+Undefined symbols for architecture x86_64:
+  "_main", referenced from:
+     implicit entry/start for main executable
+ld: symbol(s) not found for architecture x86_64
+clang: error: linker command failed with exit code 1 (use -v to see invocation)
+
+[Done] exited with code=1 in 0.145 seconds
+
+[Running] cd "/Users/sunguosheng/Code/new_learning/C/" && gcc _46_大文件的拷贝.c -o _46_大文件的拷贝 && "/Users/sunguosheng/Code/new_learning/C/"_46_大文件的拷贝
+Undefined symbols for architecture x86_64:
+  "_main", referenced from:
+     implicit entry/start for main executable
+ld: symbol(s) not found for architecture x86_64
+clang: error: linker command failed with exit code 1 (use -v to see invocation)
+
+[Done] exited with code=1 in 0.623 seconds
+
+[Running] cd "/Users/sunguosheng/Code/new_learning/C/" && gcc _46_大文件的拷贝.c -o _46_大文件的拷贝 && "/Users/sunguosheng/Code/new_learning/C/"_46_大文件的拷贝
+Undefined symbols for architecture x86_64:
+  "_main", referenced from:
+     implicit entry/start for main executable
+ld: symbol(s) not found for architecture x86_64
+clang: error: linker command failed with exit code 1 (use -v to see invocation)
+
+[Done] exited with code=1 in 0.088 seconds
+
+[Running] cd "/Users/sunguosheng/Code/new_learning/C/" && gcc _46_大文件的拷贝.c -o _46_大文件的拷贝 && "/Users/sunguosheng/Code/new_learning/C/"_46_大文件的拷贝
+Undefined symbols for architecture x86_64:
+  "_main", referenced from:
+     implicit entry/start for main executable
+ld: symbol(s) not found for architecture x86_64
+clang: error: linker command failed with exit code 1 (use -v to see invocation)
+
+[Done] exited with code=1 in 0.086 seconds
+
+[Running] cd "/Users/sunguosheng/Code/new_learning/C/" && gcc _46_大文件的拷贝.c -o _46_大文件的拷贝 && "/Users/sunguosheng/Code/new_learning/C/"_46_大文件的拷贝
+Undefined symbols for architecture x86_64:
+  "_main", referenced from:
+     implicit entry/start for main executable
+ld: symbol(s) not found for architecture x86_64
+clang: error: linker command failed with exit code 1 (use -v to see invocation)
+
+[Done] exited with code=1 in 0.199 seconds
+
+[Running] cd "/Users/sunguosheng/Code/new_learning/C/" && gcc _46_大文件的拷贝.c -o _46_大文件的拷贝 && "/Users/sunguosheng/Code/new_learning/C/"_46_大文件的拷贝
+Undefined symbols for architecture x86_64:
+  "_main", referenced from:
+     implicit entry/start for main executable
+ld: symbol(s) not found for architecture x86_64
+clang: error: linker command failed with exit code 1 (use -v to see invocation)[Done] exited with code=1 in 0.827 seconds
+
+[Running] cd "/Users/sunguosheng/Code/new_learning/C/" && gcc _45_库函数的使用.c -o _45_库函数的使用 && "/Users/sunguosheng/Code/new_learning/C/"_45_库函数的使用
+Undefined symbols for architecture x86_64:
+  "_main", referenced from:
+     implicit entry/start for main executable
+ld: symbol(s) not found for architecture x86_64
+clang: error: linker command failed with exit code 1 (use -v to see invocation)
+
+[Done] exited with code=1 in 0.085 seconds
+
+[Running] cd "/Users/sunguosheng/Code/new_learning/C/" && gcc _45_库函数的使用.c -o _45_库函数的使用 && "/Users/sunguosheng/Code/new_learning/C/"_45_库函数的使用
+Undefined symbols for architecture x86_64:
+  "_main", referenced from:
+     implicit entry/start for main executable
+ld: symbol(s) not found for architecture x86_64
+clang: error: linker command failed with exit code 1 (use -v to see invocation)
+
+[Done] exited with code=1 in 0.145 seconds
+
+[Running] cd "/Users/sunguosheng/Code/new_learning/C/" && gcc _46_大文件的拷贝.c -o _46_大文件的拷贝 && "/Users/sunguosheng/Code/new_learning/C/"_46_大文件的拷贝
+Undefined symbols for architecture x86_64:
+  "_main", referenced from:
+     implicit entry/start for main executable
+ld: symbol(s) not found for architecture x86_64
+clang: error: linker command failed with exit code 1 (use -v to see invocation)
+
+[Done] exited with code=1 in 0.623 seconds
+
+[Running] cd "/Users/sunguosheng/Code/new_learning/C/" && gcc _46_大文件的拷贝.c -o _46_大文件的拷贝 && "/Users/sunguosheng/Code/new_learning/C/"_46_大文件的拷贝
+Undefined symbols for architecture x86_64:
+  "_main", referenced from:
+     implicit entry/start for main executable
+ld: symbol(s) not found for architecture x86_64
+clang: error: linker command failed with exit code 1 (use -v to see invocation)
+
+[Done] exited with code=1 in 0.088 seconds
+
+[Running] cd "/Users/sunguosheng/Code/new_learning/C/" && gcc _46_大文件的拷贝.c -o _46_大文件的拷贝 && "/Users/sunguosheng/Code/new_learning/C/"_46_大文件的拷贝
+Undefined symbols for architecture x86_64:
+  "_main", referenced from:
+     implicit entry/start for main executable
+ld: symbol(s) not found for architecture x86_64
+clang: error: linker command failed with exit code 1 (use -v to see invocation)
+
+[Done] exited with code=1 in 0.086 seconds
+
+[Running] cd "/Users/sunguosheng/Code/new_learning/C/" && gcc _46_大文件的拷贝.c -o _46_大文件的拷贝 && "/Users/sunguosheng/Code/new_learning/C/"_46_大文件的拷贝
+Undefined symbols for architecture x86_64:
+  "_main", referenced from:
+     implicit entry/start for main executable
+ld: symbol(s) not found for architecture x86_64
+clang: error: linker command failed with exit code 1 (use -v to see invocation)
+
+[Done] exited with code=1 in 0.199 seconds
+
+[Running] cd "/Users/sunguosheng/Code/new_learning/C/" && gcc _46_大文件的拷贝.c -o _46_大文件的拷贝 && "/Users/sunguosheng/Code/new_learning/C/"_46_大文件的拷贝
+Undefined symbols for architecture x86_64:
+  "_main", referenced from:
+     implicit entry/start for main executable
+ld: symbol(s) not found for architecture x86_64
+clang: error: linker command failed with exit code 1 (use -v to see invocation)[Done] exited with code=1 in 0.827 seconds
+
+[Running] cd "/Users/sunguosheng/Code/new_learning/C/" && gcc _45_库函数的使用.c -o _45_库函数的使用 && "/Users/sunguosheng/Code/new_learning/C/"_45_库函数的使用
+Undefined symbols for architecture x86_64:
+  "_main", referenced from:
+     implicit entry/start for main executable
+ld: symbol(s) not found for architecture x86_64
+clang: error: linker command failed with exit code 1 (use -v to see invocation)
+
+[Done] exited with code=1 in 0.085 seconds
+
+[Running] cd "/Users/sunguosheng/Code/new_learning/C/" && gcc _45_库函数的使用.c -o _45_库函数的使用 && "/Users/sunguosheng/Code/new_learning/C/"_45_库函数的使用
+Undefined symbols for architecture x86_64:
+  "_main", referenced from:
+     implicit entry/start for main executable
+ld: symbol(s) not found for architecture x86_64
+clang: error: linker command failed with exit code 1 (use -v to see invocation)
+
+[Done] exited with code=1 in 0.145 seconds
+
+[Running] cd "/Users/sunguosheng/Code/new_learning/C/" && gcc _46_大文件的拷贝.c -o _46_大文件的拷贝 && "/Users/sunguosheng/Code/new_learning/C/"_46_大文件的拷贝
+Undefined symbols for architecture x86_64:
+  "_main", referenced from:
+     implicit entry/start for main executable
+ld: symbol(s) not found for architecture x86_64
+clang: error: linker command failed with exit code 1 (use -v to see invocation)
+
+[Done] exited with code=1 in 0.623 seconds
+
+[Running] cd "/Users/sunguosheng/Code/new_learning/C/" && gcc _46_大文件的拷贝.c -o _46_大文件的拷贝 && "/Users/sunguosheng/Code/new_learning/C/"_46_大文件的拷贝
+Undefined symbols for architecture x86_64:
+  "_main", referenced from:
+     implicit entry/start for main executable
+ld: symbol(s) not found for architecture x86_64
+clang: error: linker command failed with exit code 1 (use -v to see invocation)
+
+[Done] exited with code=1 in 0.088 seconds
+
+[Running] cd "/Users/sunguosheng/Code/new_learning/C/" && gcc _46_大文件的拷贝.c -o _46_大文件的拷贝 && "/Users/sunguosheng/Code/new_learning/C/"_46_大文件的拷贝
+Undefined symbols for architecture x86_64:
+  "_main", referenced from:
+     implicit entry/start for main executable
+ld: symbol(s) not found for architecture x86_64
+clang: error: linker command failed with exit code 1 (use -v to see invocation)
+
+[Done] exited with code=1 in 0.086 seconds
+
+[Running] cd "/Users/sunguosheng/Code/new_learning/C/" && gcc _46_大文件的拷贝.c -o _46_大文件的拷贝 && "/Users/sunguosheng/Code/new_learning/C/"_46_大文件的拷贝
+Undefined symbols for architecture x86_64:
+  "_main", referenced from:
+     implicit entry/start for main executable
+ld: symbol(s) not found for architecture x86_64
+clang: error: linker command failed with exit code 1 (use -v to see invocation)
+
+[Done] exited with code=1 in 0.199 seconds
+
+[Running] cd "/Users/sunguosheng/Code/new_learning/C/" && gcc _46_大文件的拷贝.c -o _46_大文件的拷贝 && "/Users/sunguosheng/Code/new_learning/C/"_46_大文件的拷贝
+Undefined symbols for architecture x86_64:
+  "_main", referenced from:
+     implicit entry/start for main executable
+ld: symbol(s) not found for architecture x86_64
+clang: error: linker command failed with exit code 1 (use -v to see invocation)
+hello ,world加油 骚年！

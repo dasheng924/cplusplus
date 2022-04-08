@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/sunguosheng/CLionProjects/multimap案列/main.cpp
+iostream
+-
+string
+-
+vector
+-
+ctime
+-
+cstdlib
+-
+map
+-
+

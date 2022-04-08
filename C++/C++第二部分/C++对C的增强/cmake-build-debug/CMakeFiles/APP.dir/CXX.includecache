@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/sunguosheng/CLionProjects/C++对C的增强/MyString.h
+iostream
+-
+
+/Users/sunguosheng/CLionProjects/C++对C的增强/main.cpp
+MyString.h
+/Users/sunguosheng/CLionProjects/C++对C的增强/MyString.h
+

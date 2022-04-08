@@ -1,0 +1,1 @@
+/Library/Developer/CommandLineTools/usr/bin/c++  -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX11.3.sdk -mmacosx-version-min=10.16 -Wl,-search_paths_first -Wl,-headerpad_max_install_names  CMakeFiles/game.dir/main.cpp.o CMakeFiles/game.dir/knife.cpp.o CMakeFiles/game.dir/DragonSword.cpp.o CMakeFiles/game.dir/Hero.cpp.o CMakeFiles/game.dir/Monster.cpp.o  -o game 

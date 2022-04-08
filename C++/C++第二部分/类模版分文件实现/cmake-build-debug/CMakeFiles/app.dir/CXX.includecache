@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/sunguosheng/CLionProjects/类模版分文件实现/Person.hpp
+__bit_reference
+-
+iostream
+-
+string
+-
+
+/Users/sunguosheng/CLionProjects/类模版分文件实现/main.cpp
+Person.hpp
+/Users/sunguosheng/CLionProjects/类模版分文件实现/Person.hpp
+

@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/sunguosheng/CLionProjects/常用数生成算法和集合/main.cpp
+iostream
+-
+vector
+-
+algorithm
+-
+iterator
+-
+functional
+-
+numeric
+-
+set
+-
+

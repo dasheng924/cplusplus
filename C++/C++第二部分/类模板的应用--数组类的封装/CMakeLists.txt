@@ -1,0 +1,7 @@
+cmake_minimum_required(VERSION 3.17)
+project(app)
+
+set(CMAKE_CXX_STANDARD 11)
+
+add_executable(app main.cpp MyArray.hpp)
+add_executable(app1 myOutOfrangeException.cpp)

@@ -1,0 +1,4 @@
+/Applications/CLion.app/Contents/bin/cmake/mac/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /Users/sunguosheng/CLionProjects/C++对C的增强
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /Users/sunguosheng/CLionProjects/C++对C的增强/cmake-build-debug
