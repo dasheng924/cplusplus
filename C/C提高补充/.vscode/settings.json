@@ -2,6 +2,8 @@
     "C_Cpp.errorSquiggles": "Disabled",
     "files.associations": {
         "内存四区的引入-堆区": "c",
-        "ratio": "c"
+        "ratio": "c",
+        "__config": "cpp",
+        "cstring": "cpp"
     }
 }
